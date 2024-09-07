@@ -93,6 +93,10 @@ function parseShortNames(names, theme = 'dark') {
 async function handleRequest(request) {
   const { pathname, searchParams } = new URL(request.url);
 
+  if (pathname === '/favicon.ico') {
+    return new Response('', { status: 204 });
+  }
+
   const path = pathname.replace(/^\/|\/$/g, '');
 
   if (path === 'icons') {
