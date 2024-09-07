@@ -143,3 +143,16 @@ async function handleRequest(request) {
     return fetch(request);
   }
 };
+
+module.exports = (request, response) => {
+  handleRequest(request).then(
+    result => {
+      response.statusCode = 200;
+      response.setHeader('Content-Type', 'image/svg+xml');
+      response.end(result);
+    }
+  ).catch(error => {
+    response.statusCode = 500;
+    response.end(error.stack);
+  });
+};
