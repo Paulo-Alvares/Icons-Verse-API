@@ -91,7 +91,8 @@ function parseShortNames(names, theme = 'dark') {
 }
 
 async function handleRequest(request) {
-  const { pathname, searchParams } = new URL(request.url);
+  const url = new URL(request.url, `https://${request.headers.host}`);
+  const { pathname, searchParams } = url;
 
   if (pathname === '/favicon.ico') {
     return new Response('', { status: 204 });
@@ -142,7 +143,8 @@ async function handleRequest(request) {
   } else {
     return fetch(request);
   }
-};
+}
+
 
 module.exports = (request, response) => {
   handleRequest(request).then(
