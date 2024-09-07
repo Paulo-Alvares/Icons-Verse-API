@@ -1,9 +1,27 @@
 {
-  "trailingSlash": false,
-  "rewrites": [
+  "version": 2,
+  "builds": [
     {
-      "source": "/api(.*)",
-      "destination": "/api/index.js"
+      "src": "index.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/icons",
+      "dest": "/index.js"
+    },
+    {
+      "src": "/api/icons",
+      "dest": "/index.js"
+    },
+    {
+      "src": "/api/svgs",
+      "dest": "/index.js"
+    },
+    {
+      "src": "/favicon.ico",
+      "dest": "/index.js"
     }
   ]
 }
