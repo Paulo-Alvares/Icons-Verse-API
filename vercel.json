@@ -2,26 +2,30 @@
   "version": 2,
   "builds": [
     {
-      "src": "index.js",
+      "src": "api/index.js",
       "use": "@vercel/node"
     }
   ],
   "routes": [
     {
       "src": "/icons",
-      "dest": "/index.js"
+      "dest": "/api/index.js"
     },
     {
       "src": "/api/icons",
-      "dest": "/index.js"
+      "dest": "/api/index.js"
     },
     {
       "src": "/api/svgs",
-      "dest": "/index.js"
+      "dest": "/api/index.js"
     },
     {
       "src": "/favicon.ico",
-      "dest": "/index.js"
+      "dest": "/api/index.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/public/index.html"
     }
   ]
 }
