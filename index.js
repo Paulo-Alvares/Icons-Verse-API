@@ -43,6 +43,7 @@ const shortNames = {
   ghactions: 'githubactions',
   sklearn: 'scikitlearn',
 };
+
 const themedIcons = [
   ...Object.keys(icons)
     .filter(i => i.includes('-light') || i.includes('-dark'))
@@ -79,14 +80,14 @@ function generateSvg(iconNames, perLine) {
   `;
 }
 
-function parseShortNames(names, theme = 'dark') {
+function parseShortNames(names, theme = '') {
   return names.map(name => {
     if (iconNameList.includes(name))
-      return name + (themedIcons.includes(name) ? `-${theme}` : '');
+      return name + (themedIcons.includes(name) && theme ? `-${theme}` : '');
     else if (name in shortNames)
       return (
         shortNames[name] +
-        (themedIcons.includes(shortNames[name]) ? `-${theme}` : '')
+        (themedIcons.includes(shortNames[name]) && theme ? `-${theme}` : '')
       );
   });
 }
@@ -103,7 +104,9 @@ app.get('/icons', (req, res) => {
 
   const perLine = req.query.perline || ICONS_PER_LINE;
   if (isNaN(perLine) || perLine < -1 || perLine > 50)
-    return res.status(400).send('Icons per line must be a number between 1 and 50');
+    return res
+      .status(400)
+      .send('Icons per line must be a number between 1 and 50');
 
   let iconShortNames = [];
   if (iconParam === 'all') iconShortNames = iconNameList;
