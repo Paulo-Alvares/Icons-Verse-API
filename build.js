@@ -1,11 +1,12 @@
 const fs = require('fs');
+const iconsDirectory = fs.readdirSync('./icons');
+const iconsFile = {};
 
-const iconsDir = fs.readdirSync('./icons');
-const icons = {};
-for (const icon of iconsDir) {
+for (const icon of iconsDirectory) {
   const name = icon.replace('.svg', '').toLowerCase();
-  icons[name] = String(fs.readFileSync(`./icons/${icon}`));
+  iconsFile[name] = String(fs.readFileSync(`./icons/${icon}`));
 }
 
 if (!fs.existsSync('./dist')) fs.mkdirSync('./dist');
-fs.writeFileSync('./dist/icons.json', JSON.stringify(icons));
+
+fs.writeFileSync('./dist/icons.json', JSON.stringify(iconsFile));
