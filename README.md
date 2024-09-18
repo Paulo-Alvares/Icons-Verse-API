@@ -182,6 +182,20 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `vercel` | <img src="./icons/Vercel.svg" width="48"> | <img src="./icons/Vercel-Dark.svg" width="48"> | <img src="./icons/Vercel-Light.svg" width="48"> |
 | `workers` | <img src="./icons/Workers.svg" width="48"> | <img src="./icons/Workers-Dark.svg" width="48"> | <img src="./icons/Workers-Light.svg" width="48"> |
 
+
+### Desenvolvimento de Jogos e Engines
+| ID do Ícone | `colorful` | `dark` | `light` |
+| :---------: | :-----: | :--: | :---: |
+| `bevy` | <img src="./icons/Bevy.svg" width="48"> | <img src="./icons/Bevy-Dark.svg" width="48"> | <img src="./icons/Bevy-Light.svg" width="48"> |
+| `gamemakerstudio` | <img src="./icons/GameMakerStudio.svg" width="48"> | <img src="./icons/GameMakerStudio-Dark.svg" width="48"> | <img src="./icons/GameMakerStudio-Light.svg" width="48"> |
+| `godot` | <img src="./icons/Godot.svg" width="48"> | <img src="./icons/Godot-Dark.svg" width="48"> | <img src="./icons/Godot-Light.svg" width="48"> |
+| `haxe` | <img src="./icons/Haxe.svg" width="48"> | <img src="./icons/Haxe-Dark.svg" width="48"> | <img src="./icons/Haxe-Light.svg" width="48"> |
+| `haxeflixel` | <img src="./icons/HaxeFlixel.svg" width="48"> | <img src="./icons/HaxeFlixel-Dark.svg" width="48"> | <img src="./icons/HaxeFlixel-Light.svg" width="48"> |
+| `processing` | <img src="./icons/Processing.svg" width="48"> | <img src="./icons/Processing-Dark.svg" width="48"> | <img src="./icons/Processing-Light.svg" width="48"> |
+| `robloxstudio` | <img src="./icons/RobloxStudio.svg" width="48"> | <img src="./icons/RobloxStudio-Dark.svg" width="48"> | <img src="./icons/RobloxStudio-Light.svg" width="48"> |
+| `unity` | <img src="./icons/Unity.svg" width="48"> | <img src="./icons/Unity-Dark.svg" width="48"> | <img src="./icons/Unity-Light.svg" width="48"> |
+| `unrealengine` | <img src="./icons/UnrealEngine.svg" width="48"> | <img src="./icons/UnrealEngine-Dark.svg" width="48"> | <img src="./icons/UnrealEngine-Light.svg" width="48"> |
+
 <!--
 
 ## 💖 Support the Project
