@@ -196,6 +196,21 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `unity` | <img src="./icons/Unity.svg" width="48"> | <img src="./icons/Unity-Dark.svg" width="48"> | <img src="./icons/Unity-Light.svg" width="48"> |
 | `unrealengine` | <img src="./icons/UnrealEngine.svg" width="48"> | <img src="./icons/UnrealEngine-Dark.svg" width="48"> | <img src="./icons/UnrealEngine-Light.svg" width="48"> |
 
+### Design e Mídia
+| ID do Ícone | `colorful` | `dark` | `light` |
+| :---------: | :-----: | :--: | :---: |
+| `ableton` | <img src="./icons/Ableton.svg" width="48"> | <img src="./icons/Ableton-Dark.svg" width="48"> | <img src="./icons/Ableton-Light.svg" width="48"> |
+| `aftereffects` | <img src="./icons/AfterEffects.svg" width="48"> | <img src="./icons/AfterEffects-Dark.svg" width="48"> | <img src="./icons/AfterEffects-Light.svg" width="48"> |
+| `audition` | <img src="./icons/Audition.svg" width="48"> | <img src="./icons/Audition-Dark.svg" width="48"> | <img src="./icons/Audition-Light.svg" width="48"> |
+| `blender` | <img src="./icons/Blender.svg" width="48"> | <img src="./icons/Blender-Dark.svg" width="48"> | <img src="./icons/Blender-Light.svg" width="48"> |
+| `figma` | <img src="./icons/Figma.svg" width="48"> | <img src="./icons/Figma-Dark.svg" width="48"> | <img src="./icons/Figma-Light.svg" width="48"> |
+| `illustrator` | <img src="./icons/Illustrator.svg" width="48"> | <img src="./icons/Illustrator-Dark.svg" width="48"> | <img src="./icons/Illustrator-Light.svg" width="48"> |
+| `photoshop` | <img src="./icons/Photoshop.svg" width="48"> | <img src="./icons/Photoshop-Dark.svg" width="48"> | <img src="./icons/Photoshop-Light.svg" width="48"> |
+| `premiere` | <img src="./icons/Premiere.svg" width="48"> | <img src="./icons/Premiere-Dark.svg" width="48"> | <img src="./icons/Premiere-Light.svg" width="48"> |
+| `sketchup` | <img src="./icons/SketchUp.svg" width="48"> | <img src="./icons/SketchUp-Dark.svg" width="48"> | <img src="./icons/SketchUp-Light.svg" width="48"> |
+| `webflow` | <img src="./icons/Webflow.svg" width="48"> | <img src="./icons/Webflow-Dark.svg" width="48"> | <img src="./icons/Webflow-Light.svg" width="48"> |
+| `xd` | <img src="./icons/XD.svg" width="48"> | <img src="./icons/XD-Dark.svg" width="48"> | <img src="./icons/XD-Light.svg" width="48"> |
+
 <!--
 
 ## 💖 Support the Project
