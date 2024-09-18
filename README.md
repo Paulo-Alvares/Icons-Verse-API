@@ -91,15 +91,15 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `apollo` | <img src="./icons/Apollo.svg" width="48"> | <img src="./icons/Apollo-Dark.svg" width="48"> | <img src="./icons/Apollo-Light.svg" width="48"> |
 | `appwrite` | <img src="./icons/Appwrite.svg" width="48"> | <img src="./icons/Appwrite-Dark.svg" width="48"> | <img src="./icons/Appwrite-Light.svg" width="48"> |
 | `d3` | <img src="./icons/D3.svg" width="48"> | <img src="./icons/D3-Dark.svg" width="48"> | <img src="./icons/D3-Light.svg" width="48"> |
-| `deno` | <img src="./icons/Deno.svg" width="48"> | <img src="./icons/Deno-Dark.svg" width="48"> | <img src="./icons/Deno-Light.svg" width="48"> |
+| `deno` | <img src="./icons/DENO.svg" width="48"> | <img src="./icons/DENO-Dark.svg" width="48"> | <img src="./icons/DENO-Light.svg" width="48"> |
 | `discordjs` | <img src="./icons/DiscordJS.svg" width="48"> | <img src="./icons/DiscordJS-Dark.svg" width="48"> | <img src="./icons/DiscordJS-Light.svg" width="48"> |
 | `emotion` | <img src="./icons/Emotion.svg" width="48"> | <img src="./icons/Emotion-Dark.svg" width="48"> | <img src="./icons/Emotion-Light.svg" width="48"> |
 | `graphql` | <img src="./icons/GraphQL.svg" width="48"> | <img src="./icons/GraphQL-Dark.svg" width="48"> | <img src="./icons/GraphQL-Light.svg" width="48"> |
-| `htmx` | <img src="./icons/HTMX.svg" width="48"> | <img src="./icons/HTMX-Dark.svg" width="48"> | <img src="./icons/HTMX-Light.svg" width="48"> |
-| `jquery` | <img src="./icons/jQuery.svg" width="48"> | <img src="./icons/jQuery-Dark.svg" width="48"> | <img src="./icons/jQuery-Light.svg" width="48"> |
+| `htmx` | <img src="./icons/Htmx.svg" width="48"> | <img src="./icons/Htmx-Dark.svg" width="48"> | <img src="./icons/Htmx-Light.svg" width="48"> |
+| `jquery` | <img src="./icons/JQuery.svg" width="48"> | <img src="./icons/JQuery-Dark.svg" width="48"> | <img src="./icons/JQuery-Light.svg" width="48"> |
 | `lit` | <img src="./icons/Lit.svg" width="48"> | <img src="./icons/Lit-Dark.svg" width="48"> | <img src="./icons/Lit-Light.svg" width="48"> |
 | `materialui` | <img src="./icons/MaterialUI.svg" width="48"> | <img src="./icons/MaterialUI-Dark.svg" width="48"> | <img src="./icons/MaterialUI-Light.svg" width="48"> |
-| `p5js` | <img src="./icons/P5JS.svg" width="48"> | <img src="./icons/P5JS-Dark.svg" width="48"> | <img src="./icons/P5JS-Light.svg" width="48"> |
+| `p5js` | <img src="./icons/p5js.svg" width="48"> | <img src="./icons/p5js-Dark.svg" width="48"> | <img src="./icons/p5js-Light.svg" width="48"> |
 | `pinia` | <img src="./icons/Pinia.svg" width="48"> | <img src="./icons/Pinia-Dark.svg" width="48"> | <img src="./icons/Pinia-Light.svg" width="48"> |
 | `react` | <img src="./icons/React.svg" width="48"> | <img src="./icons/React-Dark.svg" width="48"> | <img src="./icons/React-Light.svg" width="48"> |
 | `reactivex` | <img src="./icons/ReactiveX.svg" width="48"> | <img src="./icons/ReactiveX-Dark.svg" width="48"> | <img src="./icons/ReactiveX-Light.svg" width="48"> |
@@ -117,10 +117,10 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `matlab` | <img src="./icons/Matlab.svg" width="48"> | <img src="./icons/Matlab-Dark.svg" width="48"> | <img src="./icons/Matlab-Light.svg" width="48"> |
 | `octave` | <img src="./icons/Octave.svg" width="48"> | <img src="./icons/Octave-Dark.svg" width="48"> | <img src="./icons/Octave-Light.svg" width="48"> |
 | `opencv` | <img src="./icons/OpenCV.svg" width="48"> | <img src="./icons/OpenCV-Dark.svg" width="48"> | <img src="./icons/OpenCV-Light.svg" width="48"> |
-| `powerbi` | <img src="./icons/PowerBI.svg" width="48"> | <img src="./icons/PowerBI-Dark.svg" width="48"> | <img src="./icons/PowerBI-Light.svg" width="48"> |
+| `powerbi` | <img src="./icons/PowerBi.svg" width="48"> | <img src="./icons/PowerBi-Dark.svg" width="48"> | <img src="./icons/PowerBi-Light.svg" width="48"> |
 | `prometheus` | <img src="./icons/Prometheus.svg" width="48"> | <img src="./icons/Prometheus-Dark.svg" width="48"> | <img src="./icons/Prometheus-Light.svg" width="48"> |
 | `pytorch` | <img src="./icons/PyTorch.svg" width="48"> | <img src="./icons/PyTorch-Dark.svg" width="48"> | <img src="./icons/PyTorch-Light.svg" width="48"> |
-| `scikitlearn` | <img src="./icons/ScikitLearn.svg" width="48"> | <img src="./icons/ScikitLearn-Dark.svg" width="48"> | <img src="./icons/ScikitLearn-Light.svg" width="48"> |
+| `scikitlearn` | <img src="./icons/ScikitLearn.svg" width="48"> | <img src="./icons/ScikitLearn-Dark.svg" width="48"> | <img src="./icons/SciKitLearn-Light.svg" width="48"> |
 | `sentry` | <img src="./icons/Sentry.svg" width="48"> | <img src="./icons/Sentry-Dark.svg" width="48"> | <img src="./icons/Sentry-Light.svg" width="48"> |
 | `tensorflow` | <img src="./icons/TensorFlow.svg" width="48"> | <img src="./icons/TensorFlow-Dark.svg" width="48"> | <img src="./icons/TensorFlow-Light.svg" width="48"> |
 
