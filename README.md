@@ -221,6 +221,16 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `loiane` | <img src="./icons/Loiane.svg" width="48"> | <img src="./icons/Loiane-Dark.svg" width="48"> | <img src="./icons/Loiane-Light.svg" width="48"> |
 | `rocketseat` | <img src="./icons/Rocketseat.svg" width="48"> | <img src="./icons/Rocketseat-Dark.svg" width="48"> | <img src="./icons/Rocketseat-Light.svg" width="48"> |
 
+### Empresas
+| ID do Ícone | `colorful` | `dark` | `light` |
+| :---------: | :-----: | :--: | :---: |
+| `apple` | <img src="./icons/Apple.svg" width="48"> | <img src="./icons/Apple-Dark.svg" width="48"> | <img src="./icons/Apple-Light.svg" width="48"> |
+| `bradesco` | <img src="./icons/Bradesco.svg" width="48"> | <img src="./icons/Bradesco-Dark.svg" width="48"> | <img src="./icons/Bradesco-Light.svg" width="48"> |
+| `microsoft` | <img src="./icons/Microsoft.svg" width="48"> | <img src="./icons/Microsoft-Dark.svg" width="48"> | <img src="./icons/Microsoft-Light.svg" width="48"> |
+| `redhat` | <img src="./icons/RedHat.svg" width="48"> | <img src="./icons/RedHat-Dark.svg" width="48"> | <img src="./icons/RedHat-Light.svg" width="48"> |
+| `santander` | <img src="./icons/Santander.svg" width="48"> | <img src="./icons/Santander-Dark.svg" width="48"> | <img src="./icons/Santander-Light.svg" width="48"> |
+| `squadio` | <img src="./icons/Squadio.svg" width="48"> | <img src="./icons/Squadio-Dark.svg" width="48"> | <img src="./icons/Squadio-Light.svg" width="48"> |
+
 <!--
 
 ## 💖 Support the Project
