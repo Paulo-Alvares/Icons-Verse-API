@@ -124,6 +124,22 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `sentry` | <img src="./icons/Sentry.svg" width="48"> | <img src="./icons/Sentry-Dark.svg" width="48"> | <img src="./icons/Sentry-Light.svg" width="48"> |
 | `tensorflow` | <img src="./icons/TensorFlow.svg" width="48"> | <img src="./icons/TensorFlow-Dark.svg" width="48"> | <img src="./icons/TensorFlow-Light.svg" width="48"> |
 
+### Armazenamento, Banco de Dados e ORM’s
+| ID do Ícone | Colored | Dark | Light |
+| :---------: | :-----: | :--: | :---: |
+| `cassandra` | <img src="./icons/Cassandra.svg" width="48"> | <img src="./icons/Cassandra-Dark.svg" width="48"> | <img src="./icons/Cassandra-Light.svg" width="48"> |
+| `dynamodb` | <img src="./icons/DynamoDB.svg" width="48"> | <img src="./icons/DynamoDB-Dark.svg" width="48"> | <img src="./icons/DynamoDB-Light.svg" width="48"> |
+| `elasticsearch` | <img src="./icons/ElasticSearch.svg" width="48"> | <img src="./icons/ElasticSearch-Dark.svg" width="48"> | <img src="./icons/ElasticSearch-Light.svg" width="48"> |
+| `firebase` | <img src="./icons/Firebase.svg" width="48"> | <img src="./icons/Firebase-Dark.svg" width="48"> | <img src="./icons/Firebase-Light.svg" width="48"> |
+| `mongodb` | <img src="./icons/MongoDB.svg" width="48"> | <img src="./icons/MongoDB-Dark.svg" width="48"> | <img src="./icons/MongoDB-Light.svg" width="48"> |
+| `mysql` | <img src="./icons/MySQL.svg" width="48"> | <img src="./icons/MySQL-Dark.svg" width="48"> | <img src="./icons/MySQL-Light.svg" width="48"> |
+| `neon` | <img src="./icons/Neon.svg" width="48"> | <img src="./icons/Neon-Dark.svg" width="48"> | <img src="./icons/Neon-Light.svg" width="48"> |
+| `planetscale` | <img src="./icons/PlanetScale.svg" width="48"> | <img src="./icons/PlanetScale-Dark.svg" width="48"> | <img src="./icons/PlanetScale-Light.svg" width="48"> |
+| `postgresql` | <img src="./icons/PostgreSQL.svg" width="48"> | <img src="./icons/PostgreSQL-Dark.svg" width="48"> | <img src="./icons/PostgreSQL-Light.svg" width="48"> |
+| `prisma` | <img src="./icons/Prisma.svg" width="48"> | <img src="./icons/Prisma-Dark.svg" width="48"> | <img src="./icons/Prisma-Light.svg" width="48"> |
+| `redis` | <img src="./icons/Redis.svg" width="48"> | <img src="./icons/Redis-Dark.svg" width="48"> | <img src="./icons/Redis-Light.svg" width="48"> |
+| `sequelize` | <img src="./icons/Sequelize.svg" width="48"> | <img src="./icons/Sequelize-Dark.svg" width="48"> | <img src="./icons/Sequelize-Light.svg" width="48"> |
+| `sqlite` | <img src="./icons/SQLite.svg" width="48"> | <img src="./icons/SQLite-Dark.svg" width="48"> | <img src="./icons/SQLite-Light.svg" width="48"> |
 
 <!--
 
