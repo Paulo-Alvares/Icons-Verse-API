@@ -11,7 +11,7 @@
     - [API's e Bibliotecas](#apis-e-bibliotecas)
     - [Análise de Dados, Data Science e IA](#análise-de-dados-data-science-e-ia)
     - [Armazenamento, Banco de Dados e ORM's](#armazenamento-banco-de-dados-e-orms)
-    - [Automação, Teste e Versionamento](#automacao-teste-e-versionamento)
+    - [Automação, Teste e Versionamento](#automação-teste-e-versionamento)
     - [Cloud e Infraestrutura](#cloud-e-infraestrutura)
     - [Desenvolvimento de Jogos e Engine](#desenvolvimento-de-jogos-e-engine)
     - [Design e Mídia](#design-e-midia)
@@ -85,7 +85,7 @@ Os SVGs são redimensionados automaticamente, então você pode centraliza-los c
 Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vontade para abrir uma issue para sugerir ícones para adicionar!
 
 ### API's e Bibliotecas
-| ID do Ícone | Colored | Dark | Light |
+| ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
 | `activitypub` | <img src="./icons/ActivityPub.svg" width="48"> | <img src="./icons/ActivityPub-Dark.svg" width="48"> | <img src="./icons/ActivityPub-Light.svg" width="48"> |
 | `apollo` | <img src="./icons/Apollo.svg" width="48"> | <img src="./icons/Apollo-Dark.svg" width="48"> | <img src="./icons/Apollo-Light.svg" width="48"> |
@@ -109,7 +109,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `threejs` | <img src="./icons/ThreeJS.svg" width="48"> | <img src="./icons/ThreeJS-Dark.svg" width="48"> | <img src="./icons/ThreeJS-Light.svg" width="48"> |
 
 ### Análise de Dados, Data Science e IA
-| ID do Ícone | Colored | Dark | Light |
+| ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
 | `alteryx` | <img src="./icons/Alteryx.svg" width="48"> | <img src="./icons/Alteryx-Dark.svg" width="48"> | <img src="./icons/Alteryx-Light.svg" width="48"> |
 | `grafana` | <img src="./icons/Grafana.svg" width="48"> | <img src="./icons/Grafana-Dark.svg" width="48"> | <img src="./icons/Grafana-Light.svg" width="48"> |
@@ -125,7 +125,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `tensorflow` | <img src="./icons/TensorFlow.svg" width="48"> | <img src="./icons/TensorFlow-Dark.svg" width="48"> | <img src="./icons/TensorFlow-Light.svg" width="48"> |
 
 ### Armazenamento, Banco de Dados e ORM’s
-| ID do Ícone | Colored | Dark | Light |
+| ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
 | `cassandra` | <img src="./icons/Cassandra.svg" width="48"> | <img src="./icons/Cassandra-Dark.svg" width="48"> | <img src="./icons/Cassandra-Light.svg" width="48"> |
 | `dynamodb` | <img src="./icons/DynamoDB.svg" width="48"> | <img src="./icons/DynamoDB-Dark.svg" width="48"> | <img src="./icons/DynamoDB-Light.svg" width="48"> |
@@ -140,6 +140,25 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `redis` | <img src="./icons/Redis.svg" width="48"> | <img src="./icons/Redis-Dark.svg" width="48"> | <img src="./icons/Redis-Light.svg" width="48"> |
 | `sequelize` | <img src="./icons/Sequelize.svg" width="48"> | <img src="./icons/Sequelize-Dark.svg" width="48"> | <img src="./icons/Sequelize-Light.svg" width="48"> |
 | `sqlite` | <img src="./icons/SQLite.svg" width="48"> | <img src="./icons/SQLite-Dark.svg" width="48"> | <img src="./icons/SQLite-Light.svg" width="48"> |
+
+### Automação, Teste e Versionamento
+| ID do Ícone | Colored | Dark | Light |
+| :---------: | :-----: | :--: | :---: |
+| `ansible` | <img src="./icons/Ansible.svg" width="48"> | <img src="./icons/Ansible-Dark.svg" width="48"> | <img src="./icons/Ansible-Light.svg" width="48"> |
+| `bash` | <img src="./icons/Bash.svg" width="48"> | <img src="./icons/Bash-Dark.svg" width="48"> | <img src="./icons/Bash-Light.svg" width="48"> |
+| `bitbucket` | <img src="./icons/Bitbucket.svg" width="48"> | <img src="./icons/Bitbucket-Dark.svg" width="48"> | <img src="./icons/Bitbucket-Light.svg" width="48"> |
+| `cypress` | <img src="./icons/Cypress.svg" width="48"> | <img src="./icons/Cypress-Dark.svg" width="48"> | <img src="./icons/Cypress-Light.svg" width="48"> |
+| `gherkin` | <img src="./icons/Gherkin.svg" width="48"> | <img src="./icons/Gherkin-Dark.svg" width="48"> | <img src="./icons/Gherkin-Light.svg" width="48"> |
+| `git` | <img src="./icons/Git.svg" width="48"> | <img src="./icons/Git-Dark.svg" width="48"> | <img src="./icons/Git-Light.svg" width="48"> |
+| `github` | <img src="./icons/GitHub.svg" width="48"> | <img src="./icons/GitHub-Dark.svg" width="48"> | <img src="./icons/GitHub-Light.svg" width="48"> |
+| `githubactions` | <img src="./icons/GitHubActions.svg" width="48"> | <img src="./icons/GitHubActions-Dark.svg" width="48"> | <img src="./icons/GitHubActions-Light.svg" width="48"> |
+| `gitlab` | <img src="./icons/GitLab.svg" width="48"> | <img src="./icons/GitLab-Dark.svg" width="48"> | <img src="./icons/GitLab-Light.svg" width="48"> |
+| `jenkins` | <img src="./icons/Jenkins.svg" width="48"> | <img src="./icons/Jenkins-Dark.svg" width="48"> | <img src="./icons/Jenkins-Light.svg" width="48"> |
+| `jest` | <img src="./icons/Jest.svg" width="48"> | <img src="./icons/Jest-Dark.svg" width="48"> | <img src="./icons/Jest-Light.svg" width="48"> |
+| `postman` | <img src="./icons/Postman.svg" width="48"> | <img src="./icons/Postman-Dark.svg" width="48"> | <img src="./icons/Postman-Light.svg" width="48"> |
+| `powershell` | <img src="./icons/PowerShell.svg" width="48"> | <img src="./icons/PowerShell-Dark.svg" width="48"> | <img src="./icons/PowerShell-Light.svg" width="48"> |
+| `selenium` | <img src="./icons/Selenium.svg" width="48"> | <img src="./icons/Selenium-Dark.svg" width="48"> | <img src="./icons/Selenium-Light.svg" width="48"> |
+| `vitest` | <img src="./icons/Vitest.svg" width="48"> | <img src="./icons/Vitest-Dark.svg" width="48"> | <img src="./icons/Vitest-Light.svg" width="48"> |
 
 <!--
 
