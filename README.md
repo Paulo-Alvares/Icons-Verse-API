@@ -231,6 +231,20 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `santander` | <img src="./icons/Santander.svg" width="48"> | <img src="./icons/Santander-Dark.svg" width="48"> | <img src="./icons/Santander-Light.svg" width="48"> |
 | `squadio` | <img src="./icons/Squadio.svg" width="48"> | <img src="./icons/Squadio-Dark.svg" width="48"> | <img src="./icons/Squadio-Light.svg" width="48"> |
 
+### Estilização e Marcação
+| ID do Ícone | `colorful` | `dark` | `light` |
+| :---------: | :-----: | :--: | :---: |
+| `css` | <img src="./icons/CSS.svg" width="48"> | <img src="./icons/CSS-Dark.svg" width="48"> | <img src="./icons/CSS-Light.svg" width="48"> |
+| `html` | <img src="./icons/HTML.svg" width="48"> | <img src="./icons/HTML-Dark.svg" width="48"> | <img src="./icons/HTML-Light.svg" width="48"> |
+| `latex` | <img src="./icons/LaTeX.svg" width="48"> | <img src="./icons/LaTeX-Dark.svg" width="48"> | <img src="./icons/LaTeX-Light.svg" width="48"> |
+| `less` | <img src="./icons/Less.svg" width="48"> | <img src="./icons/Less-Dark.svg" width="48"> | <img src="./icons/Less-Light.svg" width="48"> |
+| `markdown` | <img src="./icons/Markdown.svg" width="48"> | <img src="./icons/Markdown-Dark.svg" width="48"> | <img src="./icons/Markdown-Light.svg" width="48"> |
+| `pug` | <img src="./icons/Pug.svg" width="48"> | <img src="./icons/Pug-Dark.svg" width="48"> | <img src="./icons/Pug-Light.svg" width="48"> |
+| `regex` | <img src="./icons/RegEx.svg" width="48"> | <img src="./icons/RegEx-Dark.svg" width="48"> | <img src="./icons/RegEx-Light.svg" width="48"> |
+| `sass` | <img src="./icons/Sass.svg" width="48"> | <img src="./icons/Sass-Dark.svg" width="48"> | <img src="./icons/Sass-Light.svg" width="48"> |
+| `svelte` | <img src="./icons/Svelte.svg" width="48"> | <img src="./icons/Svelte-Dark.svg" width="48"> | <img src="./icons/Svelte-Light.svg" width="48"> |
+| `webassembly` | <img src="./icons/WebAssembly.svg" width="48"> | <img src="./icons/WebAssembly-Dark.svg" width="48"> | <img src="./icons/WebAssembly-Light.svg" width="48"> |
+
 <!--
 
 ## 💖 Support the Project
