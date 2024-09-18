@@ -142,7 +142,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `sqlite` | <img src="./icons/SQLite.svg" width="48"> | <img src="./icons/SQLite-Dark.svg" width="48"> | <img src="./icons/SQLite-Light.svg" width="48"> |
 
 ### Automação, Teste e Versionamento
-| ID do Ícone | Colored | Dark | Light |
+| ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
 | `ansible` | <img src="./icons/Ansible.svg" width="48"> | <img src="./icons/Ansible-Dark.svg" width="48"> | <img src="./icons/Ansible-Light.svg" width="48"> |
 | `bash` | <img src="./icons/Bash.svg" width="48"> | <img src="./icons/Bash-Dark.svg" width="48"> | <img src="./icons/Bash-Light.svg" width="48"> |
@@ -159,6 +159,28 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `powershell` | <img src="./icons/PowerShell.svg" width="48"> | <img src="./icons/PowerShell-Dark.svg" width="48"> | <img src="./icons/PowerShell-Light.svg" width="48"> |
 | `selenium` | <img src="./icons/Selenium.svg" width="48"> | <img src="./icons/Selenium-Dark.svg" width="48"> | <img src="./icons/Selenium-Light.svg" width="48"> |
 | `vitest` | <img src="./icons/Vitest.svg" width="48"> | <img src="./icons/Vitest-Dark.svg" width="48"> | <img src="./icons/Vitest-Light.svg" width="48"> |
+
+### Cloud e Infraestrutura
+| ID do Ícone | `colorful` | `dark` | `light` |
+| :---------: | :-----: | :--: | :---: |
+| `aws` | <img src="./icons/AWS.svg" width="48"> | <img src="./icons/AWS-Dark.svg" width="48"> | <img src="./icons/AWS-Light.svg" width="48"> |
+| `azure` | <img src="./icons/Azure.svg" width="48"> | <img src="./icons/Azure-Dark.svg" width="48"> | <img src="./icons/Azure-Light.svg" width="48"> |
+| `cloudflare` | <img src="./icons/Cloudflare.svg" width="48"> | <img src="./icons/Cloudflare-Dark.svg" width="48"> | <img src="./icons/Cloudflare-Light.svg" width="48"> |
+| `docker` | <img src="./icons/Docker.svg" width="48"> | <img src="./icons/Docker-Dark.svg" width="48"> | <img src="./icons/Docker-Light.svg" width="48"> |
+| `gcp` | <img src="./icons/GCP.svg" width="48"> | <img src="./icons/GCP-Dark.svg" width="48"> | <img src="./icons/GCP-Light.svg" width="48"> |
+| `heroku` | <img src="./icons/Heroku.svg" width="48"> | <img src="./icons/Heroku-Dark.svg" width="48"> | <img src="./icons/Heroku-Light.svg" width="48"> |
+| `ipfs` | <img src="./icons/IPFS.svg" width="48"> | <img src="./icons/IPFS-Dark.svg" width="48"> | <img src="./icons/IPFS-Light.svg" width="48"> |
+| `kafka` | <img src="./icons/Kafka.svg" width="48"> | <img src="./icons/Kafka-Dark.svg" width="48"> | <img src="./icons/Kafka-Light.svg" width="48"> |
+| `kubernetes` | <img src="./icons/Kubernetes.svg" width="48"> | <img src="./icons/Kubernetes-Dark.svg" width="48"> | <img src="./icons/Kubernetes-Light.svg" width="48"> |
+| `netlify` | <img src="./icons/Netlify.svg" width="48"> | <img src="./icons/Netlify-Dark.svg" width="48"> | <img src="./icons/Netlify-Light.svg" width="48"> |
+| `nginx` | <img src="./icons/Nginx.svg" width="48"> | <img src="./icons/Nginx-Dark.svg" width="48"> | <img src="./icons/Nginx-Light.svg" width="48"> |
+| `openshift` | <img src="./icons/OpenShift.svg" width="48"> | <img src="./icons/OpenShift-Dark.svg" width="48"> | <img src="./icons/OpenShift-Light.svg" width="48"> |
+| `openstack` | <img src="./icons/OpenStack.svg" width="48"> | <img src="./icons/OpenStack-Dark.svg" width="48"> | <img src="./icons/OpenStack-Light.svg" width="48"> |
+| `rabbitmq` | <img src="./icons/RabbitMQ.svg" width="48"> | <img src="./icons/RabbitMQ-Dark.svg" width="48"> | <img src="./icons/RabbitMQ-Light.svg" width="48"> |
+| `supabase` | <img src="./icons/Supabase.svg" width="48"> | <img src="./icons/Supabase-Dark.svg" width="48"> | <img src="./icons/Supabase-Light.svg" width="48"> |
+| `terraform` | <img src="./icons/Terraform.svg" width="48"> | <img src="./icons/Terraform-Dark.svg" width="48"> | <img src="./icons/Terraform-Light.svg" width="48"> |
+| `vercel` | <img src="./icons/Vercel.svg" width="48"> | <img src="./icons/Vercel-Dark.svg" width="48"> | <img src="./icons/Vercel-Light.svg" width="48"> |
+| `workers` | <img src="./icons/Workers.svg" width="48"> | <img src="./icons/Workers-Dark.svg" width="48"> | <img src="./icons/Workers-Light.svg" width="48"> |
 
 <!--
 
