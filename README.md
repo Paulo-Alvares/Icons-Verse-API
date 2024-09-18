@@ -211,6 +211,16 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `webflow` | <img src="./icons/Webflow.svg" width="48"> | <img src="./icons/Webflow-Dark.svg" width="48"> | <img src="./icons/Webflow-Light.svg" width="48"> |
 | `xd` | <img src="./icons/XD.svg" width="48"> | <img src="./icons/XD-Dark.svg" width="48"> | <img src="./icons/XD-Light.svg" width="48"> |
 
+### Educação
+| ID do Ícone | `colorful` | `dark` | `light` |
+| :---------: | :-----: | :--: | :---: |
+| `ada` | <img src="./icons/Ada.svg" width="48"> | <img src="./icons/Ada-Dark.svg" width="48"> | <img src="./icons/Ada-Light.svg" width="48"> |
+| `alura` | <img src="./icons/Alura.svg" width="48"> | <img src="./icons/Alura-Dark.svg" width="48"> | <img src="./icons/Alura-Light.svg" width="48"> |
+| `cev` | <img src="./icons/CEV.svg" width="48"> | <img src="./icons/CEV-Dark.svg" width="48"> | <img src="./icons/CEV-Light.svg" width="48"> |
+| `dio` | <img src="./icons/DIO.svg" width="48"> | <img src="./icons/DIO-Dark.svg" width="48"> | <img src="./icons/DIO-Light.svg" width="48"> |
+| `loiane` | <img src="./icons/Loiane.svg" width="48"> | <img src="./icons/Loiane-Dark.svg" width="48"> | <img src="./icons/Loiane-Light.svg" width="48"> |
+| `rocketseat` | <img src="./icons/Rocketseat.svg" width="48"> | <img src="./icons/Rocketseat-Dark.svg" width="48"> | <img src="./icons/Rocketseat-Light.svg" width="48"> |
+
 <!--
 
 ## 💖 Support the Project
