@@ -262,6 +262,46 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `webpack` | <img src="./icons/Webpack.svg" width="48"> | <img src="./icons/Webpack-Dark.svg" width="48"> | <img src="./icons/Webpack-Light.svg" width="48"> |
 | `yarn` | <img src="./icons/Yarn.svg" width="48"> | <img src="./icons/Yarn-Dark.svg" width="48"> | <img src="./icons/Yarn-Light.svg" width="48"> |
 
+### Frameworks
+| ID do Ícone | `colorful` | `dark` | `light` |
+| :---------: | :-----: | :--: | :---: |
+| `actix` | <img src="./icons/Actix.svg" width="48"> | <img src="./icons/Actix-Dark.svg" width="48"> | <img src="./icons/Actix-Light.svg" width="48"> |
+| `adonis` | <img src="./icons/Adonis.svg" width="48"> | <img src="./icons/Adonis-Dark.svg" width="48"> | <img src="./icons/Adonis-Light.svg" width="48"> |
+| `alpinejs` | <img src="./icons/AlpineJS.svg" width="48"> | <img src="./icons/AlpineJS-Dark.svg" width="48"> | <img src="./icons/AlpineJS-Light.svg" width="48"> |
+| `angular` | <img src="./icons/Angular.svg" width="48"> | <img src="./icons/Angular-Dark.svg" width="48"> | <img src="./icons/Angular-Light.svg" width="48"> |
+| `astro` | <img src="./icons/Astro.svg" width="48"> | <img src="./icons/Astro-Dark.svg" width="48"> | <img src="./icons/Astro-Light.svg" width="48"> |
+| `azul` | <img src="./icons/Azul.svg" width="48"> | <img src="./icons/Azul-Dark.svg" width="48"> | <img src="./icons/Azul-Light.svg" width="48"> |
+| `bootstrap` | <img src="./icons/Bootstrap.svg" width="48"> | <img src="./icons/Bootstrap-Dark.svg" width="48"> | <img src="./icons/Bootstrap-Light.svg" width="48"> |
+| `django` | <img src="./icons/Django.svg" width="48"> | <img src="./icons/Django-Dark.svg" width="48"> | <img src="./icons/Django-Light.svg" width="48"> |
+| `dotnet` | <img src="./icons/DotNet.svg" width="48"> | <img src="./icons/DotNet-Dark.svg" width="48"> | <img src="./icons/DotNet-Light.svg" width="48"> |
+| `electron` | <img src="./icons/Electron.svg" width="48"> | <img src="./icons/Electron-Dark.svg" width="48"> | <img src="./icons/Electron-Light.svg" width="48"> |
+| `elysia` | <img src="./icons/Elysia.svg" width="48"> | <img src="./icons/Elysia-Dark.svg" width="48"> | <img src="./icons/Elysia-Light.svg" width="48"> |
+| `ember` | <img src="./icons/Ember.svg" width="48"> | <img src="./icons/Ember-Dark.svg" width="48"> | <img src="./icons/Ember-Light.svg" width="48"> |
+| `expressjs` | <img src="./icons/ExpressJS.svg" width="48"> | <img src="./icons/ExpressJS-Dark.svg" width="48"> | <img src="./icons/ExpressJS-Light.svg" width="48"> |
+| `fastapi` | <img src="./icons/FastAPI.svg" width="48"> | <img src="./icons/FastAPI-Dark.svg" width="48"> | <img src="./icons/FastAPI-Light.svg" width="48"> |
+| `flask` | <img src="./icons/Flask.svg" width="48"> | <img src="./icons/Flask-Dark.svg" width="48"> | <img src="./icons/Flask-Light.svg" width="48"> |
+| `flutter` | <img src="./icons/Flutter.svg" width="48"> | <img src="./icons/Flutter-Dark.svg" width="48"> | <img src="./icons/Flutter-Light.svg" width="48"> |
+| `gastby` | <img src="./icons/Gatsby.svg" width="48"> | <img src="./icons/Gatsby-Dark.svg" width="48"> | <img src="./icons/Gatsby-Light.svg" width="48"> |
+| `gtk` | <img src="./icons/GTK.svg" width="48"> | <img src="./icons/GTK-Dark.svg" width="48"> | <img src="./icons/GTK-Light.svg" width="48"> |
+| `hibernate` | <img src="./icons/Hibernate.svg" width="48"> | <img src="./icons/Hibernate-Dark.svg" width="48"> | <img src="./icons/Hibernate-Light.svg" width="48"> |
+| `ktor` | <img src="./icons/Ktor.svg" width="48"> | <img src="./icons/Ktor-Dark.svg" width="48"> | <img src="./icons/Ktor-Light.svg" width="48"> |
+| `laravel` | <img src="./icons/Laravel.svg" width="48"> | <img src="./icons/Laravel-Dark.svg" width="48"> | <img src="./icons/Laravel-Light.svg" width="48"> |
+| `nestjs` | <img src="./icons/NestJS.svg" width="48"> | <img src="./icons/NestJS-Dark.svg" width="48"> | <img src="./icons/NestJS-Light.svg" width="48"> |
+| `nextjs` | <img src="./icons/NextJS.svg" width="48"> | <img src="./icons/NextJS-Dark.svg" width="48"> | <img src="./icons/NextJS-Light.svg" width="48"> |
+| `nuxts` | <img src="./icons/NuxtJS.svg" width="48"> | <img src="./icons/NuxtJS-Dark.svg" width="48"> | <img src="./icons/NuxtJS-Light.svg" width="48"> |
+| `qt` | <img src="./icons/Qt.svg" width="48"> | <img src="./icons/Qt-Dark.svg" width="48"> | <img src="./icons/Qt-Light.svg" width="48"> |
+| `rails` | <img src="./icons/Rails.svg" width="48"> | <img src="./icons/Rails-Dark.svg" width="48"> | <img src="./icons/Rails-Light.svg" width="48"> |
+| `remix` | <img src="./icons/Remix.svg" width="48"> | <img src="./icons/Remix-Dark.svg" width="48"> | <img src="./icons/Remix-Light.svg" width="48"> |
+| `rocket` | <img src="./icons/Rocket.svg" width="48"> | <img src="./icons/Rocket-Dark.svg" width="48"> | <img src="./icons/Rocket-Light.svg" width="48"> |
+| `spring` | <img src="./icons/Spring.svg" width="48"> | <img src="./icons/Spring-Dark.svg" width="48"> | <img src="./icons/Spring-Light.svg" width="48"> |
+| `symfony` | <img src="./icons/Symfony.svg" width="48"> | <img src="./icons/Symfony-Dark.svg" width="48"> | <img src="./icons/Symfony-Light.svg" width="48"> |
+| `tauri` | <img src="./icons/Tauri.svg" width="48"> | <img src="./icons/Tauri-Dark.svg" width="48"> | <img src="./icons/Tauri-Light.svg" width="48"> |
+| `vuejs` | <img src="./icons/VueJS.svg" width="48"> | <img src="./icons/VueJS-Dark.svg" width="48"> | <img src="./icons/VueJS-Light.svg" width="48"> |
+| `vuetify` | <img src="./icons/Vuetify.svg" width="48"> | <img src="./icons/Vuetify-Dark.svg" width="48"> | <img src="./icons/Vuetify-Light.svg" width="48"> |
+| `windicss` | <img src="./icons/WindiCSS.svg" width="48"> | <img src="./icons/WindiCSS-Dark.svg" width="48"> | <img src="./icons/WindiCSS-Light.svg" width="48"> |
+| `wordpress` | <img src="./icons/WordPress.svg" width="48"> | <img src="./icons/WordPress-Dark.svg" width="48"> | <img src="./icons/WordPress-Light.svg" width="48"> |
+| `yew` | <img src="./icons/Yew.svg" width="48"> | <img src="./icons/Yew-Dark.svg" width="48"> | <img src="./icons/Yew-Light.svg" width="48"> |
+
 <!--
 
 ## 💖 Support the Project
