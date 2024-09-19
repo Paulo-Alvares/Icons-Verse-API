@@ -127,38 +127,38 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 ### Armazenamento, Banco de Dados e ORM’s
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
-| `cassandra` | <img src="./icons/Cassandra.svg" width="50"> | <img src="./icons/Cassandra-Dark.svg" width="50"> | <img src="./icons/Cassandra-Light.svg" width="50"> |
-| `dynamodb` | <img src="./icons/DynamoDB.svg" width="50"> | <img src="./icons/DynamoDB-Dark.svg" width="50"> | <img src="./icons/DynamoDB-Light.svg" width="50"> |
-| `elasticsearch` | <img src="./icons/ElasticSearch.svg" width="50"> | <img src="./icons/ElasticSearch-Dark.svg" width="50"> | <img src="./icons/ElasticSearch-Light.svg" width="50"> |
-| `firebase` | <img src="./icons/Firebase.svg" width="50"> | <img src="./icons/Firebase-Dark.svg" width="50"> | <img src="./icons/Firebase-Light.svg" width="50"> |
-| `mongodb` | <img src="./icons/MongoDB.svg" width="50"> | <img src="./icons/MongoDB-Dark.svg" width="50"> | <img src="./icons/MongoDB-Light.svg" width="50"> |
-| `mysql` | <img src="./icons/MySQL.svg" width="50"> | <img src="./icons/MySQL-Dark.svg" width="50"> | <img src="./icons/MySQL-Light.svg" width="50"> |
-| `neon` | <img src="./icons/Neon.svg" width="50"> | <img src="./icons/Neon-Dark.svg" width="50"> | <img src="./icons/Neon-Light.svg" width="50"> |
-| `planetscale` | <img src="./icons/PlanetScale.svg" width="50"> | <img src="./icons/PlanetScale-Dark.svg" width="50"> | <img src="./icons/PlanetScale-Light.svg" width="50"> |
-| `postgresql` | <img src="./icons/PostgreSQL.svg" width="50"> | <img src="./icons/PostgreSQL-Dark.svg" width="50"> | <img src="./icons/PostgreSQL-Light.svg" width="50"> |
-| `prisma` | <img src="./icons/Prisma.svg" width="50"> | <img src="./icons/Prisma-Dark.svg" width="50"> | <img src="./icons/Prisma-Light.svg" width="50"> |
-| `redis` | <img src="./icons/Redis.svg" width="50"> | <img src="./icons/Redis-Dark.svg" width="50"> | <img src="./icons/Redis-Light.svg" width="50"> |
-| `sequelize` | <img src="./icons/Sequelize.svg" width="50"> | <img src="./icons/Sequelize-Dark.svg" width="50"> | <img src="./icons/Sequelize-Light.svg" width="50"> |
-| `sqlite` | <img src="./icons/SQLite.svg" width="50"> | <img src="./icons/SQLite-Dark.svg" width="50"> | <img src="./icons/SQLite-Light.svg" width="50"> |
+| `cassandra` | <img src="./icons/Cassandra.svg" width="48"> | <img src="./icons/Cassandra-Dark.svg" width="48"> | <img src="./icons/Cassandra-Light.svg" width="48"> |
+| `dynamodb` | <img src="./icons/DynamoDB.svg" width="48"> | <img src="./icons/DynamoDB-Dark.svg" width="48"> | <img src="./icons/DynamoDB-Light.svg" width="48"> |
+| `elasticsearch` | <img src="./icons/Elasticsearch.svg" width="48"> | <img src="./icons/Elasticsearch-Dark.svg" width="48"> | <img src="./icons/Elasticsearch-Light.svg" width="48"> |
+| `firebase` | <img src="./icons/Firebase.svg" width="48"> | <img src="./icons/Firebase-Dark.svg" width="48"> | <img src="./icons/Firebase-Light.svg" width="48"> |
+| `mongodb` | <img src="./icons/MongoDB.svg" width="48"> | <img src="./icons/MongoDB-Dark.svg" width="48"> | <img src="./icons/MongoDB-Light.svg" width="48"> |
+| `mysql` | <img src="./icons/MySQL.svg" width="48"> | <img src="./icons/MySQL-Dark.svg" width="48"> | <img src="./icons/MySQL-Light.svg" width="48"> |
+| `neon` | <img src="./icons/Neon.svg" width="48"> | <img src="./icons/Neon-Dark.svg" width="48"> | <img src="./icons/Neon-Light.svg" width="48"> |
+| `planetscale` | <img src="./icons/PlanetScale.svg" width="48"> | <img src="./icons/PlanetScale-Dark.svg" width="48"> | <img src="./icons/PlanetScale-Light.svg" width="48"> |
+| `postgresql` | <img src="./icons/PostgreSQL.svg" width="48"> | <img src="./icons/PostgreSQL-Dark.svg" width="48"> | <img src="./icons/PostgreSQL-Light.svg" width="48"> |
+| `prisma` | <img src="./icons/Prisma.svg" width="48"> | <img src="./icons/Prisma-Dark.svg" width="48"> | <img src="./icons/Prisma-Light.svg" width="48"> |
+| `redis` | <img src="./icons/Redis.svg" width="48"> | <img src="./icons/Redis-Dark.svg" width="48"> | <img src="./icons/Redis-Light.svg" width="48"> |
+| `sequelize` | <img src="./icons/Sequelize.svg" width="48"> | <img src="./icons/Sequelize-Dark.svg" width="48"> | <img src="./icons/Sequelize-Light.svg" width="48"> |
+| `sqlite` | <img src="./icons/SQLite.svg" width="48"> | <img src="./icons/SQLite-Dark.svg" width="48"> | <img src="./icons/SQLite-Light.svg" width="48"> |
 
 ### Automação, Teste e Versionamento
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
-| `ansible` | <img src="./icons/Ansible.svg" width="50"> | <img src="./icons/Ansible-Dark.svg" width="50"> | <img src="./icons/Ansible-Light.svg" width="50"> |
-| `bash` | <img src="./icons/Bash.svg" width="50"> | <img src="./icons/Bash-Dark.svg" width="50"> | <img src="./icons/Bash-Light.svg" width="50"> |
-| `bitbucket` | <img src="./icons/Bitbucket.svg" width="50"> | <img src="./icons/Bitbucket-Dark.svg" width="50"> | <img src="./icons/Bitbucket-Light.svg" width="50"> |
-| `cypress` | <img src="./icons/Cypress.svg" width="50"> | <img src="./icons/Cypress-Dark.svg" width="50"> | <img src="./icons/Cypress-Light.svg" width="50"> |
-| `gherkin` | <img src="./icons/Gherkin.svg" width="50"> | <img src="./icons/Gherkin-Dark.svg" width="50"> | <img src="./icons/Gherkin-Light.svg" width="50"> |
-| `git` | <img src="./icons/Git.svg" width="50"> | <img src="./icons/Git-Dark.svg" width="50"> | <img src="./icons/Git-Light.svg" width="50"> |
-| `github` | <img src="./icons/GitHub.svg" width="50"> | <img src="./icons/GitHub-Dark.svg" width="50"> | <img src="./icons/GitHub-Light.svg" width="50"> |
-| `githubactions` | <img src="./icons/GitHubActions.svg" width="50"> | <img src="./icons/GitHubActions-Dark.svg" width="50"> | <img src="./icons/GitHubActions-Light.svg" width="50"> |
-| `gitlab` | <img src="./icons/GitLab.svg" width="50"> | <img src="./icons/GitLab-Dark.svg" width="50"> | <img src="./icons/GitLab-Light.svg" width="50"> |
-| `jenkins` | <img src="./icons/Jenkins.svg" width="50"> | <img src="./icons/Jenkins-Dark.svg" width="50"> | <img src="./icons/Jenkins-Light.svg" width="50"> |
-| `jest` | <img src="./icons/Jest.svg" width="50"> | <img src="./icons/Jest-Dark.svg" width="50"> | <img src="./icons/Jest-Light.svg" width="50"> |
-| `postman` | <img src="./icons/Postman.svg" width="50"> | <img src="./icons/Postman-Dark.svg" width="50"> | <img src="./icons/Postman-Light.svg" width="50"> |
-| `powershell` | <img src="./icons/PowerShell.svg" width="50"> | <img src="./icons/PowerShell-Dark.svg" width="50"> | <img src="./icons/PowerShell-Light.svg" width="50"> |
-| `selenium` | <img src="./icons/Selenium.svg" width="50"> | <img src="./icons/Selenium-Dark.svg" width="50"> | <img src="./icons/Selenium-Light.svg" width="50"> |
-| `vitest` | <img src="./icons/Vitest.svg" width="50"> | <img src="./icons/Vitest-Dark.svg" width="50"> | <img src="./icons/Vitest-Light.svg" width="50"> |
+| `ansible` | <img src="./icons/Ansible.svg" width="48"> | <img src="./icons/Ansible-Dark.svg" width="48"> | <img src="./icons/Ansible-Light.svg" width="48"> |
+| `bash` | <img src="./icons/Bash.svg" width="48"> | <img src="./icons/Bash-Dark.svg" width="48"> | <img src="./icons/Bash-Light.svg" width="48"> |
+| `bitbucket` | <img src="./icons/BitBucket.svg" width="48"> | <img src="./icons/BitBucket-Dark.svg" width="48"> | <img src="./icons/BitBucket-Light.svg" width="48"> |
+| `cypress` | <img src="./icons/Cypress.svg" width="48"> | <img src="./icons/Cypress-Dark.svg" width="48"> | <img src="./icons/Cypress-Light.svg" width="48"> |
+| `gherkin` | <img src="./icons/Gherkin.svg" width="48"> | <img src="./icons/Gherkin-Dark.svg" width="48"> | <img src="./icons/Gherkin-Light.svg" width="48"> |
+| `git` | <img src="./icons/Git.svg" width="48"> | <img src="./icons/Git-Dark.svg" width="48"> | <img src="./icons/Git-Light.svg" width="48"> |
+| `github` | <img src="./icons/Github.svg" width="48"> | <img src="./icons/Github-Dark.svg" width="48"> | <img src="./icons/Github-Light.svg" width="48"> |
+| `githubactions` | <img src="./icons/GithubActions.svg" width="48"> | <img src="./icons/GithubActions-Dark.svg" width="48"> | <img src="./icons/GithubActions-Light.svg" width="48"> |
+| `gitlab` | <img src="./icons/GitLab.svg" width="48"> | <img src="./icons/GitLab-Dark.svg" width="48"> | <img src="./icons/GitLab-Light.svg" width="48"> |
+| `jenkins` | <img src="./icons/Jenkins.svg" width="48"> | <img src="./icons/Jenkins-Dark.svg" width="48"> | <img src="./icons/Jenkins-Light.svg" width="48"> |
+| `jest` | <img src="./icons/Jest.svg" width="48"> | <img src="./icons/Jest-Dark.svg" width="48"> | <img src="./icons/Jest-Light.svg" width="48"> |
+| `postman` | <img src="./icons/Postman.svg" width="48"> | <img src="./icons/Postman-Dark.svg" width="48"> | <img src="./icons/Postman-Light.svg" width="48"> |
+| `powershell` | <img src="./icons/Powershell.svg" width="48"> | <img src="./icons/Powershell-Dark.svg" width="48"> | <img src="./icons/Powershell-Light.svg" width="48"> |
+| `selenium` | <img src="./icons/Selenium.svg" width="48"> | <img src="./icons/Selenium-Dark.svg" width="48"> | <img src="./icons/Selenium-Light.svg" width="48"> |
+| `vitest` | <img src="./icons/Vitest.svg" width="48"> | <img src="./icons/Vitest-Dark.svg" width="48"> | <img src="./icons/Vitest-Light.svg" width="48"> |
 
 ### Cloud e Infraestrutura
 | ID do Ícone | `colorful` | `dark` | `light` |
@@ -199,17 +199,17 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 ### Design e Mídia
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
-| `ableton` | <img src="./icons/Ableton.svg" width="50"> | <img src="./icons/Ableton-Dark.svg" width="50"> | <img src="./icons/Ableton-Light.svg" width="50"> |
-| `aftereffects` | <img src="./icons/AfterEffects.svg" width="50"> | <img src="./icons/AfterEffects-Dark.svg" width="50"> | <img src="./icons/AfterEffects-Light.svg" width="50"> |
-| `audition` | <img src="./icons/Audition.svg" width="50"> | <img src="./icons/Audition-Dark.svg" width="50"> | <img src="./icons/Audition-Light.svg" width="50"> |
-| `blender` | <img src="./icons/Blender.svg" width="50"> | <img src="./icons/Blender-Dark.svg" width="50"> | <img src="./icons/Blender-Light.svg" width="50"> |
-| `figma` | <img src="./icons/Figma.svg" width="50"> | <img src="./icons/Figma-Dark.svg" width="50"> | <img src="./icons/Figma-Light.svg" width="50"> |
-| `illustrator` | <img src="./icons/Illustrator.svg" width="50"> | <img src="./icons/Illustrator-Dark.svg" width="50"> | <img src="./icons/Illustrator-Light.svg" width="50"> |
-| `photoshop` | <img src="./icons/Photoshop.svg" width="50"> | <img src="./icons/Photoshop-Dark.svg" width="50"> | <img src="./icons/Photoshop-Light.svg" width="50"> |
-| `premiere` | <img src="./icons/Premiere.svg" width="50"> | <img src="./icons/Premiere-Dark.svg" width="50"> | <img src="./icons/Premiere-Light.svg" width="50"> |
-| `sketchup` | <img src="./icons/SketchUp.svg" width="50"> | <img src="./icons/SketchUp-Dark.svg" width="50"> | <img src="./icons/SketchUp-Light.svg" width="50"> |
-| `webflow` | <img src="./icons/Webflow.svg" width="50"> | <img src="./icons/Webflow-Dark.svg" width="50"> | <img src="./icons/Webflow-Light.svg" width="50"> |
-| `xd` | <img src="./icons/XD.svg" width="50"> | <img src="./icons/XD-Dark.svg" width="50"> | <img src="./icons/XD-Light.svg" width="50"> |
+| `ableton` | <img src="./icons/Ableton.svg" width="48"> | <img src="./icons/Ableton-Dark.svg" width="48"> | <img src="./icons/Ableton-Light.svg" width="48"> |
+| `aftereffects` | <img src="./icons/AfterEffects.svg" width="48"> | <img src="./icons/AfterEffects-Dark.svg" width="48"> | <img src="./icons/AfterEffects-Light.svg" width="48"> |
+| `audition` | <img src="./icons/Audition.svg" width="48"> | <img src="./icons/Audition-Dark.svg" width="48"> | <img src="./icons/Audition-Light.svg" width="48"> |
+| `blender` | <img src="./icons/Blender.svg" width="48"> | <img src="./icons/Blender-Dark.svg" width="48"> | <img src="./icons/Blender-Light.svg" width="48"> |
+| `figma` | <img src="./icons/Figma.svg" width="48"> | <img src="./icons/Figma-Dark.svg" width="48"> | <img src="./icons/Figma-Light.svg" width="48"> |
+| `illustrator` | <img src="./icons/Illustrator.svg" width="48"> | <img src="./icons/Illustrator-Dark.svg" width="48"> | <img src="./icons/Illustrator-Light.svg" width="48"> |
+| `photoshop` | <img src="./icons/Photoshop.svg" width="48"> | <img src="./icons/Photoshop-Dark.svg" width="48"> | <img src="./icons/Photoshop-Light.svg" width="48"> |
+| `premiere` | <img src="./icons/Premiere.svg" width="48"> | <img src="./icons/Premiere-Dark.svg" width="48"> | <img src="./icons/Premiere-Light.svg" width="48"> |
+| `sketchup` | <img src="./icons/Sketchup.svg" width="48"> | <img src="./icons/Sketchup-Dark.svg" width="48"> | <img src="./icons/Sketchup-Light.svg" width="48"> |
+| `webflow` | <img src="./icons/Webflow.svg" width="48"> | <img src="./icons/Webflow-Dark.svg" width="48"> | <img src="./icons/Webflow-Light.svg" width="48"> |
+| `xd` | <img src="./icons/XD.svg" width="48"> | <img src="./icons/XD-Dark.svg" width="48"> | <img src="./icons/XD-Light.svg" width="48"> |
 
 ### Educação
 | ID do Ícone | `colorful` | `dark` | `light` |
@@ -234,73 +234,73 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 ### Estilização e Marcação
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
-| `css` | <img src="./icons/CSS.svg" width="50"> | <img src="./icons/CSS-Dark.svg" width="50"> | <img src="./icons/CSS-Light.svg" width="50"> |
-| `html` | <img src="./icons/HTML.svg" width="50"> | <img src="./icons/HTML-Dark.svg" width="50"> | <img src="./icons/HTML-Light.svg" width="50"> |
-| `latex` | <img src="./icons/LaTeX.svg" width="50"> | <img src="./icons/LaTeX-Dark.svg" width="50"> | <img src="./icons/LaTeX-Light.svg" width="50"> |
-| `less` | <img src="./icons/Less.svg" width="50"> | <img src="./icons/Less-Dark.svg" width="50"> | <img src="./icons/Less-Light.svg" width="50"> |
-| `markdown` | <img src="./icons/Markdown.svg" width="50"> | <img src="./icons/Markdown-Dark.svg" width="50"> | <img src="./icons/Markdown-Light.svg" width="50"> |
-| `pug` | <img src="./icons/Pug.svg" width="50"> | <img src="./icons/Pug-Dark.svg" width="50"> | <img src="./icons/Pug-Light.svg" width="50"> |
-| `regex` | <img src="./icons/RegEx.svg" width="50"> | <img src="./icons/RegEx-Dark.svg" width="50"> | <img src="./icons/RegEx-Light.svg" width="50"> |
-| `sass` | <img src="./icons/Sass.svg" width="50"> | <img src="./icons/Sass-Dark.svg" width="50"> | <img src="./icons/Sass-Light.svg" width="50"> |
-| `svelte` | <img src="./icons/Svelte.svg" width="50"> | <img src="./icons/Svelte-Dark.svg" width="50"> | <img src="./icons/Svelte-Light.svg" width="50"> |
-| `webassembly` | <img src="./icons/WebAssembly.svg" width="50"> | <img src="./icons/WebAssembly-Dark.svg" width="50"> | <img src="./icons/WebAssembly-Light.svg" width="50"> |
+| `css` | <img src="./icons/CSS.svg" width="48"> | <img src="./icons/CSS-Dark.svg" width="48"> | <img src="./icons/CSS-Light.svg" width="48"> |
+| `html` | <img src="./icons/HTML.svg" width="48"> | <img src="./icons/HTML-Dark.svg" width="48"> | <img src="./icons/HTML-Light.svg" width="48"> |
+| `latex` | <img src="./icons/LaTeX.svg" width="48"> | <img src="./icons/LaTeX-Dark.svg" width="48"> | <img src="./icons/LaTeX-Light.svg" width="48"> |
+| `less` | <img src="./icons/Less.svg" width="48"> | <img src="./icons/Less-Dark.svg" width="48"> | <img src="./icons/Less-Light.svg" width="48"> |
+| `markdown` | <img src="./icons/Markdown.svg" width="48"> | <img src="./icons/Markdown-Dark.svg" width="48"> | <img src="./icons/Markdown-Light.svg" width="48"> |
+| `pug` | <img src="./icons/Pug.svg" width="48"> | <img src="./icons/Pug-Dark.svg" width="48"> | <img src="./icons/Pug-Light.svg" width="48"> |
+| `regex` | <img src="./icons/Regex.svg" width="48"> | <img src="./icons/Regex-Dark.svg" width="48"> | <img src="./icons/Regex-Light.svg" width="48"> |
+| `sass` | <img src="./icons/Sass.svg" width="48"> | <img src="./icons/Sass-Dark.svg" width="48"> | <img src="./icons/Sass-Light.svg" width="48"> |
+| `svelte` | <img src="./icons/Svelte.svg" width="48"> | <img src="./icons/Svelte-Dark.svg" width="48"> | <img src="./icons/Svelte-Light.svg" width="48"> |
+| `webassembly` | <img src="./icons/WebAssembly.svg" width="48"> | <img src="./icons/WebAssembly-Dark.svg" width="48"> | <img src="./icons/WebAssembly-Light.svg" width="48"> |
 
 ### Ferramentas de Build e Gerenciador de Pacotes
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
-| `anaconda` | <img src="./icons/Anaconda.svg" width="50"> | <img src="./icons/Anaconda-Dark.svg" width="50"> | <img src="./icons/Anaconda-Light.svg" width="50"> |
-| `babel` | <img src="./icons/Babel.svg" width="50"> | <img src="./icons/Babel-Dark.svg" width="50"> | <img src="./icons/Babel-Light.svg" width="50"> |
-| `bun` | <img src="./icons/Bun.svg" width="50"> | <img src="./icons/Bun-Dark.svg" width="50"> | <img src="./icons/Bun-Light.svg" width="50"> |
-| `cmake` | <img src="./icons/CMake.svg" width="50"> | <img src="./icons/CMake-Dark.svg" width="50"> | <img src="./icons/CMake-Light.svg" width="50"> |
-| `gradle` | <img src="./icons/Gradle.svg" width="50"> | <img src="./icons/Gradle-Dark.svg" width="50"> | <img src="./icons/Gradle-Light.svg" width="50"> |
-| `gulp` | <img src="./icons/Gulp.svg" width="50"> | <img src="./icons/Gulp-Dark.svg" width="50"> | <img src="./icons/Gulp-Light.svg" width="50"> |
-| `maven` | <img src="./icons/Maven.svg" width="50"> | <img src="./icons/Maven-Dark.svg" width="50"> | <img src="./icons/Maven-Light.svg" width="50"> |
-| `npm` | <img src="./icons/NPM.svg" width="50"> | <img src="./icons/NPM-Dark.svg" width="50"> | <img src="./icons/NPM-Light.svg" width="50"> |
-| `pnpm` | <img src="./icons/pnpm.svg" width="50"> | <img src="./icons/pnpm-Dark.svg" width="50"> | <img src="./icons/pnpm-Light.svg" width="50"> |
-| `rollupjs` | <img src="./icons/RollupJS.svg" width="50"> | <img src="./icons/RollupJS-Dark.svg" width="50"> | <img src="./icons/RollupJS-Light.svg" width="50"> |
-| `vite` | <img src="./icons/Vite.svg" width="50"> | <img src="./icons/Vite-Dark.svg" width="50"> | <img src="./icons/Vite-Light.svg" width="50"> |
-| `webpack` | <img src="./icons/Webpack.svg" width="50"> | <img src="./icons/Webpack-Dark.svg" width="50"> | <img src="./icons/Webpack-Light.svg" width="50"> |
-| `yarn` | <img src="./icons/Yarn.svg" width="50"> | <img src="./icons/Yarn-Dark.svg" width="50"> | <img src="./icons/Yarn-Light.svg" width="50"> |
+| `anaconda` | <img src="./icons/Anaconda.svg" width="48"> | <img src="./icons/Anaconda-Dark.svg" width="48"> | <img src="./icons/Anaconda-Light.svg" width="48"> |
+| `babel` | <img src="./icons/Babel.svg" width="48"> | <img src="./icons/Babel-Dark.svg" width="48"> | <img src="./icons/Babel-Light.svg" width="48"> |
+| `bun` | <img src="./icons/Bun.svg" width="48"> | <img src="./icons/Bun-Dark.svg" width="48"> | <img src="./icons/Bun-Light.svg" width="48"> |
+| `cmake` | <img src="./icons/CMake.svg" width="48"> | <img src="./icons/CMake-Dark.svg" width="48"> | <img src="./icons/CMake-Light.svg" width="48"> |
+| `gradle` | <img src="./icons/Gradle.svg" width="48"> | <img src="./icons/Gradle-Dark.svg" width="48"> | <img src="./icons/Gradle-Light.svg" width="48"> |
+| `gulp` | <img src="./icons/Gulp.svg" width="48"> | <img src="./icons/Gulp-Dark.svg" width="48"> | <img src="./icons/Gulp-Light.svg" width="48"> |
+| `maven` | <img src="./icons/Maven.svg" width="48"> | <img src="./icons/Maven-Dark.svg" width="48"> | <img src="./icons/Maven-Light.svg" width="48"> |
+| `npm` | <img src="./icons/Npm.svg" width="48"> | <img src="./icons/Npm-Dark.svg" width="48"> | <img src="./icons/Npm-Light.svg" width="48"> |
+| `pnpm` | <img src="./icons/Pnpm.svg" width="48"> | <img src="./icons/Pnpm-Dark.svg" width="48"> | <img src="./icons/Pnpm-Light.svg" width="48"> |
+| `rollupjs` | <img src="./icons/RollupJS.svg" width="48"> | <img src="./icons/RollupJS-Dark.svg" width="48"> | <img src="./icons/RollupJS-Light.svg" width="48"> |
+| `vite` | <img src="./icons/Vite.svg" width="48"> | <img src="./icons/Vite-Dark.svg" width="48"> | <img src="./icons/Vite-Light.svg" width="48"> |
+| `webpack` | <img src="./icons/Webpack.svg" width="48"> | <img src="./icons/Webpack-Dark.svg" width="48"> | <img src="./icons/Webpack-Light.svg" width="48"> |
+| `yarn` | <img src="./icons/Yarn.svg" width="48"> | <img src="./icons/Yarn-Dark.svg" width="48"> | <img src="./icons/Yarn-Light.svg" width="48"> |
 
 ### Frameworks
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
-| `actix` | <img src="./icons/Actix.svg" width="50"> | <img src="./icons/Actix-Dark.svg" width="50"> | <img src="./icons/Actix-Light.svg" width="50"> |
-| `adonis` | <img src="./icons/Adonis.svg" width="50"> | <img src="./icons/Adonis-Dark.svg" width="50"> | <img src="./icons/Adonis-Light.svg" width="50"> |
-| `alpinejs` | <img src="./icons/AlpineJS.svg" width="50"> | <img src="./icons/AlpineJS-Dark.svg" width="50"> | <img src="./icons/AlpineJS-Light.svg" width="50"> |
-| `angular` | <img src="./icons/Angular.svg" width="50"> | <img src="./icons/Angular-Dark.svg" width="50"> | <img src="./icons/Angular-Light.svg" width="50"> |
-| `astro` | <img src="./icons/Astro.svg" width="50"> | <img src="./icons/Astro-Dark.svg" width="50"> | <img src="./icons/Astro-Light.svg" width="50"> |
-| `azul` | <img src="./icons/Azul.svg" width="50"> | <img src="./icons/Azul-Dark.svg" width="50"> | <img src="./icons/Azul-Light.svg" width="50"> |
-| `bootstrap` | <img src="./icons/Bootstrap.svg" width="50"> | <img src="./icons/Bootstrap-Dark.svg" width="50"> | <img src="./icons/Bootstrap-Light.svg" width="50"> |
-| `django` | <img src="./icons/Django.svg" width="50"> | <img src="./icons/Django-Dark.svg" width="50"> | <img src="./icons/Django-Light.svg" width="50"> |
-| `dotnet` | <img src="./icons/DotNet.svg" width="50"> | <img src="./icons/DotNet-Dark.svg" width="50"> | <img src="./icons/DotNet-Light.svg" width="50"> |
-| `electron` | <img src="./icons/Electron.svg" width="50"> | <img src="./icons/Electron-Dark.svg" width="50"> | <img src="./icons/Electron-Light.svg" width="50"> |
-| `elysia` | <img src="./icons/Elysia.svg" width="50"> | <img src="./icons/Elysia-Dark.svg" width="50"> | <img src="./icons/Elysia-Light.svg" width="50"> |
-| `ember` | <img src="./icons/Ember.svg" width="50"> | <img src="./icons/Ember-Dark.svg" width="50"> | <img src="./icons/Ember-Light.svg" width="50"> |
-| `expressjs` | <img src="./icons/ExpressJS.svg" width="50"> | <img src="./icons/ExpressJS-Dark.svg" width="50"> | <img src="./icons/ExpressJS-Light.svg" width="50"> |
-| `fastapi` | <img src="./icons/FastAPI.svg" width="50"> | <img src="./icons/FastAPI-Dark.svg" width="50"> | <img src="./icons/FastAPI-Light.svg" width="50"> |
-| `flask` | <img src="./icons/Flask.svg" width="50"> | <img src="./icons/Flask-Dark.svg" width="50"> | <img src="./icons/Flask-Light.svg" width="50"> |
-| `flutter` | <img src="./icons/Flutter.svg" width="50"> | <img src="./icons/Flutter-Dark.svg" width="50"> | <img src="./icons/Flutter-Light.svg" width="50"> |
-| `gastby` | <img src="./icons/Gatsby.svg" width="50"> | <img src="./icons/Gatsby-Dark.svg" width="50"> | <img src="./icons/Gatsby-Light.svg" width="50"> |
-| `gtk` | <img src="./icons/GTK.svg" width="50"> | <img src="./icons/GTK-Dark.svg" width="50"> | <img src="./icons/GTK-Light.svg" width="50"> |
-| `hibernate` | <img src="./icons/Hibernate.svg" width="50"> | <img src="./icons/Hibernate-Dark.svg" width="50"> | <img src="./icons/Hibernate-Light.svg" width="50"> |
-| `ktor` | <img src="./icons/Ktor.svg" width="50"> | <img src="./icons/Ktor-Dark.svg" width="50"> | <img src="./icons/Ktor-Light.svg" width="50"> |
-| `laravel` | <img src="./icons/Laravel.svg" width="50"> | <img src="./icons/Laravel-Dark.svg" width="50"> | <img src="./icons/Laravel-Light.svg" width="50"> |
-| `nestjs` | <img src="./icons/NestJS.svg" width="50"> | <img src="./icons/NestJS-Dark.svg" width="50"> | <img src="./icons/NestJS-Light.svg" width="50"> |
-| `nextjs` | <img src="./icons/NextJS.svg" width="50"> | <img src="./icons/NextJS-Dark.svg" width="50"> | <img src="./icons/NextJS-Light.svg" width="50"> |
-| `nuxts` | <img src="./icons/NuxtJS.svg" width="50"> | <img src="./icons/NuxtJS-Dark.svg" width="50"> | <img src="./icons/NuxtJS-Light.svg" width="50"> |
-| `qt` | <img src="./icons/Qt.svg" width="50"> | <img src="./icons/Qt-Dark.svg" width="50"> | <img src="./icons/Qt-Light.svg" width="50"> |
-| `rails` | <img src="./icons/Rails.svg" width="50"> | <img src="./icons/Rails-Dark.svg" width="50"> | <img src="./icons/Rails-Light.svg" width="50"> |
-| `remix` | <img src="./icons/Remix.svg" width="50"> | <img src="./icons/Remix-Dark.svg" width="50"> | <img src="./icons/Remix-Light.svg" width="50"> |
-| `rocket` | <img src="./icons/Rocket.svg" width="50"> | <img src="./icons/Rocket-Dark.svg" width="50"> | <img src="./icons/Rocket-Light.svg" width="50"> |
-| `spring` | <img src="./icons/Spring.svg" width="50"> | <img src="./icons/Spring-Dark.svg" width="50"> | <img src="./icons/Spring-Light.svg" width="50"> |
-| `symfony` | <img src="./icons/Symfony.svg" width="50"> | <img src="./icons/Symfony-Dark.svg" width="50"> | <img src="./icons/Symfony-Light.svg" width="50"> |
-| `tauri` | <img src="./icons/Tauri.svg" width="50"> | <img src="./icons/Tauri-Dark.svg" width="50"> | <img src="./icons/Tauri-Light.svg" width="50"> |
-| `vuejs` | <img src="./icons/VueJS.svg" width="50"> | <img src="./icons/VueJS-Dark.svg" width="50"> | <img src="./icons/VueJS-Light.svg" width="50"> |
-| `vuetify` | <img src="./icons/Vuetify.svg" width="50"> | <img src="./icons/Vuetify-Dark.svg" width="50"> | <img src="./icons/Vuetify-Light.svg" width="50"> |
-| `windicss` | <img src="./icons/WindiCSS.svg" width="50"> | <img src="./icons/WindiCSS-Dark.svg" width="50"> | <img src="./icons/WindiCSS-Light.svg" width="50"> |
-| `wordpress` | <img src="./icons/WordPress.svg" width="50"> | <img src="./icons/WordPress-Dark.svg" width="50"> | <img src="./icons/WordPress-Light.svg" width="50"> |
-| `yew` | <img src="./icons/Yew.svg" width="50"> | <img src="./icons/Yew-Dark.svg" width="50"> | <img src="./icons/Yew-Light.svg" width="50"> |
+| `actix` | <img src="./icons/Actix.svg" width="48"> | <img src="./icons/Actix-Dark.svg" width="48"> | <img src="./icons/Actix-Light.svg" width="48"> |
+| `adonis` | <img src="./icons/Adonis.svg" width="48"> | <img src="./icons/Adonis-Dark.svg" width="48"> | <img src="./icons/Adonis-Light.svg" width="48"> |
+| `alpinejs` | <img src="./icons/AlpineJS.svg" width="48"> | <img src="./icons/AlpineJS-Dark.svg" width="48"> | <img src="./icons/AlpineJS-Light.svg" width="48"> |
+| `angular` | <img src="./icons/Angular.svg" width="48"> | <img src="./icons/Angular-Dark.svg" width="48"> | <img src="./icons/Angular-Light.svg" width="48"> |
+| `astro` | <img src="./icons/Astro.svg" width="48"> | <img src="./icons/Astro-Dark.svg" width="48"> | <img src="./icons/Astro-Light.svg" width="48"> |
+| `azul` | <img src="./icons/Azul.svg" width="48"> | <img src="./icons/Azul-Dark.svg" width="48"> | <img src="./icons/Azul-Light.svg" width="48"> |
+| `bootstrap` | <img src="./icons/Bootstrap.svg" width="48"> | <img src="./icons/Bootstrap-Dark.svg" width="48"> | <img src="./icons/Bootstrap-Light.svg" width="48"> |
+| `django` | <img src="./icons/Django.svg" width="48"> | <img src="./icons/Django-Dark.svg" width="48"> | <img src="./icons/Django-Light.svg" width="48"> |
+| `dotnet` | <img src="./icons/DotNet.svg" width="48"> | <img src="./icons/DotNet-Dark.svg" width="48"> | <img src="./icons/DotNet-Light.svg" width="48"> |
+| `electron` | <img src="./icons/Electron.svg" width="48"> | <img src="./icons/Electron-Dark.svg" width="48"> | <img src="./icons/Electron-Light.svg" width="48"> |
+| `elysia` | <img src="./icons/Elysia.svg" width="48"> | <img src="./icons/Elysia-Dark.svg" width="48"> | <img src="./icons/Elysia-Light.svg" width="48"> |
+| `ember` | <img src="./icons/Ember.svg" width="48"> | <img src="./icons/Ember-Dark.svg" width="48"> | <img src="./icons/Ember-Light.svg" width="48"> |
+| `expressjs` | <img src="./icons/ExpressJS.svg" width="48"> | <img src="./icons/ExpressJS-Dark.svg" width="48"> | <img src="./icons/ExpressJS-Light.svg" width="48"> |
+| `fastapi` | <img src="./icons/FastAPI.svg" width="48"> | <img src="./icons/FastAPI-Dark.svg" width="48"> | <img src="./icons/FastAPI-Light.svg" width="48"> |
+| `flask` | <img src="./icons/Flask.svg" width="48"> | <img src="./icons/Flask-Dark.svg" width="48"> | <img src="./icons/Flask-Light.svg" width="48"> |
+| `flutter` | <img src="./icons/Flutter.svg" width="48"> | <img src="./icons/Flutter-Dark.svg" width="48"> | <img src="./icons/Flutter-Light.svg" width="48"> |
+| `gastby` | <img src="./icons/Gatsby.svg" width="48"> | <img src="./icons/Gatsby-Dark.svg" width="48"> | <img src="./icons/Gatsby-Light.svg" width="48"> |
+| `gtk` | <img src="./icons/GTK.svg" width="48"> | <img src="./icons/GTK-Dark.svg" width="48"> | <img src="./icons/GTK-Light.svg" width="48"> |
+| `hibernate` | <img src="./icons/Hibernate.svg" width="48"> | <img src="./icons/Hibernate-Dark.svg" width="48"> | <img src="./icons/Hibernate-Light.svg" width="48"> |
+| `ktor` | <img src="./icons/Ktor.svg" width="48"> | <img src="./icons/Ktor-Dark.svg" width="48"> | <img src="./icons/Ktor-Light.svg" width="48"> |
+| `laravel` | <img src="./icons/Laravel.svg" width="48"> | <img src="./icons/Laravel-Dark.svg" width="48"> | <img src="./icons/Laravel-Light.svg" width="48"> |
+| `nestjs` | <img src="./icons/NestJS.svg" width="48"> | <img src="./icons/NestJS-Dark.svg" width="48"> | <img src="./icons/NestJS-Light.svg" width="48"> |
+| `nextjs` | <img src="./icons/NextJS.svg" width="48"> | <img src="./icons/NextJS-Dark.svg" width="48"> | <img src="./icons/NextJS-Light.svg" width="48"> |
+| `nuxts` | <img src="./icons/NuxtJS.svg" width="48"> | <img src="./icons/NuxtJS-Dark.svg" width="48"> | <img src="./icons/NuxtJS-Light.svg" width="48"> |
+| `qt` | <img src="./icons/QT.svg" width="48"> | <img src="./icons/QT-Dark.svg" width="48"> | <img src="./icons/QT-Light.svg" width="48"> |
+| `rails` | <img src="./icons/Rails.svg" width="48"> | <img src="./icons/Rails-Dark.svg" width="48"> | <img src="./icons/Rails-Light.svg" width="48"> |
+| `remix` | <img src="./icons/Remix.svg" width="48"> | <img src="./icons/Remix-Dark.svg" width="48"> | <img src="./icons/Remix-Light.svg" width="48"> |
+| `rocket` | <img src="./icons/Rocket.svg" width="48"> | <img src="./icons/Rocket-Dark.svg" width="48"> | <img src="./icons/Rocket-Light.svg" width="48"> |
+| `spring` | <img src="./icons/Spring.svg" width="48"> | <img src="./icons/Spring-Dark.svg" width="48"> | <img src="./icons/Spring-Light.svg" width="48"> |
+| `symfony` | <img src="./icons/Symfony.svg" width="48"> | <img src="./icons/Symfony-Dark.svg" width="48"> | <img src="./icons/Symfony-Light.svg" width="48"> |
+| `tauri` | <img src="./icons/Tauri.svg" width="48"> | <img src="./icons/Tauri-Dark.svg" width="48"> | <img src="./icons/Tauri-Light.svg" width="48"> |
+| `vuejs` | <img src="./icons/VueJS.svg" width="48"> | <img src="./icons/VueJS-Dark.svg" width="48"> | <img src="./icons/VueJS-Light.svg" width="48"> |
+| `vuetify` | <img src="./icons/Vuetify.svg" width="48"> | <img src="./icons/Vuetify-Dark.svg" width="48"> | <img src="./icons/Vuetify-Light.svg" width="48"> |
+| `windicss` | <img src="./icons/WindiCSS.svg" width="48"> | <img src="./icons/WindiCSS-Dark.svg" width="48"> | <img src="./icons/WindiCSS-Light.svg" width="48"> |
+| `wordpress` | <img src="./icons/Wordpress.svg" width="48"> | <img src="./icons/Wordpress-Dark.svg" width="48"> | <img src="./icons/Wordpress-Light.svg" width="48"> |
+| `yew` | <img src="./icons/Yew.svg" width="48"> | <img src="./icons/Yew-Dark.svg" width="48"> | <img src="./icons/Yew-Light.svg" width="48"> |
 
 ### Hardware
 | ID do Ícone | `colorful` | `dark` | `light` |
@@ -313,75 +313,75 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 ### IDE’s e Editores de Texto
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
-| `androidstudio` | <img src="./icons/AndroidStudio.svg" width="50"> | <img src="./icons/AndroidStudio-Dark.svg" width="50"> | <img src="./icons/AndroidStudio-Light.svg" width="50"> |
-| `atom`          | <img src="./icons/Atom.svg" width="50">       | <img src="./icons/Atom-Dark.svg" width="50">   | <img src="./icons/Atom-Light.svg" width="50">  |
-| `clion`         | <img src="./icons/CLion.svg" width="50">      | <img src="./icons/CLion-Dark.svg" width="50">  | <img src="./icons/CLion-Light.svg" width="50"> |
-| `codepen`       | <img src="./icons/CodePen.svg" width="50">    | <img src="./icons/CodePen-Dark.svg" width="50"> | <img src="./icons/CodePen-Light.svg" width="50"> |
-| `eclipse`       | <img src="./icons/Eclipse.svg" width="50">    | <img src="./icons/Eclipse-Dark.svg" width="50"> | <img src="./icons/Eclipse-Light.svg" width="50"> |
-| `emacs`         | <img src="./icons/Emacs.svg" width="50">      | <img src="./icons/Emacs-Dark.svg" width="50">   | <img src="./icons/Emacs-Light.svg" width="50"> |
-| `idea`          | <img src="./icons/IDEA.svg" width="50">       | <img src="./icons/IDEA-Dark.svg" width="50">    | <img src="./icons/IDEA-Light.svg" width="50">  |
-| `neovim`        | <img src="./icons/Neovim.svg" width="50">     | <img src="./icons/Neovim-Dark.svg" width="50"> | <img src="./icons/Neovim-Light.svg" width="50"> |
-| `notion`        | <img src="./icons/Notion.svg" width="50">     | <img src="./icons/Notion-Dark.svg" width="50"> | <img src="./icons/Notion-Light.svg" width="50"> |
-| `obsidian`      | <img src="./icons/Obsidian.svg" width="50">   | <img src="./icons/Obsidian-Dark.svg" width="50"> | <img src="./icons/Obsidian-Light.svg" width="50"> |
-| `phpstorm`      | <img src="./icons/PhpStorm.svg" width="50">   | <img src="./icons/PhpStorm-Dark.svg" width="50"> | <img src="./icons/PhpStorm-Light.svg" width="50"> |
-| `pycharm`       | <img src="./icons/PyCharm.svg" width="50">    | <img src="./icons/PyCharm-Dark.svg" width="50"> | <img src="./icons/PyCharm-Light.svg" width="50"> |
-| `replit`        | <img src="./icons/Replit.svg" width="50">     | <img src="./icons/Replit-Dark.svg" width="50"> | <img src="./icons/Replit-Light.svg" width="50"> |
-| `rider`         | <img src="./icons/Rider.svg" width="50">      | <img src="./icons/Rider-Dark.svg" width="50">  | <img src="./icons/Rider-Light.svg" width="50"> |
-| `sublime`       | <img src="./icons/Sublime.svg" width="50">    | <img src="./icons/Sublime-Dark.svg" width="50"> | <img src="./icons/Sublime-Light.svg" width="50"> |
-| `vim`           | <img src="./icons/Vim.svg" width="50">        | <img src="./icons/Vim-Dark.svg" width="50">    | <img src="./icons/Vim-Light.svg" width="50">  |
-| `visualstudio`  | <img src="./icons/VisualStudio.svg" width="50"> | <img src="./icons/VisualStudio-Dark.svg" width="50"> | <img src="./icons/VisualStudio-Light.svg" width="50"> |
-| `vscode`        | <img src="./icons/VSCode.svg" width="50">     | <img src="./icons/VSCode-Dark.svg" width="50"> | <img src="./icons/VSCode-Light.svg" width="50"> |
-| `vscodium`      | <img src="./icons/VSCodium.svg" width="50">   | <img src="./icons/VSCodium-Dark.svg" width="50"> | <img src="./icons/VSCodium-Light.svg" width="50"> |
-| `webstorm`      | <img src="./icons/WebStorm.svg" width="50">   | <img src="./icons/WebStorm-Dark.svg" width="50"> | <img src="./icons/WebStorm-Light.svg" width="50"> |
+| `androidstudio` | <img src="./icons/AndroidStudio.svg" width="48"> | <img src="./icons/AndroidStudio-Dark.svg" width="48"> | <img src="./icons/AndroidStudio-Light.svg" width="48"> |
+| `atom`          | <img src="./icons/Atom.svg" width="48">       | <img src="./icons/Atom-Dark.svg" width="48">   | <img src="./icons/Atom-Light.svg" width="48">  |
+| `clion`         | <img src="./icons/CLion.svg" width="48">      | <img src="./icons/CLion-Dark.svg" width="48">  | <img src="./icons/CLion-Light.svg" width="48"> |
+| `codepen`       | <img src="./icons/CodePen.svg" width="48">    | <img src="./icons/CodePen-Dark.svg" width="48"> | <img src="./icons/CodePen-Light.svg" width="48"> |
+| `eclipse`       | <img src="./icons/Eclipse.svg" width="48">    | <img src="./icons/Eclipse-Dark.svg" width="48"> | <img src="./icons/Eclipse-Light.svg" width="48"> |
+| `emacs`         | <img src="./icons/Emacs.svg" width="48">      | <img src="./icons/Emacs-Dark.svg" width="48">   | <img src="./icons/Emacs-Light.svg" width="48"> |
+| `idea`          | <img src="./icons/Idea.svg" width="48">       | <img src="./icons/Idea-Dark.svg" width="48">    | <img src="./icons/Idea-Light.svg" width="48">  |
+| `neovim`        | <img src="./icons/NeoVim.svg" width="48">     | <img src="./icons/NeoVim-Dark.svg" width="48"> | <img src="./icons/NeoVim-Light.svg" width="48"> |
+| `notion`        | <img src="./icons/Notion.svg" width="48">     | <img src="./icons/Notion-Dark.svg" width="48"> | <img src="./icons/Notion-Light.svg" width="48"> |
+| `obsidian`      | <img src="./icons/Obsidian.svg" width="48">   | <img src="./icons/Obsidian-Dark.svg" width="48"> | <img src="./icons/Obsidian-Light.svg" width="48"> |
+| `phpstorm`      | <img src="./icons/PhpStorm.svg" width="48">   | <img src="./icons/PhpStorm-Dark.svg" width="48"> | <img src="./icons/PhpStorm-Light.svg" width="48"> |
+| `pycharm`       | <img src="./icons/PyCharm.svg" width="48">    | <img src="./icons/PyCharm-Dark.svg" width="48"> | <img src="./icons/PyCharm-Light.svg" width="48"> |
+| `replit`        | <img src="./icons/Replit.svg" width="48">     | <img src="./icons/Replit-Dark.svg" width="48"> | <img src="./icons/Replit-Light.svg" width="48"> |
+| `rider`         | <img src="./icons/Rider.svg" width="48">      | <img src="./icons/Rider-Dark.svg" width="48">  | <img src="./icons/Rider-Light.svg" width="48"> |
+| `sublime`       | <img src="./icons/Sublime.svg" width="48">    | <img src="./icons/Sublime-Dark.svg" width="48"> | <img src="./icons/Sublime-Light.svg" width="48"> |
+| `vim`           | <img src="./icons/VIM.svg" width="48">        | <img src="./icons/VIM-Dark.svg" width="48">    | <img src="./icons/VIM-Light.svg" width="48">  |
+| `visualstudio`  | <img src="./icons/VisualStudio.svg" width="48"> | <img src="./icons/VisualStudio-Dark.svg" width="48"> | <img src="./icons/VisualStudio-Light.svg" width="48"> |
+| `vscode`        | <img src="./icons/VSCode.svg" width="48">     | <img src="./icons/VSCode-Dark.svg" width="48"> | <img src="./icons/VSCode-Light.svg" width="48"> |
+| `vscodium`      | <img src="./icons/VSCodium.svg" width="48">   | <img src="./icons/VSCodium-Dark.svg" width="48"> | <img src="./icons/VSCodium-Light.svg" width="48"> |
+| `webstorm`      | <img src="./icons/WebStorm.svg" width="48">   | <img src="./icons/WebStorm-Dark.svg" width="48"> | <img src="./icons/WebStorm-Light.svg" width="48"> |
 
 ### Linguagens de Programação
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
-| `c`            | <img src="./icons/C.svg" width="50">        | <img src="./icons/C-Dark.svg" width="50">   | <img src="./icons/C-Light.svg" width="50">  |
-| `cpp`          | <img src="./icons/Cpp.svg" width="50">      | <img src="./icons/Cpp-Dark.svg" width="50"> | <img src="./icons/Cpp-Light.svg" width="50">|
-| `cs`           | <img src="./icons/Cs.svg" width="50">       | <img src="./icons/Cs-Dark.svg" width="50">  | <img src="./icons/Cs-Light.svg" width="50"> |
-| `clojure`      | <img src="./icons/Clojure.svg" width="50">  | <img src="./icons/Clojure-Dark.svg" width="50"> | <img src="./icons/Clojure-Light.svg" width="50"> |
-| `coffeescript` | <img src="./icons/CoffeeScript.svg" width="50"> | <img src="./icons/CoffeeScript-Dark.svg" width="50"> | <img src="./icons/CoffeeScript-Light.svg" width="50"> |
-| `crystal`      | <img src="./icons/Crystal.svg" width="50">  | <img src="./icons/Crystal-Dark.svg" width="50"> | <img src="./icons/Crystal-Light.svg" width="50"> |
-| `dart`         | <img src="./icons/Dart.svg" width="50">     | <img src="./icons/Dart-Dark.svg" width="50"> | <img src="./icons/Dart-Light.svg" width="50"> |
-| `elixir`       | <img src="./icons/Elixir.svg" width="50">   | <img src="./icons/Elixir-Dark.svg" width="50"> | <img src="./icons/Elixir-Light.svg" width="50"> |
-| `forth`        | <img src="./icons/Forth.svg" width="50">    | <img src="./icons/Forth-Dark.svg" width="50"> | <img src="./icons/Forth-Light.svg" width="50"> |
-| `fortran`      | <img src="./icons/Fortran.svg" width="50">  | <img src="./icons/Fortran-Dark.svg" width="50"> | <img src="./icons/Fortran-Light.svg" width="50"> |
-| `golang`       | <img src="./icons/GoLang.svg" width="50">       | <img src="./icons/GoLang-Dark.svg" width="50">   | <img src="./icons/GoLang-Light.svg" width="50">  |
-| `haskell`      | <img src="./icons/Haskell.svg" width="50">  | <img src="./icons/Haskell-Dark.svg" width="50"> | <img src="./icons/Haskell-Light.svg" width="50"> |
-| `java`         | <img src="./icons/Java.svg" width="50">     | <img src="./icons/Java-Dark.svg" width="50"> | <img src="./icons/Java-Light.svg" width="50"> |
-| `javascript`   | <img src="./icons/JavaScript.svg" width="50"> | <img src="./icons/JavaScript-Dark.svg" width="50"> | <img src="./icons/JavaScript-Light.svg" width="50"> |
-| `kotlin`       | <img src="./icons/Kotlin.svg" width="50">   | <img src="./icons/Kotlin-Dark.svg" width="50"> | <img src="./icons/Kotlin-Light.svg" width="50"> |
-| `lua`          | <img src="./icons/Lua.svg" width="50">      | <img src="./icons/Lua-Dark.svg" width="50">  | <img src="./icons/Lua-Light.svg" width="50"> |
-| `nim`          | <img src="./icons/Nim.svg" width="50">      | <img src="./icons/Nim-Dark.svg" width="50">  | <img src="./icons/Nim-Light.svg" width="50"> |
-| `nodejs`       | <img src="./icons/NodeJS.svg" width="50">   | <img src="./icons/NodeJS-Dark.svg" width="50"> | <img src="./icons/NodeJS-Light.svg" width="50"> |
-| `ocaml`        | <img src="./icons/OCaml.svg" width="50">    | <img src="./icons/OCaml-Dark.svg" width="50"> | <img src="./icons/OCaml-Light.svg" width="50"> |
-| `perl`         | <img src="./icons/Perl.svg" width="50">     | <img src="./icons/Perl-Dark.svg" width="50">  | <img src="./icons/Perl-Light.svg" width="50"> |
-| `php`          | <img src="./icons/PHP.svg" width="50">      | <img src="./icons/PHP-Dark.svg" width="50">   | <img src="./icons/PHP-Light.svg" width="50"> |
-| `python`       | <img src="./icons/Python.svg" width="50">   | <img src="./icons/Python-Dark.svg" width="50"> | <img src="./icons/Python-Light.svg" width="50"> |
-| `r`            | <img src="./icons/R.svg" width="50">        | <img src="./icons/R-Dark.svg" width="50">     | <img src="./icons/R-Light.svg" width="50">    |
-| `ruby`         | <img src="./icons/Ruby.svg" width="50">     | <img src="./icons/Ruby-Dark.svg" width="50">  | <img src="./icons/Ruby-Light.svg" width="50"> |
-| `rust`         | <img src="./icons/Rust.svg" width="50">     | <img src="./icons/Rust-Dark.svg" width="50">  | <img src="./icons/Rust-Light.svg" width="50"> |
-| `scala`        | <img src="./icons/Scala.svg" width="50">    | <img src="./icons/Scala-Dark.svg" width="50"> | <img src="./icons/Scala-Light.svg" width="50"> |
-| `solidity`     | <img src="./icons/Solidity.svg" width="50"> | <img src="./icons/Solidity-Dark.svg" width="50"> | <img src="./icons/Solidity-Light.svg" width="50"> |
-| `swift`        | <img src="./icons/Swift.svg" width="50">    | <img src="./icons/Swift-Dark.svg" width="50"> | <img src="./icons/Swift-Light.svg" width="50"> |
-| `typescript`   | <img src="./icons/TypeScript.svg" width="50"> | <img src="./icons/TypeScript-Dark.svg" width="50"> | <img src="./icons/TypeScript-Light.svg" width="50"> |
-| `v`            | <img src="./icons/V.svg" width="50">        | <img src="./icons/V-Dark.svg" width="50">     | <img src="./icons/V-Light.svg" width="50">    |
-| `vala`         | <img src="./icons/Vala.svg" width="50">     | <img src="./icons/Vala-Dark.svg" width="50">  | <img src="./icons/Vala-Light.svg" width="50"> |
-| `zig`          | <img src="./icons/Zig.svg" width="50">      | <img src="./icons/Zig-Dark.svg" width="50">   | <img src="./icons/Zig-Light.svg" width="50">  |
+| `c`            | <img src="./icons/C.svg" width="48">        | <img src="./icons/C-Dark.svg" width="48">   | <img src="./icons/C-Light.svg" width="48">  |
+| `cpp`          | <img src="./icons/CPP.svg" width="48">      | <img src="./icons/CPP-Dark.svg" width="48"> | <img src="./icons/CPP-Light.svg" width="48">|
+| `cs`           | <img src="./icons/CS.svg" width="48">       | <img src="./icons/CS-Dark.svg" width="48">  | <img src="./icons/CS-Light.svg" width="48"> |
+| `clojure`      | <img src="./icons/Clojure.svg" width="48">  | <img src="./icons/Clojure-Dark.svg" width="48"> | <img src="./icons/Clojure-Light.svg" width="48"> |
+| `coffeescript` | <img src="./icons/CoffeeScript.svg" width="48"> | <img src="./icons/CoffeeScript-Dark.svg" width="48"> | <img src="./icons/CoffeeScript-Light.svg" width="48"> |
+| `crystal`      | <img src="./icons/Crystal.svg" width="48">  | <img src="./icons/Crystal-Dark.svg" width="48"> | <img src="./icons/Crystal-Light.svg" width="48"> |
+| `dart`         | <img src="./icons/Dart.svg" width="48">     | <img src="./icons/Dart-Dark.svg" width="48"> | <img src="./icons/Dart-Light.svg" width="48"> |
+| `elixir`       | <img src="./icons/Elixir.svg" width="48">   | <img src="./icons/Elixir-Dark.svg" width="48"> | <img src="./icons/Elixir-Light.svg" width="48"> |
+| `forth`        | <img src="./icons/Forth.svg" width="48">    | <img src="./icons/Forth-Dark.svg" width="48"> | <img src="./icons/Forth-Light.svg" width="48"> |
+| `fortran`      | <img src="./icons/Fortran.svg" width="48">  | <img src="./icons/Fortran-Dark.svg" width="48"> | <img src="./icons/Fortran-Light.svg" width="48"> |
+| `golang`       | <img src="./icons/GoLang.svg" width="48">       | <img src="./icons/GoLang-Dark.svg" width="48">   | <img src="./icons/GoLang-Light.svg" width="48">  |
+| `haskell`      | <img src="./icons/Haskell.svg" width="48">  | <img src="./icons/Haskell-Dark.svg" width="48"> | <img src="./icons/Haskell-Light.svg" width="48"> |
+| `java`         | <img src="./icons/Java.svg" width="48">     | <img src="./icons/Java-Dark.svg" width="48"> | <img src="./icons/Java-Light.svg" width="48"> |
+| `javascript`   | <img src="./icons/JavaScript.svg" width="48"> | <img src="./icons/JavaScript-Dark.svg" width="48"> | <img src="./icons/JavaScript-Light.svg" width="48"> |
+| `kotlin`       | <img src="./icons/Kotlin.svg" width="48">   | <img src="./icons/Kotlin-Dark.svg" width="48"> | <img src="./icons/Kotlin-Light.svg" width="48"> |
+| `lua`          | <img src="./icons/Lua.svg" width="48">      | <img src="./icons/Lua-Dark.svg" width="48">  | <img src="./icons/Lua-Light.svg" width="48"> |
+| `nim`          | <img src="./icons/Nim.svg" width="48">      | <img src="./icons/Nim-Dark.svg" width="48">  | <img src="./icons/Nim-Light.svg" width="48"> |
+| `nodejs`       | <img src="./icons/NodeJS.svg" width="48">   | <img src="./icons/NodeJS-Dark.svg" width="48"> | <img src="./icons/NodeJS-Light.svg" width="48"> |
+| `ocaml`        | <img src="./icons/OCaml.svg" width="48">    | <img src="./icons/OCaml-Dark.svg" width="48"> | <img src="./icons/OCaml-Light.svg" width="48"> |
+| `perl`         | <img src="./icons/Perl.svg" width="48">     | <img src="./icons/Perl-Dark.svg" width="48">  | <img src="./icons/Perl-Light.svg" width="48"> |
+| `php`          | <img src="./icons/PHP.svg" width="48">      | <img src="./icons/PHP-Dark.svg" width="48">   | <img src="./icons/PHP-Light.svg" width="48"> |
+| `python`       | <img src="./icons/Python.svg" width="48">   | <img src="./icons/Python-Dark.svg" width="48"> | <img src="./icons/Python-Light.svg" width="48"> |
+| `r`            | <img src="./icons/R.svg" width="48">        | <img src="./icons/R-Dark.svg" width="48">     | <img src="./icons/R-Light.svg" width="48">    |
+| `ruby`         | <img src="./icons/Ruby.svg" width="48">     | <img src="./icons/Ruby-Dark.svg" width="48">  | <img src="./icons/Ruby-Light.svg" width="48"> |
+| `rust`         | <img src="./icons/Rust.svg" width="48">     | <img src="./icons/Rust-Dark.svg" width="48">  | <img src="./icons/Rust-Light.svg" width="48"> |
+| `scala`        | <img src="./icons/Scala.svg" width="48">    | <img src="./icons/Scala-Dark.svg" width="48"> | <img src="./icons/Scala-Light.svg" width="48"> |
+| `solidity`     | <img src="./icons/Solidity.svg" width="48"> | <img src="./icons/Solidity-Dark.svg" width="48"> | <img src="./icons/Solidity-Light.svg" width="48"> |
+| `swift`        | <img src="./icons/Swift.svg" width="48">    | <img src="./icons/Swift-Dark.svg" width="48"> | <img src="./icons/Swift-Light.svg" width="48"> |
+| `typescript`   | <img src="./icons/TypeScript.svg" width="48"> | <img src="./icons/TypeScript-Dark.svg" width="48"> | <img src="./icons/TypeScript-Light.svg" width="48"> |
+| `v`            | <img src="./icons/V.svg" width="48">        | <img src="./icons/V-Dark.svg" width="48">     | <img src="./icons/V-Light.svg" width="48">    |
+| `vala`         | <img src="./icons/Vala.svg" width="48">     | <img src="./icons/Vala-Dark.svg" width="48">  | <img src="./icons/Vala-Light.svg" width="48"> |
+| `zig`          | <img src="./icons/Zig.svg" width="48">      | <img src="./icons/Zig-Dark.svg" width="48">   | <img src="./icons/Zig-Light.svg" width="48">  |
 
 ### Redes Sociais
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
-| `devto`     | <img src="./icons/Devto.svg" width="50">      | <img src="./icons/Devto-Dark.svg" width="50"> | <img src="./icons/Devto-Light.svg" width="50"> |
-| `discord`   | <img src="./icons/Discord.svg" width="50">    | <img src="./icons/Discord-Dark.svg" width="50"> | <img src="./icons/Discord-Light.svg" width="50"> |
-| `fediverse` | <img src="./icons/Fediverse.svg" width="50">  | <img src="./icons/Fediverse-Dark.svg" width="50"> | <img src="./icons/Fediverse-Light.svg" width="50"> |
-| `gmail`     | <img src="./icons/Gmail.svg" width="50">      | <img src="./icons/Gmail-Dark.svg" width="50">  | <img src="./icons/Gmail-Light.svg" width="50">  |
-| `instagram` | <img src="./icons/Instagram.svg" width="50">  | <img src="./icons/Instagram-Dark.svg" width="50"> | <img src="./icons/Instagram-Light.svg" width="50"> |
-| `linkedin`  | <img src="./icons/LinkedIn.svg" width="50">   | <img src="./icons/LinkedIn-Dark.svg" width="50">  | <img src="./icons/LinkedIn-Light.svg" width="50"> |
-| `mastodon`  | <img src="./icons/Mastodon.svg" width="50">   | <img src="./icons/Mastodon-Dark.svg" width="50">  | <img src="./icons/Mastodon-Light.svg" width="50"> |
-| `misskey`   | <img src="./icons/Misskey.svg" width="50">    | <img src="./icons/Misskey-Dark.svg" width="50">   | <img src="./icons/Misskey-Light.svg" width="50"> |
-| `stackoverflow` | <img src="./icons/StackOverflow.svg" width="50"> | <img src="./icons/StackOverflow-Dark.svg" width="50"> | <img src="./icons/StackOverflow-Light.svg" width="50"> |
+| `devto`     | <img src="./icons/DevTo.svg" width="48">      | <img src="./icons/DevTo-Dark.svg" width="48"> | <img src="./icons/DevTo-Light.svg" width="48"> |
+| `discord`   | <img src="./icons/Discord.svg" width="48">    | <img src="./icons/Discord-Dark.svg" width="48"> | <img src="./icons/Discord-Light.svg" width="48"> |
+| `fediverse` | <img src="./icons/Fediverse.svg" width="48">  | <img src="./icons/Fediverse-Dark.svg" width="48"> | <img src="./icons/Fediverse-Light.svg" width="48"> |
+| `gmail`     | <img src="./icons/Gmail.svg" width="48">      | <img src="./icons/Gmail-Dark.svg" width="48">  | <img src="./icons/Gmail-Light.svg" width="48">  |
+| `instagram` | <img src="./icons/Instagram.svg" width="48">  | <img src="./icons/Instagram-Dark.svg" width="48"> | <img src="./icons/Instagram-Light.svg" width="48"> |
+| `linkedin`  | <img src="./icons/LinkedIn.svg" width="48">   | <img src="./icons/LinkedIn-Dark.svg" width="48">  | <img src="./icons/LinkedIn-Light.svg" width="48"> |
+| `mastodon`  | <img src="./icons/Mastodon.svg" width="48">   | <img src="./icons/Mastodon-Dark.svg" width="48">  | <img src="./icons/Mastodon-Light.svg" width="48"> |
+| `misskey`   | <img src="./icons/Misskey.svg" width="48">    | <img src="./icons/Misskey-Dark.svg" width="48">   | <img src="./icons/Misskey-Light.svg" width="48"> |
+| `stackoverflow` | <img src="./icons/StackOverflow.svg" width="48"> | <img src="./icons/StackOverflow-Dark.svg" width="48"> | <img src="./icons/StackOverflow-Light.svg" width="48"> |
 
 ### Sistemas Operacionais
 | ID do Ícone | `colorful` | `dark` | `light` |
