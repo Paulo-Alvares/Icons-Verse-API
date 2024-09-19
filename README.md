@@ -369,6 +369,34 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `v`            | <img src="./icons/V.svg" width="48">        | <img src="./icons/V-Dark.svg" width="48">     | <img src="./icons/V-Light.svg" width="48">    |
 | `vala`         | <img src="./icons/Vala.svg" width="48">     | <img src="./icons/Vala-Dark.svg" width="48">  | <img src="./icons/Vala-Light.svg" width="48"> |
 | `zig`          | <img src="./icons/Zig.svg" width="48">      | <img src="./icons/Zig-Dark.svg" width="48">   | <img src="./icons/Zig-Light.svg" width="48">  |
+
+### Redes Sociais
+| ID do Ícone | `colorful` | `dark` | `light` |
+| :---------: | :-----: | :--: | :---: |
+| `devto`     | <img src="./icons/Devto.svg" width="48">      | <img src="./icons/Devto-Dark.svg" width="48"> | <img src="./icons/Devto-Light.svg" width="48"> |
+| `discord`   | <img src="./icons/Discord.svg" width="48">    | <img src="./icons/Discord-Dark.svg" width="48"> | <img src="./icons/Discord-Light.svg" width="48"> |
+| `fediverse` | <img src="./icons/Fediverse.svg" width="48">  | <img src="./icons/Fediverse-Dark.svg" width="48"> | <img src="./icons/Fediverse-Light.svg" width="48"> |
+| `gmail`     | <img src="./icons/Gmail.svg" width="48">      | <img src="./icons/Gmail-Dark.svg" width="48">  | <img src="./icons/Gmail-Light.svg" width="48">  |
+| `instagram` | <img src="./icons/Instagram.svg" width="48">  | <img src="./icons/Instagram-Dark.svg" width="48"> | <img src="./icons/Instagram-Light.svg" width="48"> |
+| `linkedin`  | <img src="./icons/LinkedIn.svg" width="48">   | <img src="./icons/LinkedIn-Dark.svg" width="48">  | <img src="./icons/LinkedIn-Light.svg" width="48"> |
+| `mastodon`  | <img src="./icons/Mastodon.svg" width="48">   | <img src="./icons/Mastodon-Dark.svg" width="48">  | <img src="./icons/Mastodon-Light.svg" width="48"> |
+| `misskey`   | <img src="./icons/Misskey.svg" width="48">    | <img src="./icons/Misskey-Dark.svg" width="48">   | <img src="./icons/Misskey-Light.svg" width="48"> |
+| `stackoverflow` | <img src="./icons/StackOverflow.svg" width="48"> | <img src="./icons/StackOverflow-Dark.svg" width="48"> | <img src="./icons/StackOverflow-Light.svg" width="48"> |
+
+### Sistemas Operacionais
+| ID do Ícone | `colorful` | `dark` | `light` |
+| :---------: | :-----: | :--: | :---: |
+| `arch`      | <img src="./icons/Arch.svg" width="48">       | <img src="./icons/Arch-Dark.svg" width="48"> | <img src="./icons/Arch-Light.svg" width="48"> |
+| `bsd`       | <img src="./icons/BSD.svg" width="48">        | <img src="./icons/BSD-Dark.svg" width="48">  | <img src="./icons/BSD-Light.svg" width="48">  |
+| `debian`    | <img src="./icons/Debian.svg" width="48">     | <img src="./icons/Debian-Dark.svg" width="48"> | <img src="./icons/Debian-Light.svg" width="48"> |
+| `kali`      | <img src="./icons/Kali.svg" width="48">       | <img src="./icons/Kali-Dark.svg" width="48"> | <img src="./icons/Kali-Light.svg" width="48"> |
+| `linux`     | <img src="./icons/Linux.svg" width="48">      | <img src="./icons/Linux-Dark.svg" width="48"> | <img src="./icons/Linux-Light.svg" width="48"> |
+| `mint`      | <img src="./icons/Mint.svg" width="48">       | <img src="./icons/Mint-Dark.svg" width="48"> | <img src="./icons/Mint-Light.svg" width="48"> |
+| `nix`       | <img src="./icons/Nix.svg" width="48">        | <img src="./icons/Nix-Dark.svg" width="48">  | <img src="./icons/Nix-Light.svg" width="48">  |
+| `plan9`     | <img src="./icons/Plan9.svg" width="48">      | <img src="./icons/Plan9-Dark.svg" width="48"> | <img src="./icons/Plan9-Light.svg" width="48"> |
+| `ubuntu`    | <img src="./icons/Ubuntu.svg" width="48">     | <img src="./icons/Ubuntu-Dark.svg" width="48"> | <img src="./icons/Ubuntu-Light.svg" width="48"> |
+| `windows`   | <img src="./icons/Windows.svg" width="48">    | <img src="./icons/Windows-Dark.svg" width="48"> | <img src="./icons/Windows-Light.svg" width="48"> |
+
 <!--
 
 ## 💖 Support the Project
