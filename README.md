@@ -245,6 +245,23 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `svelte` | <img src="./icons/Svelte.svg" width="48"> | <img src="./icons/Svelte-Dark.svg" width="48"> | <img src="./icons/Svelte-Light.svg" width="48"> |
 | `webassembly` | <img src="./icons/WebAssembly.svg" width="48"> | <img src="./icons/WebAssembly-Dark.svg" width="48"> | <img src="./icons/WebAssembly-Light.svg" width="48"> |
 
+### Ferramentas de Build e Gerenciador de Pacotes
+| ID do Ícone | `colorful` | `dark` | `light` |
+| :---------: | :-----: | :--: | :---: |
+| `anaconda` | <img src="./icons/Anaconda.svg" width="48"> | <img src="./icons/Anaconda-Dark.svg" width="48"> | <img src="./icons/Anaconda-Light.svg" width="48"> |
+| `babel` | <img src="./icons/Babel.svg" width="48"> | <img src="./icons/Babel-Dark.svg" width="48"> | <img src="./icons/Babel-Light.svg" width="48"> |
+| `bun` | <img src="./icons/Bun.svg" width="48"> | <img src="./icons/Bun-Dark.svg" width="48"> | <img src="./icons/Bun-Light.svg" width="48"> |
+| `cmake` | <img src="./icons/CMake.svg" width="48"> | <img src="./icons/CMake-Dark.svg" width="48"> | <img src="./icons/CMake-Light.svg" width="48"> |
+| `gradle` | <img src="./icons/Gradle.svg" width="48"> | <img src="./icons/Gradle-Dark.svg" width="48"> | <img src="./icons/Gradle-Light.svg" width="48"> |
+| `gulp` | <img src="./icons/Gulp.svg" width="48"> | <img src="./icons/Gulp-Dark.svg" width="48"> | <img src="./icons/Gulp-Light.svg" width="48"> |
+| `maven` | <img src="./icons/Maven.svg" width="48"> | <img src="./icons/Maven-Dark.svg" width="48"> | <img src="./icons/Maven-Light.svg" width="48"> |
+| `npm` | <img src="./icons/NPM.svg" width="48"> | <img src="./icons/NPM-Dark.svg" width="48"> | <img src="./icons/NPM-Light.svg" width="48"> |
+| `pnpm` | <img src="./icons/pnpm.svg" width="48"> | <img src="./icons/pnpm-Dark.svg" width="48"> | <img src="./icons/pnpm-Light.svg" width="48"> |
+| `rollupjs` | <img src="./icons/RollupJS.svg" width="48"> | <img src="./icons/RollupJS-Dark.svg" width="48"> | <img src="./icons/RollupJS-Light.svg" width="48"> |
+| `vite` | <img src="./icons/Vite.svg" width="48"> | <img src="./icons/Vite-Dark.svg" width="48"> | <img src="./icons/Vite-Light.svg" width="48"> |
+| `webpack` | <img src="./icons/Webpack.svg" width="48"> | <img src="./icons/Webpack-Dark.svg" width="48"> | <img src="./icons/Webpack-Light.svg" width="48"> |
+| `yarn` | <img src="./icons/Yarn.svg" width="48"> | <img src="./icons/Yarn-Dark.svg" width="48"> | <img src="./icons/Yarn-Light.svg" width="48"> |
+
 <!--
 
 ## 💖 Support the Project
