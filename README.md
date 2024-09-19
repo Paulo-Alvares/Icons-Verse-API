@@ -129,7 +129,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | :---------: | :-----: | :--: | :---: |
 | `cassandra` | <img src="./icons/Cassandra.svg" width="48"> | <img src="./icons/Cassandra-Dark.svg" width="48"> | <img src="./icons/Cassandra-Light.svg" width="48"> |
 | `dynamodb` | <img src="./icons/DynamoDB.svg" width="48"> | <img src="./icons/DynamoDB-Dark.svg" width="48"> | <img src="./icons/DynamoDB-Light.svg" width="48"> |
-| `elasticsearch` | <img src="./icons/ElasticSearch.svg" width="48"> | <img src="./icons/ElasticSearch-Dark.svg" width="48"> | <img src="./icons/ElasticSearch-Light.svg" width="48"> |
+| `elasticsearch` | <img src="./icons/Elasticsearch.svg" width="48"> | <img src="./icons/Elasticsearch-Dark.svg" width="48"> | <img src="./icons/Elasticsearch-Light.svg" width="48"> |
 | `firebase` | <img src="./icons/Firebase.svg" width="48"> | <img src="./icons/Firebase-Dark.svg" width="48"> | <img src="./icons/Firebase-Light.svg" width="48"> |
 | `mongodb` | <img src="./icons/MongoDB.svg" width="48"> | <img src="./icons/MongoDB-Dark.svg" width="48"> | <img src="./icons/MongoDB-Light.svg" width="48"> |
 | `mysql` | <img src="./icons/MySQL.svg" width="48"> | <img src="./icons/MySQL-Dark.svg" width="48"> | <img src="./icons/MySQL-Light.svg" width="48"> |
@@ -146,17 +146,17 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | :---------: | :-----: | :--: | :---: |
 | `ansible` | <img src="./icons/Ansible.svg" width="48"> | <img src="./icons/Ansible-Dark.svg" width="48"> | <img src="./icons/Ansible-Light.svg" width="48"> |
 | `bash` | <img src="./icons/Bash.svg" width="48"> | <img src="./icons/Bash-Dark.svg" width="48"> | <img src="./icons/Bash-Light.svg" width="48"> |
-| `bitbucket` | <img src="./icons/Bitbucket.svg" width="48"> | <img src="./icons/Bitbucket-Dark.svg" width="48"> | <img src="./icons/Bitbucket-Light.svg" width="48"> |
+| `bitbucket` | <img src="./icons/BitBucket.svg" width="48"> | <img src="./icons/BitBucket-Dark.svg" width="48"> | <img src="./icons/BitBucket-Light.svg" width="48"> |
 | `cypress` | <img src="./icons/Cypress.svg" width="48"> | <img src="./icons/Cypress-Dark.svg" width="48"> | <img src="./icons/Cypress-Light.svg" width="48"> |
 | `gherkin` | <img src="./icons/Gherkin.svg" width="48"> | <img src="./icons/Gherkin-Dark.svg" width="48"> | <img src="./icons/Gherkin-Light.svg" width="48"> |
 | `git` | <img src="./icons/Git.svg" width="48"> | <img src="./icons/Git-Dark.svg" width="48"> | <img src="./icons/Git-Light.svg" width="48"> |
-| `github` | <img src="./icons/GitHub.svg" width="48"> | <img src="./icons/GitHub-Dark.svg" width="48"> | <img src="./icons/GitHub-Light.svg" width="48"> |
-| `githubactions` | <img src="./icons/GitHubActions.svg" width="48"> | <img src="./icons/GitHubActions-Dark.svg" width="48"> | <img src="./icons/GitHubActions-Light.svg" width="48"> |
+| `github` | <img src="./icons/Github.svg" width="48"> | <img src="./icons/Github-Dark.svg" width="48"> | <img src="./icons/Github-Light.svg" width="48"> |
+| `githubactions` | <img src="./icons/GithubActions.svg" width="48"> | <img src="./icons/GithubActions-Dark.svg" width="48"> | <img src="./icons/GithubActions-Light.svg" width="48"> |
 | `gitlab` | <img src="./icons/GitLab.svg" width="48"> | <img src="./icons/GitLab-Dark.svg" width="48"> | <img src="./icons/GitLab-Light.svg" width="48"> |
 | `jenkins` | <img src="./icons/Jenkins.svg" width="48"> | <img src="./icons/Jenkins-Dark.svg" width="48"> | <img src="./icons/Jenkins-Light.svg" width="48"> |
 | `jest` | <img src="./icons/Jest.svg" width="48"> | <img src="./icons/Jest-Dark.svg" width="48"> | <img src="./icons/Jest-Light.svg" width="48"> |
 | `postman` | <img src="./icons/Postman.svg" width="48"> | <img src="./icons/Postman-Dark.svg" width="48"> | <img src="./icons/Postman-Light.svg" width="48"> |
-| `powershell` | <img src="./icons/PowerShell.svg" width="48"> | <img src="./icons/PowerShell-Dark.svg" width="48"> | <img src="./icons/PowerShell-Light.svg" width="48"> |
+| `powershell` | <img src="./icons/Powershell.svg" width="48"> | <img src="./icons/Powershell-Dark.svg" width="48"> | <img src="./icons/Powershell-Light.svg" width="48"> |
 | `selenium` | <img src="./icons/Selenium.svg" width="48"> | <img src="./icons/Selenium-Dark.svg" width="48"> | <img src="./icons/Selenium-Light.svg" width="48"> |
 | `vitest` | <img src="./icons/Vitest.svg" width="48"> | <img src="./icons/Vitest-Dark.svg" width="48"> | <img src="./icons/Vitest-Light.svg" width="48"> |
 
@@ -207,7 +207,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `illustrator` | <img src="./icons/Illustrator.svg" width="48"> | <img src="./icons/Illustrator-Dark.svg" width="48"> | <img src="./icons/Illustrator-Light.svg" width="48"> |
 | `photoshop` | <img src="./icons/Photoshop.svg" width="48"> | <img src="./icons/Photoshop-Dark.svg" width="48"> | <img src="./icons/Photoshop-Light.svg" width="48"> |
 | `premiere` | <img src="./icons/Premiere.svg" width="48"> | <img src="./icons/Premiere-Dark.svg" width="48"> | <img src="./icons/Premiere-Light.svg" width="48"> |
-| `sketchup` | <img src="./icons/SketchUp.svg" width="48"> | <img src="./icons/SketchUp-Dark.svg" width="48"> | <img src="./icons/SketchUp-Light.svg" width="48"> |
+| `sketchup` | <img src="./icons/Sketchup.svg" width="48"> | <img src="./icons/Sketchup-Dark.svg" width="48"> | <img src="./icons/Sketchup-Light.svg" width="48"> |
 | `webflow` | <img src="./icons/Webflow.svg" width="48"> | <img src="./icons/Webflow-Dark.svg" width="48"> | <img src="./icons/Webflow-Light.svg" width="48"> |
 | `xd` | <img src="./icons/XD.svg" width="48"> | <img src="./icons/XD-Dark.svg" width="48"> | <img src="./icons/XD-Light.svg" width="48"> |
 
@@ -240,7 +240,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `less` | <img src="./icons/Less.svg" width="48"> | <img src="./icons/Less-Dark.svg" width="48"> | <img src="./icons/Less-Light.svg" width="48"> |
 | `markdown` | <img src="./icons/Markdown.svg" width="48"> | <img src="./icons/Markdown-Dark.svg" width="48"> | <img src="./icons/Markdown-Light.svg" width="48"> |
 | `pug` | <img src="./icons/Pug.svg" width="48"> | <img src="./icons/Pug-Dark.svg" width="48"> | <img src="./icons/Pug-Light.svg" width="48"> |
-| `regex` | <img src="./icons/RegEx.svg" width="48"> | <img src="./icons/RegEx-Dark.svg" width="48"> | <img src="./icons/RegEx-Light.svg" width="48"> |
+| `regex` | <img src="./icons/Regex.svg" width="48"> | <img src="./icons/Regex-Dark.svg" width="48"> | <img src="./icons/Regex-Light.svg" width="48"> |
 | `sass` | <img src="./icons/Sass.svg" width="48"> | <img src="./icons/Sass-Dark.svg" width="48"> | <img src="./icons/Sass-Light.svg" width="48"> |
 | `svelte` | <img src="./icons/Svelte.svg" width="48"> | <img src="./icons/Svelte-Dark.svg" width="48"> | <img src="./icons/Svelte-Light.svg" width="48"> |
 | `webassembly` | <img src="./icons/WebAssembly.svg" width="48"> | <img src="./icons/WebAssembly-Dark.svg" width="48"> | <img src="./icons/WebAssembly-Light.svg" width="48"> |
@@ -255,8 +255,8 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `gradle` | <img src="./icons/Gradle.svg" width="48"> | <img src="./icons/Gradle-Dark.svg" width="48"> | <img src="./icons/Gradle-Light.svg" width="48"> |
 | `gulp` | <img src="./icons/Gulp.svg" width="48"> | <img src="./icons/Gulp-Dark.svg" width="48"> | <img src="./icons/Gulp-Light.svg" width="48"> |
 | `maven` | <img src="./icons/Maven.svg" width="48"> | <img src="./icons/Maven-Dark.svg" width="48"> | <img src="./icons/Maven-Light.svg" width="48"> |
-| `npm` | <img src="./icons/NPM.svg" width="48"> | <img src="./icons/NPM-Dark.svg" width="48"> | <img src="./icons/NPM-Light.svg" width="48"> |
-| `pnpm` | <img src="./icons/pnpm.svg" width="48"> | <img src="./icons/pnpm-Dark.svg" width="48"> | <img src="./icons/pnpm-Light.svg" width="48"> |
+| `npm` | <img src="./icons/Npm.svg" width="48"> | <img src="./icons/Npm-Dark.svg" width="48"> | <img src="./icons/Npm-Light.svg" width="48"> |
+| `pnpm` | <img src="./icons/Pnpm.svg" width="48"> | <img src="./icons/Pnpm-Dark.svg" width="48"> | <img src="./icons/Pnpm-Light.svg" width="48"> |
 | `rollupjs` | <img src="./icons/RollupJS.svg" width="48"> | <img src="./icons/RollupJS-Dark.svg" width="48"> | <img src="./icons/RollupJS-Light.svg" width="48"> |
 | `vite` | <img src="./icons/Vite.svg" width="48"> | <img src="./icons/Vite-Dark.svg" width="48"> | <img src="./icons/Vite-Light.svg" width="48"> |
 | `webpack` | <img src="./icons/Webpack.svg" width="48"> | <img src="./icons/Webpack-Dark.svg" width="48"> | <img src="./icons/Webpack-Light.svg" width="48"> |
@@ -289,7 +289,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `nestjs` | <img src="./icons/NestJS.svg" width="48"> | <img src="./icons/NestJS-Dark.svg" width="48"> | <img src="./icons/NestJS-Light.svg" width="48"> |
 | `nextjs` | <img src="./icons/NextJS.svg" width="48"> | <img src="./icons/NextJS-Dark.svg" width="48"> | <img src="./icons/NextJS-Light.svg" width="48"> |
 | `nuxts` | <img src="./icons/NuxtJS.svg" width="48"> | <img src="./icons/NuxtJS-Dark.svg" width="48"> | <img src="./icons/NuxtJS-Light.svg" width="48"> |
-| `qt` | <img src="./icons/Qt.svg" width="48"> | <img src="./icons/Qt-Dark.svg" width="48"> | <img src="./icons/Qt-Light.svg" width="48"> |
+| `qt` | <img src="./icons/QT.svg" width="48"> | <img src="./icons/QT-Dark.svg" width="48"> | <img src="./icons/QT-Light.svg" width="48"> |
 | `rails` | <img src="./icons/Rails.svg" width="48"> | <img src="./icons/Rails-Dark.svg" width="48"> | <img src="./icons/Rails-Light.svg" width="48"> |
 | `remix` | <img src="./icons/Remix.svg" width="48"> | <img src="./icons/Remix-Dark.svg" width="48"> | <img src="./icons/Remix-Light.svg" width="48"> |
 | `rocket` | <img src="./icons/Rocket.svg" width="48"> | <img src="./icons/Rocket-Dark.svg" width="48"> | <img src="./icons/Rocket-Light.svg" width="48"> |
@@ -299,7 +299,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `vuejs` | <img src="./icons/VueJS.svg" width="48"> | <img src="./icons/VueJS-Dark.svg" width="48"> | <img src="./icons/VueJS-Light.svg" width="48"> |
 | `vuetify` | <img src="./icons/Vuetify.svg" width="48"> | <img src="./icons/Vuetify-Dark.svg" width="48"> | <img src="./icons/Vuetify-Light.svg" width="48"> |
 | `windicss` | <img src="./icons/WindiCSS.svg" width="48"> | <img src="./icons/WindiCSS-Dark.svg" width="48"> | <img src="./icons/WindiCSS-Light.svg" width="48"> |
-| `wordpress` | <img src="./icons/WordPress.svg" width="48"> | <img src="./icons/WordPress-Dark.svg" width="48"> | <img src="./icons/WordPress-Light.svg" width="48"> |
+| `wordpress` | <img src="./icons/Wordpress.svg" width="48"> | <img src="./icons/Wordpress-Dark.svg" width="48"> | <img src="./icons/Wordpress-Light.svg" width="48"> |
 | `yew` | <img src="./icons/Yew.svg" width="48"> | <img src="./icons/Yew-Dark.svg" width="48"> | <img src="./icons/Yew-Light.svg" width="48"> |
 
 ### Hardware
@@ -319,8 +319,8 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `codepen`       | <img src="./icons/CodePen.svg" width="48">    | <img src="./icons/CodePen-Dark.svg" width="48"> | <img src="./icons/CodePen-Light.svg" width="48"> |
 | `eclipse`       | <img src="./icons/Eclipse.svg" width="48">    | <img src="./icons/Eclipse-Dark.svg" width="48"> | <img src="./icons/Eclipse-Light.svg" width="48"> |
 | `emacs`         | <img src="./icons/Emacs.svg" width="48">      | <img src="./icons/Emacs-Dark.svg" width="48">   | <img src="./icons/Emacs-Light.svg" width="48"> |
-| `idea`          | <img src="./icons/IDEA.svg" width="48">       | <img src="./icons/IDEA-Dark.svg" width="48">    | <img src="./icons/IDEA-Light.svg" width="48">  |
-| `neovim`        | <img src="./icons/Neovim.svg" width="48">     | <img src="./icons/Neovim-Dark.svg" width="48"> | <img src="./icons/Neovim-Light.svg" width="48"> |
+| `idea`          | <img src="./icons/Idea.svg" width="48">       | <img src="./icons/Idea-Dark.svg" width="48">    | <img src="./icons/Idea-Light.svg" width="48">  |
+| `neovim`        | <img src="./icons/NeoVim.svg" width="48">     | <img src="./icons/NeoVim-Dark.svg" width="48"> | <img src="./icons/NeoVim-Light.svg" width="48"> |
 | `notion`        | <img src="./icons/Notion.svg" width="48">     | <img src="./icons/Notion-Dark.svg" width="48"> | <img src="./icons/Notion-Light.svg" width="48"> |
 | `obsidian`      | <img src="./icons/Obsidian.svg" width="48">   | <img src="./icons/Obsidian-Dark.svg" width="48"> | <img src="./icons/Obsidian-Light.svg" width="48"> |
 | `phpstorm`      | <img src="./icons/PhpStorm.svg" width="48">   | <img src="./icons/PhpStorm-Dark.svg" width="48"> | <img src="./icons/PhpStorm-Light.svg" width="48"> |
@@ -328,7 +328,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `replit`        | <img src="./icons/Replit.svg" width="48">     | <img src="./icons/Replit-Dark.svg" width="48"> | <img src="./icons/Replit-Light.svg" width="48"> |
 | `rider`         | <img src="./icons/Rider.svg" width="48">      | <img src="./icons/Rider-Dark.svg" width="48">  | <img src="./icons/Rider-Light.svg" width="48"> |
 | `sublime`       | <img src="./icons/Sublime.svg" width="48">    | <img src="./icons/Sublime-Dark.svg" width="48"> | <img src="./icons/Sublime-Light.svg" width="48"> |
-| `vim`           | <img src="./icons/Vim.svg" width="48">        | <img src="./icons/Vim-Dark.svg" width="48">    | <img src="./icons/Vim-Light.svg" width="48">  |
+| `vim`           | <img src="./icons/VIM.svg" width="48">        | <img src="./icons/VIM-Dark.svg" width="48">    | <img src="./icons/VIM-Light.svg" width="48">  |
 | `visualstudio`  | <img src="./icons/VisualStudio.svg" width="48"> | <img src="./icons/VisualStudio-Dark.svg" width="48"> | <img src="./icons/VisualStudio-Light.svg" width="48"> |
 | `vscode`        | <img src="./icons/VSCode.svg" width="48">     | <img src="./icons/VSCode-Dark.svg" width="48"> | <img src="./icons/VSCode-Light.svg" width="48"> |
 | `vscodium`      | <img src="./icons/VSCodium.svg" width="48">   | <img src="./icons/VSCodium-Dark.svg" width="48"> | <img src="./icons/VSCodium-Light.svg" width="48"> |
@@ -338,8 +338,8 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
 | `c`            | <img src="./icons/C.svg" width="48">        | <img src="./icons/C-Dark.svg" width="48">   | <img src="./icons/C-Light.svg" width="48">  |
-| `cpp`          | <img src="./icons/Cpp.svg" width="48">      | <img src="./icons/Cpp-Dark.svg" width="48"> | <img src="./icons/Cpp-Light.svg" width="48">|
-| `cs`           | <img src="./icons/Cs.svg" width="48">       | <img src="./icons/Cs-Dark.svg" width="48">  | <img src="./icons/Cs-Light.svg" width="48"> |
+| `cpp`          | <img src="./icons/CPP.svg" width="48">      | <img src="./icons/CPP-Dark.svg" width="48"> | <img src="./icons/CPP-Light.svg" width="48">|
+| `cs`           | <img src="./icons/CS.svg" width="48">       | <img src="./icons/CS-Dark.svg" width="48">  | <img src="./icons/CS-Light.svg" width="48"> |
 | `clojure`      | <img src="./icons/Clojure.svg" width="48">  | <img src="./icons/Clojure-Dark.svg" width="48"> | <img src="./icons/Clojure-Light.svg" width="48"> |
 | `coffeescript` | <img src="./icons/CoffeeScript.svg" width="48"> | <img src="./icons/CoffeeScript-Dark.svg" width="48"> | <img src="./icons/CoffeeScript-Light.svg" width="48"> |
 | `crystal`      | <img src="./icons/Crystal.svg" width="48">  | <img src="./icons/Crystal-Dark.svg" width="48"> | <img src="./icons/Crystal-Light.svg" width="48"> |
@@ -373,7 +373,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 ### Redes Sociais
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
-| `devto`     | <img src="./icons/Devto.svg" width="48">      | <img src="./icons/Devto-Dark.svg" width="48"> | <img src="./icons/Devto-Light.svg" width="48"> |
+| `devto`     | <img src="./icons/DevTo.svg" width="48">      | <img src="./icons/DevTo-Dark.svg" width="48"> | <img src="./icons/DevTo-Light.svg" width="48"> |
 | `discord`   | <img src="./icons/Discord.svg" width="48">    | <img src="./icons/Discord-Dark.svg" width="48"> | <img src="./icons/Discord-Light.svg" width="48"> |
 | `fediverse` | <img src="./icons/Fediverse.svg" width="48">  | <img src="./icons/Fediverse-Dark.svg" width="48"> | <img src="./icons/Fediverse-Light.svg" width="48"> |
 | `gmail`     | <img src="./icons/Gmail.svg" width="48">      | <img src="./icons/Gmail-Dark.svg" width="48">  | <img src="./icons/Gmail-Light.svg" width="48">  |
