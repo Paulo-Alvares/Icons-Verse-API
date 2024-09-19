@@ -334,6 +334,41 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `vscodium`      | <img src="./icons/VSCodium.svg" width="48">   | <img src="./icons/VSCodium-Dark.svg" width="48"> | <img src="./icons/VSCodium-Light.svg" width="48"> |
 | `webstorm`      | <img src="./icons/WebStorm.svg" width="48">   | <img src="./icons/WebStorm-Dark.svg" width="48"> | <img src="./icons/WebStorm-Light.svg" width="48"> |
 
+### Linguagens de Programação
+| ID do Ícone | `colorful` | `dark` | `light` |
+| :---------: | :-----: | :--: | :---: |
+| `c`            | <img src="./icons/C.svg" width="48">        | <img src="./icons/C-Dark.svg" width="48">   | <img src="./icons/C-Light.svg" width="48">  |
+| `cpp`          | <img src="./icons/Cpp.svg" width="48">      | <img src="./icons/Cpp-Dark.svg" width="48"> | <img src="./icons/Cpp-Light.svg" width="48">|
+| `cs`           | <img src="./icons/Cs.svg" width="48">       | <img src="./icons/Cs-Dark.svg" width="48">  | <img src="./icons/Cs-Light.svg" width="48"> |
+| `clojure`      | <img src="./icons/Clojure.svg" width="48">  | <img src="./icons/Clojure-Dark.svg" width="48"> | <img src="./icons/Clojure-Light.svg" width="48"> |
+| `coffeescript` | <img src="./icons/CoffeeScript.svg" width="48"> | <img src="./icons/CoffeeScript-Dark.svg" width="48"> | <img src="./icons/CoffeeScript-Light.svg" width="48"> |
+| `crystal`      | <img src="./icons/Crystal.svg" width="48">  | <img src="./icons/Crystal-Dark.svg" width="48"> | <img src="./icons/Crystal-Light.svg" width="48"> |
+| `dart`         | <img src="./icons/Dart.svg" width="48">     | <img src="./icons/Dart-Dark.svg" width="48"> | <img src="./icons/Dart-Light.svg" width="48"> |
+| `elixir`       | <img src="./icons/Elixir.svg" width="48">   | <img src="./icons/Elixir-Dark.svg" width="48"> | <img src="./icons/Elixir-Light.svg" width="48"> |
+| `forth`        | <img src="./icons/Forth.svg" width="48">    | <img src="./icons/Forth-Dark.svg" width="48"> | <img src="./icons/Forth-Light.svg" width="48"> |
+| `fortran`      | <img src="./icons/Fortran.svg" width="48">  | <img src="./icons/Fortran-Dark.svg" width="48"> | <img src="./icons/Fortran-Light.svg" width="48"> |
+| `golang`       | <img src="./icons/GoLang.svg" width="48">       | <img src="./icons/GoLang-Dark.svg" width="48">   | <img src="./icons/GoLang-Light.svg" width="48">  |
+| `haskell`      | <img src="./icons/Haskell.svg" width="48">  | <img src="./icons/Haskell-Dark.svg" width="48"> | <img src="./icons/Haskell-Light.svg" width="48"> |
+| `java`         | <img src="./icons/Java.svg" width="48">     | <img src="./icons/Java-Dark.svg" width="48"> | <img src="./icons/Java-Light.svg" width="48"> |
+| `javascript`   | <img src="./icons/JavaScript.svg" width="48"> | <img src="./icons/JavaScript-Dark.svg" width="48"> | <img src="./icons/JavaScript-Light.svg" width="48"> |
+| `kotlin`       | <img src="./icons/Kotlin.svg" width="48">   | <img src="./icons/Kotlin-Dark.svg" width="48"> | <img src="./icons/Kotlin-Light.svg" width="48"> |
+| `lua`          | <img src="./icons/Lua.svg" width="48">      | <img src="./icons/Lua-Dark.svg" width="48">  | <img src="./icons/Lua-Light.svg" width="48"> |
+| `nim`          | <img src="./icons/Nim.svg" width="48">      | <img src="./icons/Nim-Dark.svg" width="48">  | <img src="./icons/Nim-Light.svg" width="48"> |
+| `nodejs`       | <img src="./icons/NodeJS.svg" width="48">   | <img src="./icons/NodeJS-Dark.svg" width="48"> | <img src="./icons/NodeJS-Light.svg" width="48"> |
+| `ocaml`        | <img src="./icons/OCaml.svg" width="48">    | <img src="./icons/OCaml-Dark.svg" width="48"> | <img src="./icons/OCaml-Light.svg" width="48"> |
+| `perl`         | <img src="./icons/Perl.svg" width="48">     | <img src="./icons/Perl-Dark.svg" width="48">  | <img src="./icons/Perl-Light.svg" width="48"> |
+| `php`          | <img src="./icons/PHP.svg" width="48">      | <img src="./icons/PHP-Dark.svg" width="48">   | <img src="./icons/PHP-Light.svg" width="48"> |
+| `python`       | <img src="./icons/Python.svg" width="48">   | <img src="./icons/Python-Dark.svg" width="48"> | <img src="./icons/Python-Light.svg" width="48"> |
+| `r`            | <img src="./icons/R.svg" width="48">        | <img src="./icons/R-Dark.svg" width="48">     | <img src="./icons/R-Light.svg" width="48">    |
+| `ruby`         | <img src="./icons/Ruby.svg" width="48">     | <img src="./icons/Ruby-Dark.svg" width="48">  | <img src="./icons/Ruby-Light.svg" width="48"> |
+| `rust`         | <img src="./icons/Rust.svg" width="48">     | <img src="./icons/Rust-Dark.svg" width="48">  | <img src="./icons/Rust-Light.svg" width="48"> |
+| `scala`        | <img src="./icons/Scala.svg" width="48">    | <img src="./icons/Scala-Dark.svg" width="48"> | <img src="./icons/Scala-Light.svg" width="48"> |
+| `solidity`     | <img src="./icons/Solidity.svg" width="48"> | <img src="./icons/Solidity-Dark.svg" width="48"> | <img src="./icons/Solidity-Light.svg" width="48"> |
+| `swift`        | <img src="./icons/Swift.svg" width="48">    | <img src="./icons/Swift-Dark.svg" width="48"> | <img src="./icons/Swift-Light.svg" width="48"> |
+| `typescript`   | <img src="./icons/TypeScript.svg" width="48"> | <img src="./icons/TypeScript-Dark.svg" width="48"> | <img src="./icons/TypeScript-Light.svg" width="48"> |
+| `v`            | <img src="./icons/V.svg" width="48">        | <img src="./icons/V-Dark.svg" width="48">     | <img src="./icons/V-Light.svg" width="48">    |
+| `vala`         | <img src="./icons/Vala.svg" width="48">     | <img src="./icons/Vala-Dark.svg" width="48">  | <img src="./icons/Vala-Light.svg" width="48"> |
+| `zig`          | <img src="./icons/Zig.svg" width="48">      | <img src="./icons/Zig-Dark.svg" width="48">   | <img src="./icons/Zig-Light.svg" width="48">  |
 <!--
 
 ## 💖 Support the Project
