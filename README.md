@@ -302,6 +302,38 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `wordpress` | <img src="./icons/WordPress.svg" width="48"> | <img src="./icons/WordPress-Dark.svg" width="48"> | <img src="./icons/WordPress-Light.svg" width="48"> |
 | `yew` | <img src="./icons/Yew.svg" width="48"> | <img src="./icons/Yew-Dark.svg" width="48"> | <img src="./icons/Yew-Light.svg" width="48"> |
 
+### Hardware
+| ID do Ícone | `colorful` | `dark` | `light` |
+| :---------: | :-----: | :--: | :---: |
+| `arduino`     | <img src="./icons/Arduino.svg" width="48">    | <img src="./icons/Arduino-Dark.svg" width="48"> | <img src="./icons/Arduino-Light.svg" width="48"> |
+| `autocad`     | <img src="./icons/AutoCAD.svg" width="48">    | <img src="./icons/AutoCAD-Dark.svg" width="48"> | <img src="./icons/AutoCAD-Light.svg" width="48"> |
+| `raspberrypi` | <img src="./icons/RaspberryPi.svg" width="48"> | <img src="./icons/RaspberryPi-Dark.svg" width="48"> | <img src="./icons/RaspberryPi-Light.svg" width="48"> |
+| `ros`         | <img src="./icons/ROS.svg" width="48">        | <img src="./icons/ROS-Dark.svg" width="48">     | <img src="./icons/ROS-Light.svg" width="48">    |
+
+### IDE’s e Editores de Texto
+| ID do Ícone | `colorful` | `dark` | `light` |
+| :---------: | :-----: | :--: | :---: |
+| `androidstudio` | <img src="./icons/AndroidStudio.svg" width="48"> | <img src="./icons/AndroidStudio-Dark.svg" width="48"> | <img src="./icons/AndroidStudio-Light.svg" width="48"> |
+| `atom`          | <img src="./icons/Atom.svg" width="48">       | <img src="./icons/Atom-Dark.svg" width="48">   | <img src="./icons/Atom-Light.svg" width="48">  |
+| `clion`         | <img src="./icons/CLion.svg" width="48">      | <img src="./icons/CLion-Dark.svg" width="48">  | <img src="./icons/CLion-Light.svg" width="48"> |
+| `codepen`       | <img src="./icons/CodePen.svg" width="48">    | <img src="./icons/CodePen-Dark.svg" width="48"> | <img src="./icons/CodePen-Light.svg" width="48"> |
+| `eclipse`       | <img src="./icons/Eclipse.svg" width="48">    | <img src="./icons/Eclipse-Dark.svg" width="48"> | <img src="./icons/Eclipse-Light.svg" width="48"> |
+| `emacs`         | <img src="./icons/Emacs.svg" width="48">      | <img src="./icons/Emacs-Dark.svg" width="48">   | <img src="./icons/Emacs-Light.svg" width="48"> |
+| `idea`          | <img src="./icons/IDEA.svg" width="48">       | <img src="./icons/IDEA-Dark.svg" width="48">    | <img src="./icons/IDEA-Light.svg" width="48">  |
+| `neovim`        | <img src="./icons/Neovim.svg" width="48">     | <img src="./icons/Neovim-Dark.svg" width="48"> | <img src="./icons/Neovim-Light.svg" width="48"> |
+| `notion`        | <img src="./icons/Notion.svg" width="48">     | <img src="./icons/Notion-Dark.svg" width="48"> | <img src="./icons/Notion-Light.svg" width="48"> |
+| `obsidian`      | <img src="./icons/Obsidian.svg" width="48">   | <img src="./icons/Obsidian-Dark.svg" width="48"> | <img src="./icons/Obsidian-Light.svg" width="48"> |
+| `phpstorm`      | <img src="./icons/PhpStorm.svg" width="48">   | <img src="./icons/PhpStorm-Dark.svg" width="48"> | <img src="./icons/PhpStorm-Light.svg" width="48"> |
+| `pycharm`       | <img src="./icons/PyCharm.svg" width="48">    | <img src="./icons/PyCharm-Dark.svg" width="48"> | <img src="./icons/PyCharm-Light.svg" width="48"> |
+| `replit`        | <img src="./icons/Replit.svg" width="48">     | <img src="./icons/Replit-Dark.svg" width="48"> | <img src="./icons/Replit-Light.svg" width="48"> |
+| `rider`         | <img src="./icons/Rider.svg" width="48">      | <img src="./icons/Rider-Dark.svg" width="48">  | <img src="./icons/Rider-Light.svg" width="48"> |
+| `sublime`       | <img src="./icons/Sublime.svg" width="48">    | <img src="./icons/Sublime-Dark.svg" width="48"> | <img src="./icons/Sublime-Light.svg" width="48"> |
+| `vim`           | <img src="./icons/Vim.svg" width="48">        | <img src="./icons/Vim-Dark.svg" width="48">    | <img src="./icons/Vim-Light.svg" width="48">  |
+| `visualstudio`  | <img src="./icons/VisualStudio.svg" width="48"> | <img src="./icons/VisualStudio-Dark.svg" width="48"> | <img src="./icons/VisualStudio-Light.svg" width="48"> |
+| `vscode`        | <img src="./icons/VSCode.svg" width="48">     | <img src="./icons/VSCode-Dark.svg" width="48"> | <img src="./icons/VSCode-Light.svg" width="48"> |
+| `vscodium`      | <img src="./icons/VSCodium.svg" width="48">   | <img src="./icons/VSCodium-Dark.svg" width="48"> | <img src="./icons/VSCodium-Light.svg" width="48"> |
+| `webstorm`      | <img src="./icons/WebStorm.svg" width="48">   | <img src="./icons/WebStorm-Dark.svg" width="48"> | <img src="./icons/WebStorm-Light.svg" width="48"> |
+
 <!--
 
 ## 💖 Support the Project
