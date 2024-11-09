@@ -105,7 +105,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `reactivex` | <img src="./icons/ReactiveX.svg" width="50"> | <img src="./icons/ReactiveX-Dark.svg" width="50"> | <img src="./icons/ReactiveX-Light.svg" width="50"> |
 | `redux` | <img src="./icons/Redux.svg" width="50"> | <img src="./icons/Redux-Dark.svg" width="50"> | <img src="./icons/Redux-Light.svg" width="50"> |
 | `solidjs` | <img src="./icons/SolidJS.svg" width="50"> | <img src="./icons/SolidJS-Dark.svg" width="50"> | <img src="./icons/SolidJS-Light.svg" width="50"> |
-| `tailwindcss` | <img src="./icons/TailwindCSS.svg" width="50"> | <img src="./icons/TailwindCSS-Dark.svg" width="50"> | <img src="./icons/TailwindCSS-Light.svg" width="50"> |
+| `styledcomponents` | <img src="./icons/StyledComponents.svg" width="50"> | <img src="./icons/StyledComponents-Dark.svg" width="50"> | <img src="./icons/StyledComponents-Light.svg" width="50"> |
 | `threejs` | <img src="./icons/ThreeJS.svg" width="50"> | <img src="./icons/ThreeJS-Dark.svg" width="50"> | <img src="./icons/ThreeJS-Light.svg" width="50"> |
 
 ### Análise de Dados, Data Science e IA
@@ -295,6 +295,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `rocket` | <img src="./icons/Rocket.svg" width="48"> | <img src="./icons/Rocket-Dark.svg" width="48"> | <img src="./icons/Rocket-Light.svg" width="48"> |
 | `spring` | <img src="./icons/Spring.svg" width="48"> | <img src="./icons/Spring-Dark.svg" width="48"> | <img src="./icons/Spring-Light.svg" width="48"> |
 | `symfony` | <img src="./icons/Symfony.svg" width="48"> | <img src="./icons/Symfony-Dark.svg" width="48"> | <img src="./icons/Symfony-Light.svg" width="48"> |
+| `tailwindcss` | <img src="./icons/TailwindCSS.svg" width="50"> | <img src="./icons/TailwindCSS-Dark.svg" width="50"> | <img src="./icons/TailwindCSS-Light.svg" width="50"> |
 | `tauri` | <img src="./icons/Tauri.svg" width="48"> | <img src="./icons/Tauri-Dark.svg" width="48"> | <img src="./icons/Tauri-Light.svg" width="48"> |
 | `vuejs` | <img src="./icons/VueJS.svg" width="48"> | <img src="./icons/VueJS-Dark.svg" width="48"> | <img src="./icons/VueJS-Light.svg" width="48"> |
 | `vuetify` | <img src="./icons/Vuetify.svg" width="48"> | <img src="./icons/Vuetify-Dark.svg" width="48"> | <img src="./icons/Vuetify-Light.svg" width="48"> |
@@ -382,6 +383,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `mastodon`  | <img src="./icons/Mastodon.svg" width="48">   | <img src="./icons/Mastodon-Dark.svg" width="48">  | <img src="./icons/Mastodon-Light.svg" width="48"> |
 | `misskey`   | <img src="./icons/Misskey.svg" width="48">    | <img src="./icons/Misskey-Dark.svg" width="48">   | <img src="./icons/Misskey-Light.svg" width="48"> |
 | `stackoverflow` | <img src="./icons/StackOverflow.svg" width="48"> | <img src="./icons/StackOverflow-Dark.svg" width="48"> | <img src="./icons/StackOverflow-Light.svg" width="48"> |
+| `x` | <img src="./icons/X.svg" width="50"> | <img src="./icons/X-Dark.svg" width="50"> | <img src="./icons/X-Light.svg" width="50"> |
 
 ### Sistemas Operacionais
 | ID do Ícone | `colorful` | `dark` | `light` |
