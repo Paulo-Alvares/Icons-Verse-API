@@ -1,8 +1,14 @@
-const icons = require("./dist/icons.json");
-const iconNameList = [
+const icons = require("./icons.json");
+
+interface Icons {
+  [key: string]: string;
+}
+
+const iconNameList: string[] = [
   ...new Set(Object.keys(icons).map((i) => i.split("-")[0])),
 ];
-const shortNames = {
+
+const shortNames: Icons = {
   js: "javascript",
   ts: "typescript",
   py: "python",
@@ -45,19 +51,24 @@ const shortNames = {
   sklearn: "scikitlearn",
 };
 
-const themedIcons = [
+const themedIcons: string[] = [
   ...Object.keys(icons)
     .filter((i) => i.includes("-light") || i.includes("-dark"))
     .map((i) => i.split("-")[0]),
 ];
 
-const SIZE_MAP = {
+const SIZE_MAP: { [key: string]: number } = {
   small: 50,
   normal: 75,
   big: 100,
 };
+type IconSize = "small" | "normal" | "big";
 
-function generateSvg(iconNames, perLine, size) {
+function generateSvg(
+  iconNames: string[],
+  perLine: number,
+  size: IconSize
+): string {
   const baseSize = SIZE_MAP[size] || SIZE_MAP.normal;
   const SCALE = baseSize / (300 - 44);
   const iconSvgList = iconNames.map((i) => icons[i]);
@@ -85,19 +96,19 @@ function generateSvg(iconNames, perLine, size) {
   `;
 }
 
-function parseShortNames(names, theme = "") {
-  return names.map((name) => {
-    if (iconNameList.includes(name))
-      return name + (themedIcons.includes(name) && theme ? `-${theme}` : "");
-    else if (name in shortNames)
-      return (
-        shortNames[name] +
-        (themedIcons.includes(shortNames[name]) && theme ? `-${theme}` : "")
-      );
-  });
+function parseShortNames(names: string[], theme: string = ""): string[] {
+  return names
+    .map((name) => {
+      if (iconNameList.includes(name))
+        return name + (themedIcons.includes(name) && theme ? `-${theme}` : "");
+      else if (name in shortNames)
+        return (
+          shortNames[name] +
+          (themedIcons.includes(shortNames[name]) && theme ? `-${theme}` : "")
+        );
+      return null;
+    })
+    .filter((name): name is string => name !== null);
 }
 
-module.exports = {
-  generateSvg,
-  parseShortNames,
-};
+export { generateSvg, parseShortNames };
