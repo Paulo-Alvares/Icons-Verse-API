@@ -4,9 +4,9 @@
 	"main": "index.js",
 	"license": "MIT",
 	"scripts": {
-		"start": "node build.js && node app.js && node server.js",
-		"dev": "node build.js && miniflare --watch",
-		"build": "node build.js"
+		"start": "node ./dist/build.js && node ./dist/app.js && node ./dist/server.js",
+		"dev": "node ./dist/build.js && miniflare --watch",
+		"build": "node ./dist/build.js"
 	},
 	"devDependencies": {
 		"@cloudflare/wrangler": "^1.19.8",
