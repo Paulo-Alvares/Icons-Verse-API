@@ -216,6 +216,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | :---------: | :-----: | :--: | :---: |
 | `ada` | <img src="./icons/Ada.svg" width="50"> | <img src="./icons/Ada-Dark.svg" width="50"> | <img src="./icons/Ada-Light.svg" width="50"> |
 | `alura` | <img src="./icons/Alura.svg" width="50"> | <img src="./icons/Alura-Dark.svg" width="50"> | <img src="./icons/Alura-Light.svg" width="50"> |
+| `balta` | <img src="./icons/Balta.svg" width="50"> | <img src="./icons/Balta-Dark.svg" width="50"> | <img src="./icons/Balta-Light.svg" width="50"> |
 | `cev` | <img src="./icons/CEV.svg" width="50"> | <img src="./icons/CEV-Dark.svg" width="50"> | <img src="./icons/CEV-Light.svg" width="50"> |
 | `dio` | <img src="./icons/DIO.svg" width="50"> | <img src="./icons/DIO-Dark.svg" width="50"> | <img src="./icons/DIO-Light.svg" width="50"> |
 | `loiane` | <img src="./icons/Loiane.svg" width="50"> | <img src="./icons/Loiane-Dark.svg" width="50"> | <img src="./icons/Loiane-Light.svg" width="50"> |
