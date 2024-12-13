@@ -140,6 +140,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `redis` | <img src="./icons/Redis.svg" width="48"> | <img src="./icons/Redis-Dark.svg" width="48"> | <img src="./icons/Redis-Light.svg" width="48"> |
 | `sequelize` | <img src="./icons/Sequelize.svg" width="48"> | <img src="./icons/Sequelize-Dark.svg" width="48"> | <img src="./icons/Sequelize-Light.svg" width="48"> |
 | `sqlite` | <img src="./icons/SQLite.svg" width="48"> | <img src="./icons/SQLite-Dark.svg" width="48"> | <img src="./icons/SQLite-Light.svg" width="48"> |
+| `sqlserver` | <img src="./icons/SQLServer.svg" width="48"> | <img src="./icons/SQLServer-Dark.svg" width="48"> | <img src="./icons/SQLServer-Light.svg" width="48"> |
 
 ### Automação, Teste e Versionamento
 | ID do Ícone | `colorful` | `dark` | `light` |
@@ -203,12 +204,16 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `aftereffects` | <img src="./icons/AfterEffects.svg" width="48"> | <img src="./icons/AfterEffects-Dark.svg" width="48"> | <img src="./icons/AfterEffects-Light.svg" width="48"> |
 | `audition` | <img src="./icons/Audition.svg" width="48"> | <img src="./icons/Audition-Dark.svg" width="48"> | <img src="./icons/Audition-Light.svg" width="48"> |
 | `blender` | <img src="./icons/Blender.svg" width="48"> | <img src="./icons/Blender-Dark.svg" width="48"> | <img src="./icons/Blender-Light.svg" width="48"> |
+| `excel` | <img src="./icons/Excel.svg" width="48"> | <img src="./icons/Excel-Dark.svg" width="48"> | <img src="./icons/Excel-Light.svg" width="48"> |
 | `figma` | <img src="./icons/Figma.svg" width="48"> | <img src="./icons/Figma-Dark.svg" width="48"> | <img src="./icons/Figma-Light.svg" width="48"> |
 | `illustrator` | <img src="./icons/Illustrator.svg" width="48"> | <img src="./icons/Illustrator-Dark.svg" width="48"> | <img src="./icons/Illustrator-Light.svg" width="48"> |
+| `office` | <img src="./icons/Office.svg" width="48"> | <img src="./icons/Office-Dark.svg" width="48"> | <img src="./icons/Office-Light.svg" width="48"> |
 | `photoshop` | <img src="./icons/Photoshop.svg" width="48"> | <img src="./icons/Photoshop-Dark.svg" width="48"> | <img src="./icons/Photoshop-Light.svg" width="48"> |
+| `powerpoint` | <img src="./icons/PowerPoint.svg" width="48"> | <img src="./icons/PowerPoint-Dark.svg" width="48"> | <img src="./icons/PowerPoint-Light.svg" width="48"> |
 | `premiere` | <img src="./icons/Premiere.svg" width="48"> | <img src="./icons/Premiere-Dark.svg" width="48"> | <img src="./icons/Premiere-Light.svg" width="48"> |
 | `sketchup` | <img src="./icons/Sketchup.svg" width="48"> | <img src="./icons/Sketchup-Dark.svg" width="48"> | <img src="./icons/Sketchup-Light.svg" width="48"> |
 | `webflow` | <img src="./icons/Webflow.svg" width="48"> | <img src="./icons/Webflow-Dark.svg" width="48"> | <img src="./icons/Webflow-Light.svg" width="48"> |
+| `word` | <img src="./icons/Word.svg" width="48"> | <img src="./icons/Word-Dark.svg" width="48"> | <img src="./icons/Word-Light.svg" width="48"> |
 | `xd` | <img src="./icons/XD.svg" width="48"> | <img src="./icons/XD-Dark.svg" width="48"> | <img src="./icons/XD-Light.svg" width="48"> |
 
 ### Educação
