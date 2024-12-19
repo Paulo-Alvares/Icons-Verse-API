@@ -34,4 +34,4 @@ for (const icon of iconsDirectory) {
 if (!fs.existsSync("./dist")) {
     fs.mkdirSync("./dist");
 }
-fs.writeFileSync("./icons.json", JSON.stringify(iconsFile, null, 2));
+fs.writeFileSync("./dist/icons.json", JSON.stringify(iconsFile, null, 2));
