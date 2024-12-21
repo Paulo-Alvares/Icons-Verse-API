@@ -207,6 +207,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `aftereffects` | <img src="./icons/AfterEffects.svg" width="48"> | <img src="./icons/AfterEffects-Dark.svg" width="48"> | <img src="./icons/AfterEffects-Light.svg" width="48"> |
 | `audition` | <img src="./icons/Audition.svg" width="48"> | <img src="./icons/Audition-Dark.svg" width="48"> | <img src="./icons/Audition-Light.svg" width="48"> |
 | `blender` | <img src="./icons/Blender.svg" width="48"> | <img src="./icons/Blender-Dark.svg" width="48"> | <img src="./icons/Blender-Light.svg" width="48"> |
+| `canva` | <img src="./icons/Canva.svg" width="48"> | <img src="./icons/Canva-Dark.svg" width="48"> | <img src="./icons/Canva-Light.svg" width="48"> |
 | `excel` | <img src="./icons/Excel.svg" width="48"> | <img src="./icons/Excel-Dark.svg" width="48"> | <img src="./icons/Excel-Light.svg" width="48"> |
 | `figma` | <img src="./icons/Figma.svg" width="48"> | <img src="./icons/Figma-Dark.svg" width="48"> | <img src="./icons/Figma-Light.svg" width="48"> |
 | `illustrator` | <img src="./icons/Illustrator.svg" width="48"> | <img src="./icons/Illustrator-Dark.svg" width="48"> | <img src="./icons/Illustrator-Light.svg" width="48"> |
