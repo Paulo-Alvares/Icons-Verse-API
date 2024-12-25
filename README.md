@@ -394,10 +394,10 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `misskey`   | <img src="./icons/Misskey.svg" width="48">    | <img src="./icons/Misskey-Dark.svg" width="48">   | <img src="./icons/Misskey-Light.svg" width="48"> |
 | `slack` | <img src="./icons/Slack.svg" width="48"> | <img src="./icons/Slack-Dark.svg" width="48"> | <img src="./icons/Slack-Light.svg" width="48"> |
 | `stackoverflow` | <img src="./icons/StackOverflow.svg" width="48"> | <img src="./icons/StackOverflow-Dark.svg" width="48"> | <img src="./icons/StackOverflow-Light.svg" width="48"> |
-| `x` | <img src="./icons/X.svg" width="50"> | <img src="./icons/X-Dark.svg" width="50"> | <img src="./icons/X-Light.svg" width="50"> |
-| `youtube` | <img src="./icons/YouTube.svg" width="50"> | <img src="./icons/YouTube-Dark.svg" width="50"> | <img src="./icons/YouTube-Light.svg" width="50"> |
 | `whatsapp` | <img src="./icons/WhatsApp.svg" width="50"> | <img src="./icons/WhatsApp-Dark.svg" width="50"> | <img src="./icons/WhatsApp-Light.svg" width="50"> |
 | `whatsappbusiness` | <img src="./icons/WhatsAppBusiness.svg" width="50"> | <img src="./icons/WhatsAppBusiness-Dark.svg" width="50"> | <img src="./icons/WhatsApp-Light.svg" width="50"> |
+| `x` | <img src="./icons/X.svg" width="50"> | <img src="./icons/X-Dark.svg" width="50"> | <img src="./icons/X-Light.svg" width="50"> |
+| `youtube` | <img src="./icons/YouTube.svg" width="50"> | <img src="./icons/YouTube-Dark.svg" width="50"> | <img src="./icons/YouTube-Light.svg" width="50"> |
 
 ### Sistemas Operacionais
 | ID do Ícone | `colorful` | `dark` | `light` |
