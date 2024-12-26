@@ -386,6 +386,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | :---------: | :-----: | :--: | :---: |
 | `devto`     | <img src="./icons/DevTo.svg" width="48">      | <img src="./icons/DevTo-Dark.svg" width="48"> | <img src="./icons/DevTo-Light.svg" width="48"> |
 | `discord`   | <img src="./icons/Discord.svg" width="48">    | <img src="./icons/Discord-Dark.svg" width="48"> | <img src="./icons/Discord-Light.svg" width="48"> |
+| `facebook` | <img src="./icons/Facebook.svg" width="48">  | <img src="./icons/Facebook-Dark.svg" width="48"> | <img src="./icons/Facebook-Light.svg" width="48"> |
 | `fediverse` | <img src="./icons/Fediverse.svg" width="48">  | <img src="./icons/Fediverse-Dark.svg" width="48"> | <img src="./icons/Fediverse-Light.svg" width="48"> |
 | `gmail`     | <img src="./icons/Gmail.svg" width="48">      | <img src="./icons/Gmail-Dark.svg" width="48">  | <img src="./icons/Gmail-Light.svg" width="48">  |
 | `instagram` | <img src="./icons/Instagram.svg" width="48">  | <img src="./icons/Instagram-Dark.svg" width="48"> | <img src="./icons/Instagram-Light.svg" width="48"> |
