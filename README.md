@@ -318,6 +318,11 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | :---------: | :-----: | :--: | :---: |
 | `arduino`     | <img src="./icons/Arduino.svg" width="50">    | <img src="./icons/Arduino-Dark.svg" width="50"> | <img src="./icons/Arduino-Light.svg" width="50"> |
 | `autocad`     | <img src="./icons/AutoCAD.svg" width="50">    | <img src="./icons/AutoCAD-Dark.svg" width="50"> | <img src="./icons/AutoCAD-Light.svg" width="50"> |
+| `beaglebone`     | <img src="./icons/BeagleBone.svg" width="50">    | <img src="./icons/BeagleBone-Dark.svg" width="50"> | <img src="./icons/BeagleBone-Light.svg" width="50"> |
+| `esp32`     | <img src="./icons/ESP32.svg" width="50">    | <img src="./icons/ESP32-Dark.svg" width="50"> | <img src="./icons/ESP32-Light.svg" width="50"> |
+| `fritzing`     | <img src="./icons/Fritzing.svg" width="50">    | <img src="./icons/Fritzing-Dark.svg" width="50"> | <img src="./icons/Fritzing-Light.svg" width="50"> |
+| `kicad`     | <img src="./icons/KiCad.svg" width="50">    | <img src="./icons/KiCad-Dark.svg" width="50"> | <img src="./icons/KiCad-Light.svg" width="50"> |
+| `proteus`     | <img src="./icons/Proteus.svg" width="50">    | <img src="./icons/Proteus-Dark.svg" width="50"> | <img src="./icons/Proteus-Light.svg" width="50"> |
 | `raspberrypi` | <img src="./icons/RaspberryPi.svg" width="50"> | <img src="./icons/RaspberryPi-Dark.svg" width="50"> | <img src="./icons/RaspberryPi-Light.svg" width="50"> |
 | `ros`         | <img src="./icons/ROS.svg" width="50">        | <img src="./icons/ROS-Dark.svg" width="50">     | <img src="./icons/ROS-Light.svg" width="50">    |
 
