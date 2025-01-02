@@ -386,6 +386,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | :---------: | :-----: | :--: | :---: |
 | `devto`     | <img src="./icons/DevTo.svg" width="48">      | <img src="./icons/DevTo-Dark.svg" width="48"> | <img src="./icons/DevTo-Light.svg" width="48"> |
 | `discord`   | <img src="./icons/Discord.svg" width="48">    | <img src="./icons/Discord-Dark.svg" width="48"> | <img src="./icons/Discord-Light.svg" width="48"> |
+| `dribbble`   | <img src="./icons/Dribbble.svg" width="48">    | <img src="./icons/Dribbble-Dark.svg" width="48"> | <img src="./icons/Dribbble-Light.svg" width="48"> |
 | `facebook` | <img src="./icons/Facebook.svg" width="48">  | <img src="./icons/Facebook-Dark.svg" width="48"> | <img src="./icons/Facebook-Light.svg" width="48"> |
 | `fediverse` | <img src="./icons/Fediverse.svg" width="48">  | <img src="./icons/Fediverse-Dark.svg" width="48"> | <img src="./icons/Fediverse-Light.svg" width="48"> |
 | `gmail`     | <img src="./icons/Gmail.svg" width="48">      | <img src="./icons/Gmail-Dark.svg" width="48">  | <img src="./icons/Gmail-Light.svg" width="48">  |
@@ -395,6 +396,8 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `misskey`   | <img src="./icons/Misskey.svg" width="48">    | <img src="./icons/Misskey-Dark.svg" width="48">   | <img src="./icons/Misskey-Light.svg" width="48"> |
 | `slack` | <img src="./icons/Slack.svg" width="48"> | <img src="./icons/Slack-Dark.svg" width="48"> | <img src="./icons/Slack-Light.svg" width="48"> |
 | `stackoverflow` | <img src="./icons/StackOverflow.svg" width="48"> | <img src="./icons/StackOverflow-Dark.svg" width="48"> | <img src="./icons/StackOverflow-Light.svg" width="48"> |
+| `telegram` | <img src="./icons/Telegram.svg" width="48"> | <img src="./icons/Telegram-Dark.svg" width="48"> | <img src="./icons/Telegram-Light.svg" width="48"> |
+| `tiktok` | <img src="./icons/TikTok.svg" width="48"> | <img src="./icons/TikTok-Dark.svg" width="48"> | <img src="./icons/TikTok-Light.svg" width="48"> |
 | `whatsapp` | <img src="./icons/WhatsApp.svg" width="50"> | <img src="./icons/WhatsApp-Dark.svg" width="50"> | <img src="./icons/WhatsApp-Light.svg" width="50"> |
 | `whatsappbusiness` | <img src="./icons/WhatsAppBusiness.svg" width="50"> | <img src="./icons/WhatsAppBusiness-Dark.svg" width="50"> | <img src="./icons/WhatsApp-Light.svg" width="50"> |
 | `x` | <img src="./icons/X.svg" width="50"> | <img src="./icons/X-Dark.svg" width="50"> | <img src="./icons/X-Light.svg" width="50"> |
