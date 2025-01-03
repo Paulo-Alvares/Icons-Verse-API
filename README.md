@@ -234,12 +234,23 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 ### Empresas
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
+| `amazon` | <img src="./icons/Amazon.svg" width="50"> | <img src="./icons/Amazon-Dark.svg" width="50"> | <img src="./icons/Amazon-Light.svg" width="50"> |
 | `apple` | <img src="./icons/Apple.svg" width="50"> | <img src="./icons/Apple-Dark.svg" width="50"> | <img src="./icons/Apple-Light.svg" width="50"> |
+| `bancodobrasil` | <img src="./icons/BancoDoBrasil.svg" width="50"> | <img src="./icons/BancoDoBrasil-Dark.svg" width="50"> | <img src="./icons/BancoDoBrasil-Light.svg" width="50"> |
 | `bradesco` | <img src="./icons/Bradesco.svg" width="50"> | <img src="./icons/Bradesco-Dark.svg" width="50"> | <img src="./icons/Bradesco-Light.svg" width="50"> |
+| `c6bank` | <img src="./icons/C6Bank.svg" width="50"> | <img src="./icons/C6Bank-Dark.svg" width="50"> | <img src="./icons/C6Bank-Light.svg" width="50"> |
+| `claro` | <img src="./icons/Claro.svg" width="50"> | <img src="./icons/Claro-Dark.svg" width="50"> | <img src="./icons/Claro-Light.svg" width="50"> |
+| `itau` | <img src="./icons/Itau.svg" width="50"> | <img src="./icons/Itau-Dark.svg" width="50"> | <img src="./icons/Itau-Light.svg" width="50"> |
+| `lenovo` | <img src="./icons/Lenovo.svg" width="50"> | <img src="./icons/Lenovo-Dark.svg" width="50"> | <img src="./icons/Lenovo-Light.svg" width="50"> |
+| `mercadolivre` | <img src="./icons/MercadoLivre.svg" width="50"> | <img src="./icons/MercadoLivre-Dark.svg" width="50"> | <img src="./icons/MercadoLivre-Light.svg" width="50"> |
 | `microsoft` | <img src="./icons/Microsoft.svg" width="50"> | <img src="./icons/Microsoft-Dark.svg" width="50"> | <img src="./icons/Microsoft-Light.svg" width="50"> |
 | `redhat` | <img src="./icons/RedHat.svg" width="50"> | <img src="./icons/RedHat-Dark.svg" width="50"> | <img src="./icons/RedHat-Light.svg" width="50"> |
+| `samsung` | <img src="./icons/Samsung.svg" width="50"> | <img src="./icons/Samsung-Dark.svg" width="50"> | <img src="./icons/Samsung-Light.svg" width="50"> |
 | `santander` | <img src="./icons/Santander.svg" width="50"> | <img src="./icons/Santander-Dark.svg" width="50"> | <img src="./icons/Santander-Light.svg" width="50"> |
 | `squadio` | <img src="./icons/Squadio.svg" width="50"> | <img src="./icons/Squadio-Dark.svg" width="50"> | <img src="./icons/Squadio-Light.svg" width="50"> |
+| `tim` | <img src="./icons/Tim.svg" width="50"> | <img src="./icons/Tim-Dark.svg" width="50"> | <img src="./icons/Tim-Light.svg" width="50"> |
+| `vivo` | <img src="./icons/Vivo.svg" width="50"> | <img src="./icons/Vivo-Dark.svg" width="50"> | <img src="./icons/Vivo-Light.svg" width="50"> |
+| `xiaomi` | <img src="./icons/Xiaomi.svg" width="50"> | <img src="./icons/Xiaomi-Dark.svg" width="50"> | <img src="./icons/Xiaomi-Light.svg" width="50"> |
 
 ### Estilização e Marcação
 | ID do Ícone | `colorful` | `dark` | `light` |
