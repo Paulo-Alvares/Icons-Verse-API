@@ -225,11 +225,25 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | :---------: | :-----: | :--: | :---: |
 | `ada` | <img src="./icons/Ada.svg" width="50"> | <img src="./icons/Ada-Dark.svg" width="50"> | <img src="./icons/Ada-Light.svg" width="50"> |
 | `alura` | <img src="./icons/Alura.svg" width="50"> | <img src="./icons/Alura-Dark.svg" width="50"> | <img src="./icons/Alura-Light.svg" width="50"> |
+| `anhanguera` | <img src="./icons/Anhanguera.svg" width="50"> | <img src="./icons/Anhanguera-Dark.svg" width="50"> | <img src="./icons/Anhanguera-Light.svg" width="50"> |
 | `balta` | <img src="./icons/Balta.svg" width="50"> | <img src="./icons/Balta-Dark.svg" width="50"> | <img src="./icons/Balta-Light.svg" width="50"> |
 | `cev` | <img src="./icons/CEV.svg" width="50"> | <img src="./icons/CEV-Dark.svg" width="50"> | <img src="./icons/CEV-Light.svg" width="50"> |
+| `conquer` | <img src="./icons/Conquer.svg" width="50"> | <img src="./icons/Conquer-Dark.svg" width="50"> | <img src="./icons/Conquer-Light.svg" width="50"> |
+| `coursera` | <img src="./icons/Coursera.svg" width="50"> | <img src="./icons/Coursera-Dark.svg" width="50"> | <img src="./icons/Coursera-Light.svg" width="50"> |
+| `cubosacademy` | <img src="./icons/CubosAcademy.svg" width="50"> | <img src="./icons/CubosAcademy-Dark.svg" width="50"> | <img src="./icons/CubosAcademy-Light.svg" width="50"> |
 | `dio` | <img src="./icons/DIO.svg" width="50"> | <img src="./icons/DIO-Dark.svg" width="50"> | <img src="./icons/DIO-Light.svg" width="50"> |
+| `ebac` | <img src="./icons/EBAC.svg" width="50"> | <img src="./icons/EBAC-Dark.svg" width="50"> | <img src="./icons/EBAC-Light.svg" width="50"> |
+| `escolavirtual` | <img src="./icons/EscolaVirtual.svg" width="50"> | <img src="./icons/EscolaVirtual-Dark.svg" width="50"> | <img src="./icons/EscolaVirtual-Light.svg" width="50"> |
+| `escolavirtualgov` | <img src="./icons/EscolaVirtualGov.svg" width="50"> | <img src="./icons/EscolaVirtualGov-Dark.svg" width="50"> | <img src="./icons/EscolaVirtualGov-Light.svg" width="50"> |
+| `etec` | <img src="./icons/Etec.svg" width="50"> | <img src="./icons/Etec-Dark.svg" width="50"> | <img src="./icons/Etec-Light.svg" width="50"> |
+| `fiap` | <img src="./icons/FIAP.svg" width="50"> | <img src="./icons/FIAP-Dark.svg" width="50"> | <img src="./icons/FIAP-Light.svg" width="50"> |
+| `fundacaobradesco` | <img src="./icons/FundacaoBradesco.svg" width="50"> | <img src="./icons/FundacaoBradesco-Dark.svg" width="50"> | <img src="./icons/FundacaoBradesco-Light.svg" width="50"> |
 | `loiane` | <img src="./icons/Loiane.svg" width="50"> | <img src="./icons/Loiane-Dark.svg" width="50"> | <img src="./icons/Loiane-Light.svg" width="50"> |
 | `rocketseat` | <img src="./icons/Rocketseat.svg" width="50"> | <img src="./icons/Rocketseat-Dark.svg" width="50"> | <img src="./icons/Rocketseat-Light.svg" width="50"> |
+| `udemy` | <img src="./icons/Udemy.svg" width="50"> | <img src="./icons/Udemy-Dark.svg" width="50"> | <img src="./icons/Udemy-Light.svg" width="50"> |
+| `unicamp` | <img src="./icons/Unicamp.svg" width="50"> | <img src="./icons/Unicamp-Dark.svg" width="50"> | <img src="./icons/Unicamp-Light.svg" width="50"> |
+| `unip` | <img src="./icons/Unip.svg" width="50"> | <img src="./icons/Unip-Dark.svg" width="50"> | <img src="./icons/Unip-Light.svg" width="50"> |
+| `usp` | <img src="./icons/USP.svg" width="50"> | <img src="./icons/USP-Dark.svg" width="50"> | <img src="./icons/USP-Light.svg" width="50"> |
 
 ### Empresas
 | ID do Ícone | `colorful` | `dark` | `light` |
