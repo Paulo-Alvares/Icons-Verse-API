@@ -191,12 +191,21 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
 | `bevy` | <img src="./icons/Bevy.svg" width="50"> | <img src="./icons/Bevy-Dark.svg" width="50"> | <img src="./icons/Bevy-Light.svg" width="50"> |
+| `construct` | <img src="./icons/Construct.svg" width="50"> | <img src="./icons/Construct-Dark.svg" width="50"> | <img src="./icons/Construct-Light.svg" width="50"> |
+| `cryengine` | <img src="./icons/CryEngine.svg" width="50"> | <img src="./icons/CryEngine-Dark.svg" width="50"> | <img src="./icons/CryEngine-Light.svg" width="50"> |
+| `defold` | <img src="./icons/Defold.svg" width="50"> | <img src="./icons/Defold-Dark.svg" width="50"> | <img src="./icons/Defold-Light.svg" width="50"> |
 | `gamemakerstudio` | <img src="./icons/GameMakerStudio.svg" width="50"> | <img src="./icons/GameMakerStudio-Dark.svg" width="50"> | <img src="./icons/GameMakerStudio-Light.svg" width="50"> |
+| `gdevelop` | <img src="./icons/GDevelop.svg" width="50"> | <img src="./icons/GDevelop-Dark.svg" width="50"> | <img src="./icons/GDevelop-Light.svg" width="50"> |
 | `godot` | <img src="./icons/Godot.svg" width="50"> | <img src="./icons/Godot-Dark.svg" width="50"> | <img src="./icons/Godot-Light.svg" width="50"> |
 | `haxe` | <img src="./icons/Haxe.svg" width="50"> | <img src="./icons/Haxe-Dark.svg" width="50"> | <img src="./icons/Haxe-Light.svg" width="50"> |
 | `haxeflixel` | <img src="./icons/HaxeFlixel.svg" width="50"> | <img src="./icons/HaxeFlixel-Dark.svg" width="50"> | <img src="./icons/HaxeFlixel-Light.svg" width="50"> |
+| `heapsio` | <img src="./icons/HeapsIo.svg" width="50"> | <img src="./icons/HeapsIo-Dark.svg" width="50"> | <img src="./icons/HeapsIo-Light.svg" width="50"> |
+| `photon` | <img src="./icons/Photon.svg" width="50"> | <img src="./icons/Photon-Dark.svg" width="50"> | <img src="./icons/Photon-Light.svg" width="50"> |
+| `pico8` | <img src="./icons/PICO8.svg" width="50"> | <img src="./icons/PICO8-Dark.svg" width="50"> | <img src="./icons/PICO8-Light.svg" width="50"> |
+| `playcanvas` | <img src="./icons/PlayCanvas.svg" width="50"> | <img src="./icons/PlayCanvas-Dark.svg" width="50"> | <img src="./icons/PlayCanvas-Light.svg" width="50"> |
 | `processing` | <img src="./icons/Processing.svg" width="50"> | <img src="./icons/Processing-Dark.svg" width="50"> | <img src="./icons/Processing-Light.svg" width="50"> |
 | `robloxstudio` | <img src="./icons/RobloxStudio.svg" width="50"> | <img src="./icons/RobloxStudio-Dark.svg" width="50"> | <img src="./icons/RobloxStudio-Light.svg" width="50"> |
+| `rpgmaker` | <img src="./icons/RPGMaker.svg" width="50"> | <img src="./icons/RPGMaker-Dark.svg" width="50"> | <img src="./icons/RPGMaker-Light.svg" width="50"> |
 | `unity` | <img src="./icons/Unity.svg" width="50"> | <img src="./icons/Unity-Dark.svg" width="50"> | <img src="./icons/Unity-Light.svg" width="50"> |
 | `unrealengine` | <img src="./icons/UnrealEngine.svg" width="50"> | <img src="./icons/UnrealEngine-Dark.svg" width="50"> | <img src="./icons/UnrealEngine-Light.svg" width="50"> |
 
