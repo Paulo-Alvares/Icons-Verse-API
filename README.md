@@ -356,9 +356,13 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `esp32`     | <img src="./icons/ESP32.svg" width="50">    | <img src="./icons/ESP32-Dark.svg" width="50"> | <img src="./icons/ESP32-Light.svg" width="50"> |
 | `fritzing`     | <img src="./icons/Fritzing.svg" width="50">    | <img src="./icons/Fritzing-Dark.svg" width="50"> | <img src="./icons/Fritzing-Light.svg" width="50"> |
 | `kicad`     | <img src="./icons/KiCad.svg" width="50">    | <img src="./icons/KiCad-Dark.svg" width="50"> | <img src="./icons/KiCad-Light.svg" width="50"> |
+| `lattepanda`     | <img src="./icons/LattePanda.svg" width="50">    | <img src="./icons/LattePanda-Dark.svg" width="50"> | <img src="./icons/LattePanda-Light.svg" width="50"> |
+| `orangepi`     | <img src="./icons/OrangePi.svg" width="50">    | <img src="./icons/OrangePi-Dark.svg" width="50"> | <img src="./icons/OrangePi-Light.svg" width="50"> |
+| `pine64`     | <img src="./icons/Pine64.svg" width="50">    | <img src="./icons/Pine64-Dark.svg" width="50"> | <img src="./icons/Pine64-Light.svg" width="50"> |
 | `proteus`     | <img src="./icons/Proteus.svg" width="50">    | <img src="./icons/Proteus-Dark.svg" width="50"> | <img src="./icons/Proteus-Light.svg" width="50"> |
 | `raspberrypi` | <img src="./icons/RaspberryPi.svg" width="50"> | <img src="./icons/RaspberryPi-Dark.svg" width="50"> | <img src="./icons/RaspberryPi-Light.svg" width="50"> |
 | `ros`         | <img src="./icons/ROS.svg" width="50">        | <img src="./icons/ROS-Dark.svg" width="50">     | <img src="./icons/ROS-Light.svg" width="50">    |
+| `udoo`         | <img src="./icons/Udoo.svg" width="50">        | <img src="./icons/Udoo-Dark.svg" width="50">     | <img src="./icons/Udoo-Light.svg" width="50">    |
 
 ### IDE’s e Editores de Texto
 | ID do Ícone | `colorful` | `dark` | `light` |
