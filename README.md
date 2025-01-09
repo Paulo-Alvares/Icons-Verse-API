@@ -257,19 +257,40 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 ### Empresas
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
+| `99` | <img src="./icons/99.svg" width="50"> | <img src="./icons/99-Dark.svg" width="50"> | <img src="./icons/99-Light.svg" width="50"> |
+| `accenture` | <img src="./icons/Accenture.svg" width="50"> | <img src="./icons/Accenture-Dark.svg" width="50"> | <img src="./icons/Accenture-Light.svg" width="50"> |
 | `amazon` | <img src="./icons/Amazon.svg" width="50"> | <img src="./icons/Amazon-Dark.svg" width="50"> | <img src="./icons/Amazon-Light.svg" width="50"> |
 | `apple` | <img src="./icons/Apple.svg" width="50"> | <img src="./icons/Apple-Dark.svg" width="50"> | <img src="./icons/Apple-Light.svg" width="50"> |
+| `avanade` | <img src="./icons/Avanade.svg" width="50"> | <img src="./icons/Avanade-Dark.svg" width="50"> | <img src="./icons/Avanade-Light.svg" width="50"> |
 | `bancodobrasil` | <img src="./icons/BancoDoBrasil.svg" width="50"> | <img src="./icons/BancoDoBrasil-Dark.svg" width="50"> | <img src="./icons/BancoDoBrasil-Light.svg" width="50"> |
+| `bancopan` | <img src="./icons/BancoPan.svg" width="50"> | <img src="./icons/BancoPan-Dark.svg" width="50"> | <img src="./icons/BancoPan-Light.svg" width="50"> |
 | `bradesco` | <img src="./icons/Bradesco.svg" width="50"> | <img src="./icons/Bradesco-Dark.svg" width="50"> | <img src="./icons/Bradesco-Light.svg" width="50"> |
 | `c6bank` | <img src="./icons/C6Bank.svg" width="50"> | <img src="./icons/C6Bank-Dark.svg" width="50"> | <img src="./icons/C6Bank-Light.svg" width="50"> |
+| `carrefour` | <img src="./icons/Carrefour.svg" width="50"> | <img src="./icons/Carrefour-Dark.svg" width="50"> | <img src="./icons/Carrefour-Light.svg" width="50"> |
 | `claro` | <img src="./icons/Claro.svg" width="50"> | <img src="./icons/Claro-Dark.svg" width="50"> | <img src="./icons/Claro-Light.svg" width="50"> |
+| `deloitte` | <img src="./icons/Deloitte.svg" width="50"> | <img src="./icons/Deloitte-Dark.svg" width="50"> | <img src="./icons/Deloitte-Light.svg" width="50"> |
+| `dock` | <img src="./icons/Dock.svg" width="50"> | <img src="./icons/Dock-Dark.svg" width="50"> | <img src="./icons/Dock-Light.svg" width="50"> |
+| `ey` | <img src="./icons/EY.svg" width="50"> | <img src="./icons/EY-Dark.svg" width="50"> | <img src="./icons/EY-Light.svg" width="50"> |
+| `gft` | <img src="./icons/GFT.svg" width="50"> | <img src="./icons/GFT-Dark.svg" width="50"> | <img src="./icons/GFT-Light.svg" width="50"> |
+| `ifood` | <img src="./icons/Ifood.svg" width="50"> | <img src="./icons/Ifood-Dark.svg" width="50"> | <img src="./icons/Ifood-Light.svg" width="50"> |
+| `inter` | <img src="./icons/Inter.svg" width="50"> | <img src="./icons/Inter-Dark.svg" width="50"> | <img src="./icons/Inter-Light.svg" width="50"> |
 | `itau` | <img src="./icons/Itau.svg" width="50"> | <img src="./icons/Itau-Dark.svg" width="50"> | <img src="./icons/Itau-Light.svg" width="50"> |
+| `jazztech` | <img src="./icons/JazzTech.svg" width="50"> | <img src="./icons/JazzTech-Dark.svg" width="50"> | <img src="./icons/JazzTech-Light.svg" width="50"> |
 | `lenovo` | <img src="./icons/Lenovo.svg" width="50"> | <img src="./icons/Lenovo-Dark.svg" width="50"> | <img src="./icons/Lenovo-Light.svg" width="50"> |
 | `mercadolivre` | <img src="./icons/MercadoLivre.svg" width="50"> | <img src="./icons/MercadoLivre-Dark.svg" width="50"> | <img src="./icons/MercadoLivre-Light.svg" width="50"> |
 | `microsoft` | <img src="./icons/Microsoft.svg" width="50"> | <img src="./icons/Microsoft-Dark.svg" width="50"> | <img src="./icons/Microsoft-Light.svg" width="50"> |
+| `ntt` | <img src="./icons/NTT.svg" width="50"> | <img src="./icons/NTT-Dark.svg" width="50"> | <img src="./icons/NTT-Light.svg" width="50"> |
+| `philco` | <img src="./icons/Philco.svg" width="50"> | <img src="./icons/Philco-Dark.svg" width="50"> | <img src="./icons/Philco-Light.svg" width="50"> |
+| `philips` | <img src="./icons/Philips.svg" width="50"> | <img src="./icons/Philips-Dark.svg" width="50"> | <img src="./icons/Philips-Light.svg" width="50"> |
+| `poco` | <img src="./icons/Poco.svg" width="50"> | <img src="./icons/Poco-Dark.svg" width="50"> | <img src="./icons/Poco-Light.svg" width="50"> |
+| `pwc` | <img src="./icons/PWC.svg" width="50"> | <img src="./icons/PWC-Dark.svg" width="50"> | <img src="./icons/PWC-Light.svg" width="50"> |
+| `rappi` | <img src="./icons/Rappi.svg" width="50"> | <img src="./icons/Rappi-Dark.svg" width="50"> | <img src="./icons/Rappi-Light.svg" width="50"> |
+| `reclameaqui` | <img src="./icons/ReclameAqui.svg" width="50"> | <img src="./icons/ReclameAqui-Dark.svg" width="50"> | <img src="./icons/ReclameAqui-Light.svg" width="50"> |
 | `redhat` | <img src="./icons/RedHat.svg" width="50"> | <img src="./icons/RedHat-Dark.svg" width="50"> | <img src="./icons/RedHat-Light.svg" width="50"> |
+| `redmi` | <img src="./icons/Redmi.svg" width="50"> | <img src="./icons/Redmi-Dark.svg" width="50"> | <img src="./icons/Redmi-Light.svg" width="50"> |
 | `samsung` | <img src="./icons/Samsung.svg" width="50"> | <img src="./icons/Samsung-Dark.svg" width="50"> | <img src="./icons/Samsung-Light.svg" width="50"> |
 | `santander` | <img src="./icons/Santander.svg" width="50"> | <img src="./icons/Santander-Dark.svg" width="50"> | <img src="./icons/Santander-Light.svg" width="50"> |
+| `semparar` | <img src="./icons/SemParar.svg" width="50"> | <img src="./icons/SemParar-Dark.svg" width="50"> | <img src="./icons/SemParar-Light.svg" width="50"> |
 | `squadio` | <img src="./icons/Squadio.svg" width="50"> | <img src="./icons/Squadio-Dark.svg" width="50"> | <img src="./icons/Squadio-Light.svg" width="50"> |
 | `tim` | <img src="./icons/Tim.svg" width="50"> | <img src="./icons/Tim-Dark.svg" width="50"> | <img src="./icons/Tim-Light.svg" width="50"> |
 | `vivo` | <img src="./icons/Vivo.svg" width="50"> | <img src="./icons/Vivo-Dark.svg" width="50"> | <img src="./icons/Vivo-Light.svg" width="50"> |
