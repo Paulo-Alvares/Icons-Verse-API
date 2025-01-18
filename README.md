@@ -248,6 +248,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `fiap` | <img src="./icons/FIAP.svg" width="50"> | <img src="./icons/FIAP-Dark.svg" width="50"> | <img src="./icons/FIAP-Light.svg" width="50"> |
 | `fundacaobradesco` | <img src="./icons/FundacaoBradesco.svg" width="50"> | <img src="./icons/FundacaoBradesco-Dark.svg" width="50"> | <img src="./icons/FundacaoBradesco-Light.svg" width="50"> |
 | `loiane` | <img src="./icons/Loiane.svg" width="50"> | <img src="./icons/Loiane-Dark.svg" width="50"> | <img src="./icons/Loiane-Light.svg" width="50"> |
+| `onebitcode` | <img src="./icons/OneBitCode.svg" width="50"> | <img src="./icons/OneBitCode-Dark.svg" width="50"> | <img src="./icons/OneBitCode-Light.svg" width="50"> |
 | `rocketseat` | <img src="./icons/Rocketseat.svg" width="50"> | <img src="./icons/Rocketseat-Dark.svg" width="50"> | <img src="./icons/Rocketseat-Light.svg" width="50"> |
 | `udemy` | <img src="./icons/Udemy.svg" width="50"> | <img src="./icons/Udemy-Dark.svg" width="50"> | <img src="./icons/Udemy-Light.svg" width="50"> |
 | `unicamp` | <img src="./icons/Unicamp.svg" width="50"> | <img src="./icons/Unicamp-Dark.svg" width="50"> | <img src="./icons/Unicamp-Light.svg" width="50"> |
