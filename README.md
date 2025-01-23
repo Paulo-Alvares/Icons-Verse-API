@@ -214,12 +214,19 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | :---------: | :-----: | :--: | :---: |
 | `ableton` | <img src="./icons/Ableton.svg" width="48"> | <img src="./icons/Ableton-Dark.svg" width="48"> | <img src="./icons/Ableton-Light.svg" width="48"> |
 | `aftereffects` | <img src="./icons/AfterEffects.svg" width="48"> | <img src="./icons/AfterEffects-Dark.svg" width="48"> | <img src="./icons/AfterEffects-Light.svg" width="48"> |
+| `animate` | <img src="./icons/Animate.svg" width="48"> | <img src="./icons/Animate-Dark.svg" width="48"> | <img src="./icons/Animate-Light.svg" width="48"> |
 | `audition` | <img src="./icons/Audition.svg" width="48"> | <img src="./icons/Audition-Dark.svg" width="48"> | <img src="./icons/Audition-Light.svg" width="48"> |
 | `blender` | <img src="./icons/Blender.svg" width="48"> | <img src="./icons/Blender-Dark.svg" width="48"> | <img src="./icons/Blender-Light.svg" width="48"> |
 | `canva` | <img src="./icons/Canva.svg" width="48"> | <img src="./icons/Canva-Dark.svg" width="48"> | <img src="./icons/Canva-Light.svg" width="48"> |
+| `dreamweaver` | <img src="./icons/Dreamweaver.svg" width="48"> | <img src="./icons/Dreamweaver-Dark.svg" width="48"> | <img src="./icons/Dreamweaver-Light.svg" width="48"> |
 | `excel` | <img src="./icons/Excel.svg" width="48"> | <img src="./icons/Excel-Dark.svg" width="48"> | <img src="./icons/Excel-Light.svg" width="48"> |
 | `figma` | <img src="./icons/Figma.svg" width="48"> | <img src="./icons/Figma-Dark.svg" width="48"> | <img src="./icons/Figma-Light.svg" width="48"> |
+| `googledocs` | <img src="./icons/GoogleDocs.svg" width="48"> | <img src="./icons/GoogleDocs-Dark.svg" width="48"> | <img src="./icons/GoogleDocs-Light.svg" width="48"> |
+| `googlesheets` | <img src="./icons/GoogleSheets.svg" width="48"> | <img src="./icons/GoogleSheets-Dark.svg" width="48"> | <img src="./icons/GoogleSheets-Light.svg" width="48"> |
+| `googleslides` | <img src="./icons/GoogleSlides.svg" width="48"> | <img src="./icons/GoogleSlides-Dark.svg" width="48"> | <img src="./icons/GoogleSlides-Light.svg" width="48"> |
 | `illustrator` | <img src="./icons/Illustrator.svg" width="48"> | <img src="./icons/Illustrator-Dark.svg" width="48"> | <img src="./icons/Illustrator-Light.svg" width="48"> |
+| `indesign` | <img src="./icons/Indesign.svg" width="48"> | <img src="./icons/Indesign-Dark.svg" width="48"> | <img src="./icons/Indesign-Light.svg" width="48"> |
+| `lightroom` | <img src="./icons/Lightroom.svg" width="48"> | <img src="./icons/Lightroom-Dark.svg" width="48"> | <img src="./icons/Lightroom-Light.svg" width="48"> |
 | `office` | <img src="./icons/Office.svg" width="48"> | <img src="./icons/Office-Dark.svg" width="48"> | <img src="./icons/Office-Light.svg" width="48"> |
 | `photoshop` | <img src="./icons/Photoshop.svg" width="48"> | <img src="./icons/Photoshop-Dark.svg" width="48"> | <img src="./icons/Photoshop-Light.svg" width="48"> |
 | `powerpoint` | <img src="./icons/PowerPoint.svg" width="48"> | <img src="./icons/PowerPoint-Dark.svg" width="48"> | <img src="./icons/PowerPoint-Light.svg" width="48"> |
