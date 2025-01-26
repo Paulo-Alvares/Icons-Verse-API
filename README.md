@@ -335,6 +335,21 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `webpack` | <img src="./icons/Webpack.svg" width="48"> | <img src="./icons/Webpack-Dark.svg" width="48"> | <img src="./icons/Webpack-Light.svg" width="48"> |
 | `yarn` | <img src="./icons/Yarn.svg" width="48"> | <img src="./icons/Yarn-Dark.svg" width="48"> | <img src="./icons/Yarn-Light.svg" width="48"> |
 
+### Ferramentas de Gerenciamento de Projetos
+| ID do Ícone | `colorful` | `dark` | `light` |
+| :---------: | :-----: | :--: | :---: |
+| `asana` | <img src="./icons/Asana.svg" width="48"> | <img src="./icons/Asana-Dark.svg" width="48"> | <img src="./icons/Asana-Light.svg" width="48"> |
+| `googledrive` | <img src="./icons/GoogleDrive.svg" width="48"> | <img src="./icons/GoogleDrive-Dark.svg" width="48"> | <img src="./icons/GoogleDrive-Light.svg" width="48"> |
+| `googlekeep` | <img src="./icons/GoogleKeep.svg" width="48"> | <img src="./icons/GoogleKeep-Dark.svg" width="48"> | <img src="./icons/GoogleKeep-Light.svg" width="48"> |
+| `habitica` | <img src="./icons/habitica.svg" width="48"> | <img src="./icons/habitica-Dark.svg" width="48"> | <img src="./icons/habitica-Light.svg" width="48"> |
+| `milanote` | <img src="./icons/Milanote.svg" width="48"> | <img src="./icons/Milanote-Dark.svg" width="48"> | <img src="./icons/Milanote-Light.svg" width="48"> |
+| `miro` | <img src="./icons/Miro.svg" width="48"> | <img src="./icons/Miro-Dark.svg" width="48"> | <img src="./icons/Miro-Light.svg" width="48"> |
+| `onedrive` | <img src="./icons/OneDrive.svg" width="48"> | <img src="./icons/OneDrive-Dark.svg" width="48"> | <img src="./icons/OneDrive-Light.svg" width="48"> |
+| `planner` | <img src="./icons/Planner.svg" width="48"> | <img src="./icons/Planner-Dark.svg" width="48"> | <img src="./icons/Planner-Light.svg" width="48"> |
+| `sharepoint` | <img src="./icons/SharePoint.svg" width="48"> | <img src="./icons/SharePoint-Dark.svg" width="48"> | <img src="./icons/SharePoint-Light.svg" width="48"> |
+| `taskade` | <img src="./icons/Taskade.svg" width="48"> | <img src="./icons/Taskade-Dark.svg" width="48"> | <img src="./icons/Taskade-Light.svg" width="48"> |
+| `trello` | <img src="./icons/Trello.svg" width="48"> | <img src="./icons/Trello-Dark.svg" width="48"> | <img src="./icons/Trello-Light.svg" width="48"> |
+
 ### Frameworks
 | ID do Ícone | `colorful` | `dark` | `light` |
 | :---------: | :-----: | :--: | :---: |
