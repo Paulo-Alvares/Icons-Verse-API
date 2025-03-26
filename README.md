@@ -117,6 +117,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `gemini` | <img src="./icons/Gemini.svg" width="50"> | <img src="./icons/Gemini-Dark.svg" width="50"> | <img src="./icons/Gemini-Light.svg" width="50"> |
 | `grafana` | <img src="./icons/Grafana.svg" width="50"> | <img src="./icons/Grafana-Dark.svg" width="50"> | <img src="./icons/Grafana-Light.svg" width="50"> |
 | `julia` | <img src="./icons/Julia.svg" width="50"> | <img src="./icons/Julia-Dark.svg" width="50"> | <img src="./icons/Julia-Light.svg" width="50"> |
+| `lookerstudio` | <img src="./icons/LookerStudio.svg" width="50"> | <img src="./icons/LookerStudio-Dark.svg" width="50"> | <img src="./icons/LookerStudio-Light.svg" width="50"> |
 | `matlab` | <img src="./icons/Matlab.svg" width="50"> | <img src="./icons/Matlab-Dark.svg" width="50"> | <img src="./icons/Matlab-Light.svg" width="50"> |
 | `octave` | <img src="./icons/Octave.svg" width="50"> | <img src="./icons/Octave-Dark.svg" width="50"> | <img src="./icons/Octave-Light.svg" width="50"> |
 | `opencv` | <img src="./icons/OpenCV.svg" width="50"> | <img src="./icons/OpenCV-Dark.svg" width="50"> | <img src="./icons/OpenCV-Light.svg" width="50"> |
