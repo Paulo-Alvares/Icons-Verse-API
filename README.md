@@ -135,6 +135,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `dynamodb` | <img src="./icons/DynamoDB.svg" width="48"> | <img src="./icons/DynamoDB-Dark.svg" width="48"> | <img src="./icons/DynamoDB-Light.svg" width="48"> |
 | `elasticsearch` | <img src="./icons/Elasticsearch.svg" width="48"> | <img src="./icons/Elasticsearch-Dark.svg" width="48"> | <img src="./icons/Elasticsearch-Light.svg" width="48"> |
 | `firebase` | <img src="./icons/Firebase.svg" width="48"> | <img src="./icons/Firebase-Dark.svg" width="48"> | <img src="./icons/Firebase-Light.svg" width="48"> |
+| `mariadb` | <img src="./icons/MariaDB.svg" width="48"> | <img src="./icons/MariaDB-Dark.svg" width="48"> | <img src="./icons/MariaDB-Light.svg" width="48"> |
 | `mongodb` | <img src="./icons/MongoDB.svg" width="48"> | <img src="./icons/MongoDB-Dark.svg" width="48"> | <img src="./icons/MongoDB-Light.svg" width="48"> |
 | `mysql` | <img src="./icons/MySQL.svg" width="48"> | <img src="./icons/MySQL-Dark.svg" width="48"> | <img src="./icons/MySQL-Light.svg" width="48"> |
 | `neon` | <img src="./icons/Neon.svg" width="48"> | <img src="./icons/Neon-Dark.svg" width="48"> | <img src="./icons/Neon-Light.svg" width="48"> |
