@@ -114,6 +114,7 @@ Aqui está uma lista de todos os ícones suportados atualmente. Sinta-se à vont
 | `alteryx` | <img src="./icons/Alteryx.svg" width="50"> | <img src="./icons/Alteryx-Dark.svg" width="50"> | <img src="./icons/Alteryx-Light.svg" width="50"> |
 | `chatgpt` | <img src="./icons/ChatGPT.svg" width="50"> | <img src="./icons/ChatGPT-Dark.svg" width="50"> | <img src="./icons/ChatGPT-Light.svg" width="50"> |
 | `copilot` | <img src="./icons/Copilot.svg" width="50"> | <img src="./icons/Copilot-Dark.svg" width="50"> | <img src="./icons/Copilot-Light.svg" width="50"> |
+| `deepseek` | <img src="./icons/DeepSeek.svg" width="50"> | <img src="./icons/DeepSeek-Dark.svg" width="50"> | <img src="./icons/DeepSeek-Light.svg" width="50"> |
 | `gemini` | <img src="./icons/Gemini.svg" width="50"> | <img src="./icons/Gemini-Dark.svg" width="50"> | <img src="./icons/Gemini-Light.svg" width="50"> |
 | `grafana` | <img src="./icons/Grafana.svg" width="50"> | <img src="./icons/Grafana-Dark.svg" width="50"> | <img src="./icons/Grafana-Light.svg" width="50"> |
 | `julia` | <img src="./icons/Julia.svg" width="50"> | <img src="./icons/Julia-Dark.svg" width="50"> | <img src="./icons/Julia-Light.svg" width="50"> |
